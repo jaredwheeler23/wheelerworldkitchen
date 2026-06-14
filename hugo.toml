@@ -1,0 +1,11 @@
+baseURL = "https://www.wheelerworldkitchen.com/"
+languageCode = "en-us"
+title = "Wheeler Recipes"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true

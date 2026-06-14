@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wheeler Recipes</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Wheeler Recipes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy Chili TEST Recipe</title>
+      <link>http://localhost:1313/posts/chili/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chili/</guid>
+      <description>&lt;h1 id=&#34;easy-chili-recipe&#34;&gt;Easy Chili Recipe&lt;/h1&gt;
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;beef&lt;/li&gt;
+&lt;li&gt;beans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Cook beef&lt;/li&gt;
+&lt;li&gt;Add ingredients&lt;/li&gt;
+&lt;li&gt;Simmer&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
