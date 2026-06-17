@@ -4,13 +4,13 @@
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
-  "name": "{{ .Title }}",
-  {{ if .Params.image }}"image": "{{ .Params.image }}",{{ end }}
-  "description": "{{ .Params.description | replaceRE "\"" "\\\"" }}",
-  "prepTime": "{{ .Params.prepTime }}",
-  "cookTime": "{{ .Params.cookTime }}",
-  "totalTime": "{{ .Params.totalTime }}",
-  "keywords": "{{ delimit .Params.tags ", " }}"
+  "name": {{ .Title | jsonify }},
+  {{ if .Params.image }}"image": {{ .Params.image | jsonify }},{{ end }}
+  "description": {{ .Params.description | jsonify }},
+  "prepTime": {{ .Params.prepTime | jsonify }},
+  "cookTime": {{ .Params.cookTime | jsonify }},
+  "totalTime": {{ .Params.totalTime | jsonify }},
+  "keywords": {{ .Params.tags | jsonify }}
 }
 </script>
 
