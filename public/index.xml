@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wheeler World Kitchen on </title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Wheeler World Kitchen on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African Chicken Peanut Stew</title>
-      <link>//localhost:1313/posts/african-chicken-peanut-stew/</link>
+      <link>/posts/african-chicken-peanut-stew/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/african-chicken-peanut-stew/</guid>
+      <guid>/posts/african-chicken-peanut-stew/</guid>
       <description>Simple Chicken Peanut Stew Recipe</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
+      <guid>/contact/</guid>
       <description>&lt;h2 id=&#34;contact-wheeler-world-kitchen&#34;&gt;Contact Wheeler World Kitchen&lt;/h2&gt;
 &lt;p&gt;Have a question, recipe idea, or feedback? I’d love to hear from you.&lt;/p&gt;
 &lt;ul&gt;
@@ -31,10 +31,19 @@
     </item>
     <item>
       <title>Easy Beef Chili</title>
-      <link>//localhost:1313/posts/test/</link>
+      <link>/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/test/</guid>
+      <guid>/posts/test/</guid>
       <description>Simple homemade beef chili</description>
+    </item>
+    <item>
+      <title>Recipes</title>
+      <link>/recipes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/recipes/</guid>
+      <description>&lt;h1 id=&#34;recipe-categories&#34;&gt;Recipe Categories&lt;/h1&gt;
+&lt;p&gt;Choose a recipe category or tag below to view all recipes in that group.&lt;/p&gt;
+&lt;p&gt;This page is powered by your recipe metadata: add &lt;code&gt;categories&lt;/code&gt; and &lt;code&gt;tags&lt;/code&gt; to each recipe&amp;rsquo;s front matter and Hugo will automatically generate category and tag pages.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>American on </title>
-    <link>//localhost:1313/categories/american/</link>
+    <link>/categories/american/</link>
     <description>Recent content in American on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/categories/american/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/american/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Beef Chili</title>
-      <link>//localhost:1313/posts/test/</link>
+      <link>/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/test/</guid>
+      <guid>/posts/test/</guid>
       <description>Simple homemade beef chili</description>
     </item>
   </channel>

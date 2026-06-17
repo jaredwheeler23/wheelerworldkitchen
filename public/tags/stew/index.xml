@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stew on </title>
-    <link>//localhost:1313/tags/stew/</link>
+    <link>/tags/stew/</link>
     <description>Recent content in Stew on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/tags/stew/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/stew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African Chicken Peanut Stew</title>
-      <link>//localhost:1313/posts/african-chicken-peanut-stew/</link>
+      <link>/posts/african-chicken-peanut-stew/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/african-chicken-peanut-stew/</guid>
+      <guid>/posts/african-chicken-peanut-stew/</guid>
       <description>Simple Chicken Peanut Stew Recipe</description>
     </item>
   </channel>
