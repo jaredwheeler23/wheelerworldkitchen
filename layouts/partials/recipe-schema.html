@@ -1,12 +1,12 @@
-{{ if eq .Section "recipes" }}
+{{ if or (eq .Section "posts") (eq .Section "recipes") }}
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "{{ .Title }}",
-  "image": "{{ .Params.image }}",
-  "description": "{{ .Params.description }}",
+  {{ if .Params.image }}"image": "{{ .Params.image }}",{{ end }}
+  "description": "{{ .Params.description | replaceRE "\"" "\\\"" }}",
   "prepTime": "{{ .Params.prepTime }}",
   "cookTime": "{{ .Params.cookTime }}",
   "totalTime": "{{ .Params.totalTime }}",
