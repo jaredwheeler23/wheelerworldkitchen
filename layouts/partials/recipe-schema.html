@@ -1,17 +1,37 @@
 {{ if or (eq .Section "posts") (eq .Section "recipes") }}
 
+{{ $recipe := dict
+  "@context" "https://schema.org/"
+  "@type" "Recipe"
+  "name" .Title
+}}
+
+{{ if .Params.image }}
+  {{ $recipe = merge $recipe (dict "image" .Params.image) }}
+{{ end }}
+
+{{ if .Params.description }}
+  {{ $recipe = merge $recipe (dict "description" .Params.description) }}
+{{ end }}
+
+{{ if .Params.prepTime }}
+  {{ $recipe = merge $recipe (dict "prepTime" .Params.prepTime) }}
+{{ end }}
+
+{{ if .Params.cookTime }}
+  {{ $recipe = merge $recipe (dict "cookTime" .Params.cookTime) }}
+{{ end }}
+
+{{ if .Params.totalTime }}
+  {{ $recipe = merge $recipe (dict "totalTime" .Params.totalTime) }}
+{{ end }}
+
+{{ if .Params.tags }}
+  {{ $recipe = merge $recipe (dict "keywords" .Params.tags) }}
+{{ end }}
+
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Recipe",
-  "name": {{ .Title | jsonify }},
-  {{ if .Params.image }}"image": {{ .Params.image | jsonify }},{{ end }}
-  "description": {{ .Params.description | jsonify }},
-  "prepTime": {{ .Params.prepTime | jsonify }},
-  "cookTime": {{ .Params.cookTime | jsonify }},
-  "totalTime": {{ .Params.totalTime | jsonify }},
-  "keywords": {{ .Params.tags | jsonify }}
-}
+{{ $recipe | jsonify }}
 </script>
 
 {{ end }}
