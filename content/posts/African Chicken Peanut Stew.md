@@ -1,7 +1,7 @@
 ---
 title: "African Chicken Peanut Stew"
 description: "Simple Chicken Peanut Stew Recipe"
-image: "/images/Chicken_peanut_stew.jpg"
+# image: "/images/Chicken_peanut_stew.jpg"
 categories: ["Other"]
 tags: ["stew", "peanut"]
 prepTime: "PT30M"

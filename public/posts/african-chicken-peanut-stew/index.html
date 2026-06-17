@@ -163,7 +163,10 @@
 chicken from pot and set aside.</p>
 </li>
 <li>
-<p>In same pot, with more oil now, cook on medium heat green onions, onion, and bell peppers until tender.  Then add garlic, ginger and chili powder.  Cook, stirring constantly for 1-2 minutes.  Add tomatoes, thyme, red pepper flakes, peanut butter, partly cooked chicken, and water.  Stir well until the peanut butter is evenly mixed.</p>
+<p>In same pot, with more oil now, cook on medium heat green onions, onion, and bell peppers until tender.  Then add garlic, ginger and chili powder.  Cook, stirring constantly for 1-2 minutes.</p>
+</li>
+<li>
+<p>Add tomatoes, thyme, red pepper flakes, peanut butter, partly cooked chicken, and water.  Stir well until the peanut butter is evenly mixed.</p>
 </li>
 <li>
 <p>Bring to a simmer and reduce to low heat.  Let simmer for 30-40 minutes.  Be very careful to not use too high of a heat setting or the peanut butter will burn to the bottom of the pan.</p>
@@ -217,34 +220,34 @@ chicken from pot and set aside.</p>
 </a>
 
 <script>
-    let menu = document.getElementById('menu');
+    var menu = document.getElementById('menu');
     if (menu) {
         
-        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        var scrollPosition = localStorage.getItem("menu-scroll-position");
         if (scrollPosition) {
             menu.scrollLeft = parseInt(scrollPosition, 10);
         }
         
         menu.onscroll = function () {
             localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
+        };
     }
 
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    Array.prototype.forEach.call(document.querySelectorAll('a[href^="#"]'), function(anchor) {
         anchor.addEventListener("click", function (e) {
             e.preventDefault();
             var id = this.getAttribute("href").substr(1);
             if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                document.querySelector("[id='" + decodeURIComponent(id) + "']").scrollIntoView({
                     behavior: "smooth"
                 });
             } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+                document.querySelector("[id='" + decodeURIComponent(id) + "']").scrollIntoView();
             }
             if (id === "top") {
                 history.replaceState(null, null, " ");
             } else {
-                history.pushState(null, null, `#${id}`);
+                history.pushState(null, null, "#" + id);
             }
         });
     });
@@ -253,7 +256,7 @@ chicken from pot and set aside.</p>
 <script>
     var toplink = document.getElementById("top-link");
     window.onscroll = function () {
-        const scrollThreshold = window.innerHeight;
+        var scrollThreshold = window.innerHeight;
         if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
             toplink.classList.remove("hidden");
         } else {
@@ -263,8 +266,8 @@ chicken from pot and set aside.</p>
 
 </script>
 <script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
+    document.getElementById("theme-toggle").addEventListener("click", function() {
+        var html = document.querySelector("html");
         if (html.dataset.theme === "dark") {
             html.dataset.theme = 'light';
             localStorage.setItem("pref-theme", 'light');
@@ -272,7 +275,7 @@ chicken from pot and set aside.</p>
             html.dataset.theme = 'dark';
             localStorage.setItem("pref-theme", 'dark');
         }
-    })
+    });
 
 </script>
 </body>

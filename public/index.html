@@ -195,34 +195,34 @@
 </a>
 
 <script>
-    let menu = document.getElementById('menu');
+    var menu = document.getElementById('menu');
     if (menu) {
         
-        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        var scrollPosition = localStorage.getItem("menu-scroll-position");
         if (scrollPosition) {
             menu.scrollLeft = parseInt(scrollPosition, 10);
         }
         
         menu.onscroll = function () {
             localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
+        };
     }
 
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    Array.prototype.forEach.call(document.querySelectorAll('a[href^="#"]'), function(anchor) {
         anchor.addEventListener("click", function (e) {
             e.preventDefault();
             var id = this.getAttribute("href").substr(1);
             if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                document.querySelector("[id='" + decodeURIComponent(id) + "']").scrollIntoView({
                     behavior: "smooth"
                 });
             } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+                document.querySelector("[id='" + decodeURIComponent(id) + "']").scrollIntoView();
             }
             if (id === "top") {
                 history.replaceState(null, null, " ");
             } else {
-                history.pushState(null, null, `#${id}`);
+                history.pushState(null, null, "#" + id);
             }
         });
     });
@@ -231,7 +231,7 @@
 <script>
     var toplink = document.getElementById("top-link");
     window.onscroll = function () {
-        const scrollThreshold = window.innerHeight;
+        var scrollThreshold = window.innerHeight;
         if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
             toplink.classList.remove("hidden");
         } else {
@@ -241,8 +241,8 @@
 
 </script>
 <script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        const html = document.querySelector("html");
+    document.getElementById("theme-toggle").addEventListener("click", function() {
+        var html = document.querySelector("html");
         if (html.dataset.theme === "dark") {
             html.dataset.theme = 'light';
             localStorage.setItem("pref-theme", 'light');
@@ -250,7 +250,7 @@
             html.dataset.theme = 'dark';
             localStorage.setItem("pref-theme", 'dark');
         }
-    })
+    });
 
 </script>
 </body>
