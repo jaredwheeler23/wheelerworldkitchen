@@ -1,30 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Wheeler Recipes</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Wheeler Recipes</description>
+    <title>Wheeler World Kitchen on </title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Wheeler World Kitchen on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Easy Chili TEST Recipe</title>
-      <link>http://localhost:1313/posts/chili/</link>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chili/</guid>
-      <description>&lt;h1 id=&#34;easy-chili-recipe&#34;&gt;Easy Chili Recipe&lt;/h1&gt;
-&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+      <title>African Chicken Peanut Stew</title>
+      <link>//localhost:1313/posts/african-chicken-peanut-stew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/african-chicken-peanut-stew/</guid>
+      <description>Simple Chicken Peanut Stew Recipe</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;contact-wheeler-world-kitchen&#34;&gt;Contact Wheeler World Kitchen&lt;/h2&gt;
+&lt;p&gt;Have a question, recipe idea, or feedback? I’d love to hear from you.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;beef&lt;/li&gt;
-&lt;li&gt;beans&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:info@wheelerworldkitchen.com&#34;&gt;info@wheelerworldkitchen.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; (555) 123-4567&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Your hometown, USA&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;instructions&#34;&gt;Instructions&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Cook beef&lt;/li&gt;
-&lt;li&gt;Add ingredients&lt;/li&gt;
-&lt;li&gt;Simmer&lt;/li&gt;
-&lt;/ol&gt;</description>
+&lt;h3 id=&#34;send-a-message&#34;&gt;Send a message&lt;/h3&gt;
+&lt;p&gt;Use this page to add your favorite contact details, a contact form embed, or social links. Replace the text above with the real information you want visitors to see.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Easy Beef Chili</title>
+      <link>//localhost:1313/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/test/</guid>
+      <description>Simple homemade beef chili</description>
     </item>
   </channel>
 </rss>

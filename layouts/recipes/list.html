@@ -1,0 +1,89 @@
+{{ define "main" }}
+
+<h1>Recipes</h1>
+<p>Tap a recipe type below to filter recipes instantly on this page.</p>
+
+{{ if .Site.Taxonomies.categories }}
+<div class="recipe-filter-row">
+  <button class="recipe-pill active" type="button" data-category="All">All</button>
+  {{- range $name, $tax := .Site.Taxonomies.categories -}}
+  <button class="recipe-pill" type="button" data-category="{{ $name }}">
+    {{ $name }} <span class="recipe-pill-count">({{ len $tax }})</span>
+  </button>
+  {{- end -}}
+</div>
+{{ else }}
+<p>No categories are configured yet. Add `categories` metadata to your recipes.</p>
+{{ end }}
+
+{{ $recipes := where .Site.RegularPages "Section" "posts" }}
+
+{{ if $recipes }}
+<div class="recipe-card-grid">
+  {{- range $recipes -}}
+  <article class="recipe-card" data-categories="{{ delimit .Params.categories "|" }}" data-tags="{{ delimit .Params.tags "|" }}">
+    <a class="recipe-card-link" href="{{ .RelPermalink }}">
+      {{ with .Params.image }}
+      <div class="recipe-card-image">
+        <img src="{{ . }}" alt="{{ $.Title }}">
+      </div>
+      {{ end }}
+      <div class="recipe-card-body">
+        <h2 class="recipe-card-title">{{ .Title }}</h2>
+        {{ if .Params.description }}
+        <p class="recipe-card-copy">{{ .Params.description }}</p>
+        {{ else }}
+        <p class="recipe-card-copy">{{ .Summary | plainify | truncate 140 }}</p>
+        {{ end }}
+        <div class="recipe-card-meta">
+          {{ with .Params.categories }}
+          <span class="recipe-card-pill">{{ delimit . ", " }}</span>
+          {{ end }}
+          {{ with .Params.tags }}
+          <span class="recipe-card-pill">{{ delimit . ", " }}</span>
+          {{ end }}
+        </div>
+      </div>
+    </a>
+  </article>
+  {{- end -}}
+</div>
+{{ else }}
+<p>No recipes found yet. Add recipe posts under <code>content/posts/</code> with categories.</p>
+{{ end }}
+
+<div class="recipe-no-results" style="display:none;">No recipes match this category yet.</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const pills = document.querySelectorAll(".recipe-pill");
+    const cards = document.querySelectorAll(".recipe-card");
+    const none = document.querySelector(".recipe-no-results");
+
+    function filterCategory(category) {
+      const normalizedCategory = category.toLowerCase();
+      let shown = 0;
+      cards.forEach(card => {
+        const categories = (card.dataset.categories || "").split("|").map(c => c.trim().toLowerCase()).filter(Boolean);
+        const match = normalizedCategory === "all" || categories.includes(normalizedCategory);
+        card.style.display = match ? "flex" : "none";
+        if (match) shown++;
+      });
+      if (none) {
+        none.style.display = shown === 0 ? "block" : "none";
+      }
+    }
+
+    pills.forEach(pill => pill.addEventListener("click", function() {
+      pills.forEach(p => p.classList.remove("active"));
+      this.classList.add("active");
+      filterCategory(this.dataset.category);
+    }));
+
+    if (pills.length) {
+      filterCategory("All");
+    }
+  });
+</script>
+
+{{ end }}

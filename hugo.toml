@@ -1,11 +1,26 @@
-baseURL = "https://www.wheelerworldkitchen.com/"
-languageCode = "en-us"
-title = "Wheeler Recipes"
 theme = "PaperMod"
 
-enableRobotsTXT = true
+[menu]
 
-[params]
-ShowReadingTime = true
-ShowShareButtons = true
-ShowPostNavLinks = true
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Our Story"
+url = "/story/"
+weight = 2
+
+[[menu.main]]
+name = "Recipes"
+url = "/recipes/"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 4
+
+[markup.goldmark.renderer]
+unsafe = true
