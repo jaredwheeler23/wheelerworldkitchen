@@ -67,5 +67,5 @@ chicken from pot and set aside.
 Notes:
 1. For peanut allergies, sunflower or almond spread works just as well.  Just add a touch of raw sugar and salt to adjust the flavors.
 
-2. I use ½ jar of peanut butter and it makes the recipe a bit thicker.  For more liquid texture, use no more than ¼ jar (maybe less).
+2. I use ½ jar of peanut butter and it makes the recipe a bit thicker.  For more liquid texture, use no more than 0.25 jar (maybe less).
 
