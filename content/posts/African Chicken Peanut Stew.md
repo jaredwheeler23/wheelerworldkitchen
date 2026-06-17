@@ -39,9 +39,9 @@ draft: false
 
 -         1 tsp thyme (fresh or dried)
 
--         ½-1 tsp red pepper flakes
+-         0.5-1 tsp red pepper flakes
 
--         ¼- ½ jar peanut butter (see notes)
+-         0.25-0.5 jar peanut butter (see notes)
 
 -         1.25 cups water or broth
 
