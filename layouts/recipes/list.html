@@ -56,29 +56,31 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    const pills = document.querySelectorAll(".recipe-pill");
-    const cards = document.querySelectorAll(".recipe-card");
-    const none = document.querySelector(".recipe-no-results");
+    var pills = document.querySelectorAll(".recipe-pill");
+    var cards = document.querySelectorAll(".recipe-card");
+    var none = document.querySelector(".recipe-no-results");
 
     function filterCategory(category) {
-      const normalizedCategory = category.toLowerCase();
-      let shown = 0;
-      cards.forEach(card => {
-        const categories = (card.dataset.categories || "").split("|").map(c => c.trim().toLowerCase()).filter(Boolean);
-        const match = normalizedCategory === "all" || categories.includes(normalizedCategory);
+      var normalizedCategory = category.toLowerCase();
+      var shown = 0;
+      Array.prototype.forEach.call(cards, function(card) {
+        var categories = (card.dataset.categories || "").split("|").map(function(c) { return c.trim().toLowerCase(); }).filter(Boolean);
+        var match = normalizedCategory === "all" || categories.indexOf(normalizedCategory) !== -1;
         card.style.display = match ? "flex" : "none";
-        if (match) shown++;
+        if (match) { shown++; }
       });
       if (none) {
         none.style.display = shown === 0 ? "block" : "none";
       }
     }
 
-    pills.forEach(pill => pill.addEventListener("click", function() {
-      pills.forEach(p => p.classList.remove("active"));
-      this.classList.add("active");
-      filterCategory(this.dataset.category);
-    }));
+    Array.prototype.forEach.call(pills, function(pill) {
+      pill.addEventListener("click", function() {
+        Array.prototype.forEach.call(pills, function(p) { p.classList.remove("active"); });
+        this.classList.add("active");
+        filterCategory(this.dataset.category);
+      });
+    });
 
     if (pills.length) {
       filterCategory("All");
