@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<article class="recipe">
+
+  <h1>{{ .Title }}</h1>
+
+  {{ if .Params.image }}
+    <img src="{{ .Params.image }}" alt="{{ .Title }}" style="max-width:100%; border-radius:12px;">
+  {{ end }}
+
+  <p><em>{{ .Description }}</em></p>
+
+  <hr>
+
+  <h2>Ingredients</h2>
+  {{ .Content | safeHTML }}
+
+</article>
+
+{{ partial "recipe-schema.html" . }}
+
+{{ end }}
