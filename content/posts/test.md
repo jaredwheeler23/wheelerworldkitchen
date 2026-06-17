@@ -1,7 +1,7 @@
 ---
 title: "Easy Beef Chili"
 description: "Simple homemade beef chili"
-image: "/images/chili.jpg"
+# image: "/images/chili.jpg"
 categories: ["American"]
 tags: ["chili", "beef"]
 prepTime: "PT10M"
@@ -15,7 +15,6 @@ totalTime: "PT70M"
 - beef
 - beans
 - love
-- 
 - test test test
 
 ## Instructions
