@@ -13,39 +13,39 @@ draft: false
 # African Chicken Peanut Stew
 
 ## Ingredients
-·         2 lbs chicken breasts (or thighs), cut into 1 inch cubes
+-         2 lbs chicken breasts (or thighs), cut into 1 inch cubes
 
-·         1 lemon for juice
+-         1 lemon for juice
 
-·         Tsp salt
+-         Tsp salt
 
-·         1Tbl vegetable oil
+-         1Tbl vegetable oil
 
-·         1 tbl oil
+-         1 tbl oil
 
-·         3 bunches green onion, white part only, sliced
+-         3 bunches green onion, white part only, sliced
 
-·         1 medium onion, diced
+-         1 medium onion, diced
 
-·         2 large bell peppers, diced
+-         2 large bell peppers, diced
 
-·         3 large cloves garlic, minced
+-         3 large cloves garlic, minced
 
-·         1.5 in. piece ginger, minced
+-         1.5 in. piece ginger, minced
 
-·         1 tbl chili powder
+-         1 tbl chili powder
 
-·         2 cups chopped garden tomato
+-         2 cups chopped garden tomato
 
-·         1 tsp thyme (fresh or dried)
+-         1 tsp thyme (fresh or dried)
 
-·         ½-1 tsp red pepper flakes
+-         ½-1 tsp red pepper flakes
 
-·         ¼- ½ jar peanut butter (see notes)
+-         ¼- ½ jar peanut butter (see notes)
 
-·         1.25 cups water or broth
+-         1.25 cups water or broth
 
-·         1.5 cups of jasmine rice
+-         1.5 cups of jasmine rice
 
 
 ## Instructions
