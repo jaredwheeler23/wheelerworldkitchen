@@ -2,6 +2,7 @@ body {
     background-image: url("https://wheelerworldkitchen.com/images/kitchen-bg.jpg");
     background-size: cover;
     background-attachment: fixed;
+    color: #1f2937 !important;
 }
 
 /* White content container for all pages */
@@ -12,35 +13,68 @@ article {
     padding: 2rem;
     border-radius: 12px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    color: #1f2937 !important;
+}
+
+/* Ensure all text elements have proper color */
+body, p, span, div, li, td, th, a, label, input, textarea, select {
+    color: #1f2937 !important;
+}
+
+/* Override any theme opacity/transparency */
+.main *, main *, article * {
+    opacity: 1 !important;
 }
 
 /* Ensure header and footer have proper styling */
 header.header {
-    background-color: white;
+    background-color: white !important;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     margin-bottom: 1.5rem;
 }
 
+header.header * {
+    color: #1f2937 !important;
+}
+
 footer.footer {
-    background-color: white;
+    background-color: white !important;
     border-radius: 8px;
     margin-top: 1.5rem;
     padding: 1.5rem;
 }
 
+footer.footer * {
+    color: #6b7280 !important;
+}
+
 /* Improve typography */
 .post-content,
 .post-single .post-content,
-article p {
+article p,
+p {
     font-size: 18px;
     line-height: 1.7;
+    color: #374151 !important;
+}
+
+/* Strong text color */
+strong, b {
+    color: #111827 !important;
+    font-weight: 700;
+}
+
+/* Emphasis text */
+em, i {
+    color: #374151 !important;
 }
 
 /* Style headings for better visual hierarchy */
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
     margin-top: 1.5em;
     margin-bottom: 0.75em;
+    color: #111827 !important;
 }
 
 h1 {
@@ -69,16 +103,18 @@ hr {
 
 /* Links styling */
 a {
-    color: #2563eb;
+    color: #2563eb !important;
     transition: color 0.2s ease;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #1d4ed8;
+    color: #1d4ed8 !important;
+    text-decoration: underline;
 }
 
 /* List styling */
-ul {
+ul, ol {
     margin: 1rem 0;
     padding-left: 1.5rem;
 }
@@ -86,6 +122,11 @@ ul {
 li {
     margin: 0.5rem 0;
     line-height: 1.7;
+    color: #374151 !important;
+}
+
+ul li::marker, ol li::marker {
+    color: #6b7280 !important;
 }
 
 /* Recipe cards on home page - enhance hover effect */
