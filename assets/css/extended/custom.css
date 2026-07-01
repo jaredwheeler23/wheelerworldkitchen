@@ -1,5 +1,5 @@
 body {
-    background-image: url("/images/kitchen-bg.jpg");
+    background-image: url("https://wheelerworldkitchen.com/images/kitchen-bg.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
