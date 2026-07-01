@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<article>
+  {{ .Content }}
+
+  {{ $recentPosts := where site.RegularPages "Type" "in" (slice "posts" "recipes") }}
+  {{ $recentPosts = $recentPosts | first 6 }}
+  
+  {{ if $recentPosts }}
+  <div style="margin-top: 3rem;">
+    <h2>Recent Recipes</h2>
+    <div style="display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); margin-top: 1.5rem;">
+      {{ range $recentPosts }}
+      <div style="background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 12px; overflow: hidden; transition: transform 0.2s ease, box-shadow 0.2s ease;">
+        <a href="{{ .RelPermalink }}" style="color: inherit; text-decoration: none; display: block;">
+          {{ if .Params.image }}
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; height: 200px; object-fit: cover;">
+          {{ end }}
+          <div style="padding: 1.25rem;">
+            <h3 style="margin-top: 0; margin-bottom: 0.5rem; font-size: 1.25rem;">{{ .Title }}</h3>
+            {{ if .Description }}
+            <p style="margin: 0; color: #6b7280; font-size: 0.95rem;">{{ .Description }}</p>
+            {{ end }}
+          </div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+</article>
+
+{{ end }}

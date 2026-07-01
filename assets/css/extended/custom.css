@@ -4,15 +4,100 @@ body {
     background-attachment: fixed;
 }
 
-.main {
-    background-color: white;
-    padding: 20px;
+/* White content container for all pages */
+.main,
+main,
+article {
+    background-color: white !important;
+    padding: 2rem;
     border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.post-content {
+/* Ensure header and footer have proper styling */
+header.header {
+    background-color: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+}
+
+footer.footer {
+    background-color: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+    margin-top: 1.5rem;
+    padding: 1.5rem;
+}
+
+/* Improve typography */
+.post-content,
+.post-single .post-content,
+article p {
     font-size: 18px;
     line-height: 1.7;
+}
+
+/* Style headings for better visual hierarchy */
+h1, h2, h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.75em;
+}
+
+h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 0.5rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+/* Horizontal rule styling */
+hr {
+    border: none;
+    border-top: 2px solid #e5e7eb;
+    margin: 2rem 0;
+}
+
+/* Links styling */
+a {
+    color: #2563eb;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #1d4ed8;
+}
+
+/* List styling */
+ul {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+}
+
+li {
+    margin: 0.5rem 0;
+    line-height: 1.7;
+}
+
+/* Recipe cards on home page - enhance hover effect */
+article a[href] > div {
+    transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+article a[href]:hover > div {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12) !important;
 }
 
 .recipe-filter-row {
