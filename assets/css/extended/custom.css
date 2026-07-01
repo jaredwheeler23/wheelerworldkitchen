@@ -119,21 +119,49 @@ article a[href]:hover > div {
 .recipe-pill {
     flex: 0 0 auto;
     scroll-snap-align: start;
-    border: 1px solid var(--border);
+    border: 2px solid #e5e7eb;
     border-radius: 999px;
-    background: var(--entry);
-    color: var(--primary);
-    padding: 0.7rem 1rem;
+    background: white;
+    color: #374151;
+    padding: 0.7rem 1.2rem;
     font-weight: 600;
-    transition: transform 0.2s ease, background 0.2s ease, color 0.2s ease;
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
     cursor: pointer;
 }
 
-.recipe-pill:hover,
+.recipe-pill:hover {
+    background: #f3f4f6;
+    border-color: #2563eb;
+    color: #2563eb;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
+}
+
 .recipe-pill.active {
-    background: var(--primary);
-    color: var(--theme);
-    transform: translateY(-1px);
+    background: #2563eb;
+    border-color: #2563eb;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25);
+}
+
+/* Tag pills - distinct styling */
+.recipe-tag-pill {
+    border-color: #fce7f3;
+    background: #fef2f2;
+}
+
+.recipe-tag-pill:hover {
+    background: #fce7f3;
+    border-color: #be123c;
+    color: #be123c;
+}
+
+.recipe-tag-pill.active {
+    background: #be123c;
+    border-color: #be123c;
+    color: white;
 }
 
 .recipe-pill-count {

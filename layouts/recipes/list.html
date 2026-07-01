@@ -2,25 +2,34 @@
 
 <article>
   <h1>All Recipes</h1>
-  <p>Browse all our delicious recipes below. Tap a category to filter recipes instantly.</p>
+  <p>Browse all our delicious recipes below. Filter by cuisine type or specific tags to find exactly what you're looking for!</p>
 
-  {{ if .Site.Taxonomies.categories }}
-  <div class="recipe-filter-row">
-    <button class="recipe-pill active" type="button" data-category="All">All <span class="recipe-pill-count">({{ len (where .Site.RegularPages "Section" "in" (slice "posts" "recipes")) }})</span></button>
-    {{- range $name, $tax := .Site.Taxonomies.categories -}}
-    <button class="recipe-pill" type="button" data-category="{{ $name }}">
-      {{ $name }} <span class="recipe-pill-count">({{ len $tax }})</span>
-    </button>
-    {{- end -}}
+  <!-- Category Filter Pills (Cuisine Types) -->
+  <div style="margin: 2rem 0;">
+    <h2 style="font-size: 1.25rem; margin-bottom: 1rem;">Filter by Cuisine</h2>
+    {{ if .Site.Taxonomies.categories }}
+    <div class="recipe-filter-row">
+      <button class="recipe-pill active" type="button" data-filter-type="category" data-filter-value="all">
+        All <span class="recipe-pill-count">({{ len (where .Site.RegularPages "Section" "in" (slice "posts" "recipes")) }})</span>
+      </button>
+      {{- range $name, $tax := .Site.Taxonomies.categories -}}
+      <button class="recipe-pill" type="button" data-filter-type="category" data-filter-value="{{ $name }}">
+        {{ title $name }} <span class="recipe-pill-count">({{ len $tax }})</span>
+      </button>
+      {{- end -}}
+    </div>
+    {{ end }}
   </div>
-  {{ end }}
 
+  <!-- Recipe Cards Grid -->
   {{ $recipes := where .Site.RegularPages "Section" "in" (slice "posts" "recipes") }}
 
   {{ if $recipes }}
   <div class="recipe-card-grid">
     {{- range $recipes -}}
-    <article class="recipe-card" data-categories="{{ delimit .Params.categories "|" }}" data-tags="{{ delimit .Params.tags "|" }}">
+    <article class="recipe-card" 
+             data-categories="{{ delimit .Params.categories "|" | lower }}" 
+             data-tags="{{ delimit .Params.tags "|" | lower }}">
       <a class="recipe-card-link" href="{{ .RelPermalink }}">
         {{ with .Params.image }}
         <div class="recipe-card-image">
@@ -36,10 +45,14 @@
           {{ end }}
           <div class="recipe-card-meta">
             {{ with .Params.categories }}
-            <span class="recipe-card-pill">{{ delimit . ", " }}</span>
+            <span class="recipe-card-pill" style="background: #dbeafe; color: #1e40af;">
+              {{ delimit . ", " }}
+            </span>
             {{ end }}
             {{ with .Params.tags }}
-            <span class="recipe-card-pill">{{ delimit . ", " }}</span>
+            <span class="recipe-card-pill" style="background: #fce7f3; color: #9f1239;">
+              {{ delimit . ", " }}
+            </span>
             {{ end }}
           </div>
         </div>
@@ -51,41 +64,130 @@
   <p>No recipes found yet. Add recipe posts under <code>content/posts/</code> or <code>content/recipes/</code>.</p>
   {{ end }}
 
-  <div class="recipe-no-results" style="display:none;">No recipes match this category yet.</div>
+  <div class="recipe-no-results" style="display:none; margin-top: 2rem; padding: 2rem; background: #f9fafb; border-radius: 12px; text-align: center;">
+    <p style="margin: 0; font-size: 1.1rem; color: #6b7280;">No recipes match your selected filters.</p>
+    <button id="clear-filters" style="margin-top: 1rem; padding: 0.5rem 1rem; background: #2563eb; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600;">Clear Filters</button>
+  </div>
+
+  <!-- Tag Filter Section -->
+  {{ if .Site.Taxonomies.tags }}
+  <div style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
+    <h2 style="font-size: 1.25rem; margin-bottom: 1rem;">Filter by Tag</h2>
+    <p style="color: #6b7280; margin-bottom: 1rem;">Select one or more tags to find recipes with specific ingredients or characteristics.</p>
+    <div class="recipe-filter-row">
+      {{- range $name, $tax := .Site.Taxonomies.tags -}}
+      <button class="recipe-pill recipe-tag-pill" type="button" data-filter-type="tag" data-filter-value="{{ $name }}">
+        {{ title $name }} <span class="recipe-pill-count">({{ len $tax }})</span>
+      </button>
+      {{- end -}}
+    </div>
+  </div>
+  {{ end }}
 
 </article>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    var pills = document.querySelectorAll(".recipe-pill");
+    var categoryButtons = document.querySelectorAll('[data-filter-type="category"]');
+    var tagButtons = document.querySelectorAll('[data-filter-type="tag"]');
     var cards = document.querySelectorAll(".recipe-card");
-    var none = document.querySelector(".recipe-no-results");
+    var noResultsDiv = document.querySelector(".recipe-no-results");
+    var clearFiltersBtn = document.getElementById("clear-filters");
 
-    function filterCategory(category) {
-      var normalizedCategory = category.toLowerCase();
+    var activeCategory = "all";
+    var activeTags = [];
+
+    function filterRecipes() {
       var shown = 0;
+      
       Array.prototype.forEach.call(cards, function(card) {
-        var categories = (card.dataset.categories || "").split("|").map(function(c) { return c.trim().toLowerCase(); }).filter(Boolean);
-        var match = normalizedCategory === "all" || categories.indexOf(normalizedCategory) !== -1;
-        card.style.display = match ? "flex" : "none";
-        if (match) { shown++; }
+        var categories = (card.dataset.categories || "").split("|").map(function(c) { 
+          return c.trim().toLowerCase(); 
+        }).filter(Boolean);
+        
+        var tags = (card.dataset.tags || "").split("|").map(function(t) { 
+          return t.trim().toLowerCase(); 
+        }).filter(Boolean);
+
+        // Check category match
+        var categoryMatch = activeCategory === "all" || categories.indexOf(activeCategory.toLowerCase()) !== -1;
+        
+        // Check tags match (must match ALL selected tags)
+        var tagsMatch = activeTags.length === 0 || activeTags.every(function(activeTag) {
+          return tags.indexOf(activeTag.toLowerCase()) !== -1;
+        });
+
+        var shouldShow = categoryMatch && tagsMatch;
+        card.style.display = shouldShow ? "flex" : "none";
+        if (shouldShow) { shown++; }
       });
-      if (none) {
-        none.style.display = shown === 0 ? "block" : "none";
+
+      if (noResultsDiv) {
+        noResultsDiv.style.display = shown === 0 ? "block" : "none";
       }
     }
 
-    Array.prototype.forEach.call(pills, function(pill) {
-      pill.addEventListener("click", function() {
-        Array.prototype.forEach.call(pills, function(p) { p.classList.remove("active"); });
+    // Category button handlers
+    Array.prototype.forEach.call(categoryButtons, function(button) {
+      button.addEventListener("click", function() {
+        // Remove active from all category buttons
+        Array.prototype.forEach.call(categoryButtons, function(btn) { 
+          btn.classList.remove("active"); 
+        });
+        
+        // Set this button as active
         this.classList.add("active");
-        filterCategory(this.dataset.category);
+        activeCategory = this.dataset.filterValue;
+        
+        filterRecipes();
       });
     });
 
-    if (pills.length) {
-      filterCategory("All");
+    // Tag button handlers (multi-select)
+    Array.prototype.forEach.call(tagButtons, function(button) {
+      button.addEventListener("click", function() {
+        var tagValue = this.dataset.filterValue;
+        var index = activeTags.indexOf(tagValue);
+        
+        if (index === -1) {
+          // Add tag
+          activeTags.push(tagValue);
+          this.classList.add("active");
+        } else {
+          // Remove tag
+          activeTags.splice(index, 1);
+          this.classList.remove("active");
+        }
+        
+        filterRecipes();
+      });
+    });
+
+    // Clear filters button
+    if (clearFiltersBtn) {
+      clearFiltersBtn.addEventListener("click", function() {
+        // Reset category to "All"
+        Array.prototype.forEach.call(categoryButtons, function(btn) {
+          if (btn.dataset.filterValue === "all") {
+            btn.classList.add("active");
+          } else {
+            btn.classList.remove("active");
+          }
+        });
+        activeCategory = "all";
+        
+        // Clear all tags
+        Array.prototype.forEach.call(tagButtons, function(btn) {
+          btn.classList.remove("active");
+        });
+        activeTags = [];
+        
+        filterRecipes();
+      });
     }
+
+    // Initial filter
+    filterRecipes();
   });
 </script>
 
