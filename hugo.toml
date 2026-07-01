@@ -1,3 +1,6 @@
+baseURL = "https://jaredwheeler23.github.io/wheelerworldkitchen/"
+languageCode = "en-us"
+title = "Wheeler World Kitchen"
 theme = "PaperMod"
 
 [menu]
