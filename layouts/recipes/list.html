@@ -1,58 +1,59 @@
 {{ define "main" }}
 
-<h1>Recipes</h1>
-<p>Tap a recipe type below to filter recipes instantly on this page.</p>
+<article>
+  <h1>All Recipes</h1>
+  <p>Browse all our delicious recipes below. Tap a category to filter recipes instantly.</p>
 
-{{ if .Site.Taxonomies.categories }}
-<div class="recipe-filter-row">
-  <button class="recipe-pill active" type="button" data-category="All">All</button>
-  {{- range $name, $tax := .Site.Taxonomies.categories -}}
-  <button class="recipe-pill" type="button" data-category="{{ $name }}">
-    {{ $name }} <span class="recipe-pill-count">({{ len $tax }})</span>
-  </button>
-  {{- end -}}
-</div>
-{{ else }}
-<p>No categories are configured yet. Add `categories` metadata to your recipes.</p>
-{{ end }}
+  {{ if .Site.Taxonomies.categories }}
+  <div class="recipe-filter-row">
+    <button class="recipe-pill active" type="button" data-category="All">All <span class="recipe-pill-count">({{ len (where .Site.RegularPages "Section" "in" (slice "posts" "recipes")) }})</span></button>
+    {{- range $name, $tax := .Site.Taxonomies.categories -}}
+    <button class="recipe-pill" type="button" data-category="{{ $name }}">
+      {{ $name }} <span class="recipe-pill-count">({{ len $tax }})</span>
+    </button>
+    {{- end -}}
+  </div>
+  {{ end }}
 
-{{ $recipes := where .Site.RegularPages "Section" "posts" }}
+  {{ $recipes := where .Site.RegularPages "Section" "in" (slice "posts" "recipes") }}
 
-{{ if $recipes }}
-<div class="recipe-card-grid">
-  {{- range $recipes -}}
-  <article class="recipe-card" data-categories="{{ delimit .Params.categories "|" }}" data-tags="{{ delimit .Params.tags "|" }}">
-    <a class="recipe-card-link" href="{{ .RelPermalink }}">
-      {{ with .Params.image }}
-      <div class="recipe-card-image">
-        <img src="{{ . }}" alt="{{ $.Title }}">
-      </div>
-      {{ end }}
-      <div class="recipe-card-body">
-        <h2 class="recipe-card-title">{{ .Title }}</h2>
-        {{ if .Params.description }}
-        <p class="recipe-card-copy">{{ .Params.description }}</p>
-        {{ else }}
-        <p class="recipe-card-copy">{{ .Summary | plainify | truncate 140 }}</p>
-        {{ end }}
-        <div class="recipe-card-meta">
-          {{ with .Params.categories }}
-          <span class="recipe-card-pill">{{ delimit . ", " }}</span>
-          {{ end }}
-          {{ with .Params.tags }}
-          <span class="recipe-card-pill">{{ delimit . ", " }}</span>
-          {{ end }}
+  {{ if $recipes }}
+  <div class="recipe-card-grid">
+    {{- range $recipes -}}
+    <article class="recipe-card" data-categories="{{ delimit .Params.categories "|" }}" data-tags="{{ delimit .Params.tags "|" }}">
+      <a class="recipe-card-link" href="{{ .RelPermalink }}">
+        {{ with .Params.image }}
+        <div class="recipe-card-image">
+          <img src="{{ . }}" alt="{{ $.Title }}">
         </div>
-      </div>
-    </a>
-  </article>
-  {{- end -}}
-</div>
-{{ else }}
-<p>No recipes found yet. Add recipe posts under <code>content/posts/</code> with categories.</p>
-{{ end }}
+        {{ end }}
+        <div class="recipe-card-body">
+          <h3 class="recipe-card-title">{{ .Title }}</h3>
+          {{ if .Params.description }}
+          <p class="recipe-card-copy">{{ .Params.description }}</p>
+          {{ else }}
+          <p class="recipe-card-copy">{{ .Summary | plainify | truncate 140 }}</p>
+          {{ end }}
+          <div class="recipe-card-meta">
+            {{ with .Params.categories }}
+            <span class="recipe-card-pill">{{ delimit . ", " }}</span>
+            {{ end }}
+            {{ with .Params.tags }}
+            <span class="recipe-card-pill">{{ delimit . ", " }}</span>
+            {{ end }}
+          </div>
+        </div>
+      </a>
+    </article>
+    {{- end -}}
+  </div>
+  {{ else }}
+  <p>No recipes found yet. Add recipe posts under <code>content/posts/</code> or <code>content/recipes/</code>.</p>
+  {{ end }}
 
-<div class="recipe-no-results" style="display:none;">No recipes match this category yet.</div>
+  <div class="recipe-no-results" style="display:none;">No recipes match this category yet.</div>
+
+</article>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
