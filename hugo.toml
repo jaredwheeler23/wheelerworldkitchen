@@ -54,5 +54,10 @@ name = "Search"
 url = "/search/"
 weight = 5
 
+[[menu.main]]
+name = "Privacy"
+url = "/privacy/"
+weight = 6
+
 [markup.goldmark.renderer]
 unsafe = true
