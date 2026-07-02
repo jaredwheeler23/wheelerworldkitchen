@@ -72,6 +72,29 @@ p {
     font-size: 18px;
     line-height: 1.7;
     color: #374151 !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+}
+
+/* Prevent text overflow in all content */
+article,
+.post-content,
+.main,
+main {
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    word-break: break-word !important;
+    max-width: 100% !important;
+}
+
+/* Ensure lists don't overflow */
+ol, ul {
+    max-width: 100% !important;
+}
+
+ol li, ul li {
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
 }
 
 /* Strong text color */
