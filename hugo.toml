@@ -4,6 +4,13 @@ languageCode = "en-us"
 title = "Wheeler World Kitchen"
 theme = "PaperMod"
 
+[params]
+  # Enable search
+  showSearchPage = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [menu]
 
 [[menu.main]]
@@ -25,6 +32,11 @@ weight = 3
 name = "Contact"
 url = "/contact/"
 weight = 4
+
+[[menu.main]]
+name = "Search"
+url = "/search/"
+weight = 5
 
 [markup.goldmark.renderer]
 unsafe = true
