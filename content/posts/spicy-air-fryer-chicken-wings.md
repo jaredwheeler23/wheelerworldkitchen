@@ -1,17 +1,17 @@
 ---
 title: "Amazing Spicy Air Fryer Chicken Wing Recipe"
-description: "Crispy air fryer chicken wings with spicy honey butter glaze"
-categories: ["American"]
-tags: ["chicken-wings", "air-fryer", "spicy", "appetizer", "buffalo"]
-prepTime: "PT10M"
-cookTime: "PT25M"
-totalTime: "PT35M"
-servings: 4
-rating: 5
+date: 2025-01-20
+draft: false
+tags: ["chicken", "wings", "spicy", "air-fryer"]
 ---
 
-## Ingredients
+## Details
+- **Prep:** 10 min
+- **Cook:** 20-25 min
+- **Rating:** 10/10
+- **Servings:** 4
 
+## Ingredients
 - 1 lb chicken wings, cut at joints into wingettes and drummettes
 - 1.25 tsp baking powder
 - 1 tsp salt
@@ -20,14 +20,12 @@ rating: 5
 - 2 tsp lemon juice
 - 1 tsp honey
 - 1 tsp tabasco or habanero sauce
-- 1/2-1 tsp sriracha
+- 1/2-1 tsp siracha
 
-## Instructions
+## Directions
+1. Mix all ingredients, except chicken, in bowl well.
+2. Mix in chicken.
+3. Set toaster oven to air fry, preheat, and then air fry for ~20 minutes.
 
-1. Mix all ingredients, except chicken, in bowl well
-2. Mix in chicken
-3. Set toaster oven to air fry, preheat, and then air fry for ~20 minutes
-
-## Notes
-
-Don't be afraid of making more sauce, above is the minimum. More to mix with chicken is A-OK
+## Note
+Don't be afraid of making more sauce, above is the minimum.  More to mix with chicken is A-OK.

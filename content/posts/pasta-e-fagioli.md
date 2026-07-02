@@ -1,8 +1,8 @@
 ---
 title: "Pasta e Fagioli"
-description: "Hearty Italian pasta and bean soup with sausage and vegetables"
-categories: ["Italian"]
-tags: ["soup", "pasta", "beans", "sausage", "italian"]
+description: "Hearty Italian pasta and bean soup with sausage"
+categories: ["Italian", "Soup"]
+tags: ["pasta", "beans", "sausage", "soup", "comfort-food"]
 prepTime: "PT15M"
 cookTime: "PT30M"
 totalTime: "PT45M"
@@ -32,12 +32,12 @@ rating: 5
 
 ## Instructions
 
-1. Brown meat in huge pot with a couple tbsp olive oil. When ~halfway cooked or so add all the veggies. Cook until tender or at least mostly there
-2. Add everything through the salt and pepper. Bring to a simmer and simmer 10 minutes
-3. Add the pasta and simmer another 15 min
-4. Add beans and parsley and simmer one more minute
-5. Serve in bowls with parmesan to add to taste
+1. Brown meat in huge pot with a couple tbsp olive oil.  When ~? cooked or so add all the veggies.  Cook until tender or at least mostly there.
+2. Add everything through the salt and pepper.  Bring to a simmer and simmer 10 minutes.
+3. Add the pasta and simmer another 15 min.
+4. Add beans and parsley and simmer one more minute.
+5. Serve in bowls with parmesan to add to taste.
 
 ## Notes
 
-It is easy to vary the proportions. More pasta, less. More beans or less. More veggies is what I usually do
+1. It is easy to vary the proportions.  More pasta, less.  More beans or less.  More veggies is what I usually do.

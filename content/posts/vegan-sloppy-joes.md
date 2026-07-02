@@ -1,17 +1,17 @@
 ---
 title: "Vegan Sloppy Joes"
-description: "Healthy plant-based sloppy joes with lentils - just as satisfying as the original"
-categories: ["American"]
-tags: ["vegan", "vegetarian", "sloppy-joes", "lentils", "sandwiches"]
-prepTime: "PT30M"
-cookTime: "PT60M"
-totalTime: "PT1H30M"
-servings: 6
-rating: 5
+date: 2025-01-20
+draft: false
+tags: ["vegan", "vegetarian", "sandwich"]
 ---
 
-## Ingredients
+## Details
+- **Prep:** 30 min
+- **Cook:** 60 min
+- **Rating:** 10/10
+- **Servings:** 4-6
 
+## Ingredients
 - Olive oil
 - 1 large sweet onion diced well
 - 1 green bell pepper diced well
@@ -34,9 +34,8 @@ rating: 5
 - (optional) More sweet onion thickly sliced to be a topping
 - (optional) Sliced pickles for topping
 
-## Instructions
-
-1. In large skillet, heat oil over med high heat and saute onion, peppers, garlic and carrot until tender
-2. Add broth and lentils, reduce heat and simmer for 15 minutes until lentils are tender
-3. Add rest of ingredients up to pepper and bring back to simmer on low heat. Simmer until it thickens (~10 min). Make sure to stir every few minutes or it will burn
-4. Serve on toasted buns with optional toppings. Mayo and mustard on the bun is not a bad thing either
+## Instructions:
+1. In large skillet, heat oil over med high heat and saute onion, peppers, garlic and carrot until tender.
+2. Add broth and lentils, reduce heat and simmer for 15 minutes until lentils are tender.
+3. Add rest of ingredients up to pepper and bring back to simmer on low heat.  Simmer until it thickens (~10 min).  Make sure to stir every few minutes or it will burn.
+4. Serve on toasted buns with optional toppings.  Mayo and mustard on the bun is not a bad thing either.

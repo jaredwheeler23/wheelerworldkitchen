@@ -1,18 +1,17 @@
 ---
 title: "Turkey Burgers"
-description: "Juicy seasoned turkey burgers on sourdough with fresh toppings"
-categories: ["American"]
-tags: ["turkey", "burgers", "healthy", "grilled", "sandwiches"]
-prepTime: "PT20M"
-cookTime: "PT20M"
-totalTime: "PT40M"
-servings: 4
-rating: 5
+date: 2025-01-20
+draft: false
+tags: ["turkey", "burgers", "grilling"]
 ---
 
-## Ingredients
+## Details
+- **Prep:** 20 min
+- **Cook:** 20 min
+- **Rating:** 10/10
+- **Servings:** 3-4
 
-**Meat:**
+## Ingredients (meat)
 - 2 lb ground turkey
 - 2 tbsp mayonnaise
 - 2 tbsp dijon mustard
@@ -24,8 +23,8 @@ rating: 5
 - 1 cup chopped parsley (1 bunch)
 - Few tbsp olive oil
 
-**Toppings:**
-- Sourdough sliced bread
+## Toppings
+- Sourdoubh sliced bread
 - Sliced tomatoes
 - Mayonnaise
 - Avocado spread
@@ -33,7 +32,6 @@ rating: 5
 - Red onion sliced thin
 - Plain mustard
 
-## Instructions
-
-1. Mix all meat together well using hands and make patties (should make ~7). Grill until cooked through
-2. Serve over toasted sourdough bread with toppings above as suggested
+## Instructions:
+1. Mix all meat together well using hands and make patties (should make ~7).  Grill until cooked through.
+2. Serve over toasted sourdough bread with toppings above as suggested.

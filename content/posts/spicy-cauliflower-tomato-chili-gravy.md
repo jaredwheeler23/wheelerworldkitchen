@@ -1,17 +1,17 @@
 ---
 title: "Spicy Cauliflower in Tomato-Chili Gravy (Indian)"
-description: "Fiery Indian cauliflower curry with coconut milk and bold spices"
-categories: ["Indian"]
-tags: ["cauliflower", "curry", "spicy", "indian", "coconut-milk", "vegetarian"]
-prepTime: "PT10M"
-cookTime: "PT20M"
-totalTime: "PT30M"
-servings: 4
-rating: 5
+date: 2025-01-20
+draft: false
+tags: ["indian", "vegetarian", "spicy", "cauliflower"]
 ---
 
-## Ingredients
+## Details
+- **Prep:** 10 min
+- **Cook:** 20 min
+- **Rating:** 10/10
+- **Servings:** 3-4
 
+## Ingredients (sauce)
 - Olive oil
 - 1 large cauliflower cut into florets
 - 1 med to large onion diced really well (or food processed into mush)
@@ -21,7 +21,7 @@ rating: 5
 - 1-3 green chiles minced (more for more heat)
 - 1 tbsp chili garlic sauce
 
-**Spices:**
+### Spices
 - 1.5 tsp cumin seeds
 - 1 tsp turmeric
 - 2.5 tsp ground coriander
@@ -30,7 +30,7 @@ rating: 5
 - 1 tsp crushed red pepper flakes
 - Salt to taste
 
-**Other:**
+### Other
 - 1 can coconut milk, full fat
 - 0.5 cup water
 - Tbsp lime
@@ -38,8 +38,7 @@ rating: 5
 - Rice
 
 ## Instructions
-
-1. Heat oil on med high and add cumin seeds until starting to brown. Add onion, garlic, ginger, and pepper and saute until aromatic (1 min or less)
-2. Add all the spices and stir in for 20 seconds or so. Add tomatoes, cauliflower and chili garlic sauce. Stir well
-3. Add coconut milk and water and simmer for 15 min while stirring occasionally
-4. Add lime and cilantro and adjust salt to taste. Serve over rice
+1. Heat oil on med high and add cumin seeds until starting to brown.  Add onion, garlic, ginger, and pepper and saute until aromatic (1 min or less).
+2. Add all the spices and stir in for 20 seconds or so.  Add tomatoes, cauliflower and chili garlic sauce.  Stir well.
+3. Add coconut milk and water and simmer for 15 min while stirring occasionally.
+4. Add lime and cilantro and adjust salt to taste.  Serve over rice.

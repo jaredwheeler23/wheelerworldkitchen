@@ -1,12 +1,12 @@
 ---
 title: "Al Pastor (Pork with Hot and Sweet Flavor)"
-description: "Mexican pork with pineapple and chipotle - sweet, spicy, and perfect for tacos"
+description: "Spicy-sweet Mexican pork with pineapple, perfect for tacos"
 categories: ["Mexican"]
-tags: ["al-pastor", "pork", "pineapple", "instant-pot", "tacos"]
+tags: ["pork", "al-pastor", "pineapple", "instant-pot", "tacos"]
 prepTime: "PT10M"
-cookTime: "PT1H30M"
+cookTime: "PT90M"
 totalTime: "PT1H40M"
-servings: 8
+servings: 10
 rating: 5
 ---
 
@@ -14,7 +14,7 @@ rating: 5
 
 - 1 tbsp olive oil
 - 4 lb pork shoulder (boneless) chopped into a 2 inch chunks
-- 1 pineapple (ripe!, can sub cans drained well as well), chopped into small chunks. Use only HALF for instant pot. Save other half for toppings on tacos or whatever
+- 1 pineapple (ripe!, can sub cans drained well as well), chopped into small chunks.  Use only HALF for instant pot.  Save other half for toppings on tacos or whatever.
 - 3 tsp dried oregano
 - 1.5 tsp cumin
 - 1 tsp garlic powder
@@ -26,18 +26,18 @@ rating: 5
 - 1 small white onion
 - 3 garlic cloves
 
-**If making tacos, also grab for toppings:**
+## Instructions
+
+1. In food processor mince the can of chipotles/sauce, onion, half the pineapple and garlic.
+2. Add minced ingredients and rest in first section to instant pot.  Cook high pressure and heat for minimum of 1 hour (preferably 1.5 hours).
+3. Release pressure.
+4. Remove meat shred, then return to pot.
+5. Ready to serve with whatever (tacos, enchiladas, quesadillas, etc.)
+
+If making tacos, also grab for toppings:
 - White onion diced small
 - Batch cilantro
 - Second half of the pineapple above diced small
 - Tortillas
 - Lime juice
 - Hot salsa (optional)
-
-## Instructions
-
-1. In food processor mince the can of chipotles/sauce, onion, half the pineapple and garlic
-2. Add minced ingredients and rest in first section to instant pot. Cook high pressure and heat for minimum of 1 hour (preferably 1.5 hours)
-3. Release pressure
-4. Remove meat shred, then return to pot
-5. Ready to serve with whatever (tacos, enchiladas, quesadillas, etc.)

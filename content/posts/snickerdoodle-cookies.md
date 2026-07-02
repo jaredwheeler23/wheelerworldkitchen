@@ -1,18 +1,17 @@
 ---
 title: "Snickerdoodle Cookie Recipe"
-description: "Classic cinnamon sugar cookies with cream of tartar - soft and chewy"
-categories: ["Dessert"]
-tags: ["cookies", "snickerdoodle", "cinnamon", "baking", "dessert"]
-prepTime: "PT10M"
-cookTime: "PT15M"
-totalTime: "PT25M"
-servings: 3
-rating: 5
+date: 2025-01-20
+draft: false
+tags: ["dessert", "cookies", "cinnamon"]
 ---
 
-## Ingredients
+## Details
+- **Prep:** 10 min
+- **Cook:** 15 min
+- **Rating:** 10/10
+- **Servings:** 3
 
-**Cookie dough:**
+## Ingredients
 - 2.75 cups flour
 - 2 tsp cream of tartar
 - 1 tsp baking soda
@@ -22,13 +21,12 @@ rating: 5
 - 2 eggs
 - 1 tsp vanilla extract
 
-**Cinnamon coating:**
-- 1/3 cup sugar
+### Cinnamon coating
+- ½ cup sugar
 - 2 tbsp cinnamon
 
-## Instructions
-
-1. Preheat to 350°F
-2. In large bowl mix cookie ingredients and mix well. Separately in small bowl, mix coating ingredients and set aside
-3. Of the cookie ingredient, create small balls, roll once in cinnamon mixture and then place on tray small cookie balls placed 2" apart
-4. After preheated, bake for 8-10 minutes. Remove and let cool and then serve!
+## Directions
+1. Preheat to 350 F
+2. In large bowl mix cookie ingredients and mix well.  Separately in small bowl, mix coating ingredients and set aside.
+3. Of the cookie ingredient, create small balls, roll once in cinnamon mixture and then place on tray small cookie balls placed 2" apart.
+4. After preheated, bake for 8-10 minutes.  Remove and let cool and then serve!

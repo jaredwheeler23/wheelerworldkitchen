@@ -1,20 +1,20 @@
 ---
 title: "Chicken Tikka Masala"
-description: "Classic Indian curry with marinated chicken in a rich, creamy tomato sauce"
+description: "Authentic chicken tikka masala with overnight marinated chicken in rich tomato cream sauce"
 categories: ["Indian"]
-tags: ["chicken", "curry", "indian", "tikka-masala", "yogurt", "rice"]
+tags: ["chicken", "tikka-masala", "curry", "marinated", "indian"]
 prepTime: "PT30M"
 cookTime: "PT30M"
-totalTime: "PT5H"
+totalTime: "PT1H"
 servings: 4
-rating: 4
+rating: 5
 ---
 
 ## Ingredients
 
-**Chicken and Marinade:**
+Chicken and Marinade:
 - 2 lbs diced small chunks chicken thighs
-- 1/2 cup greek yogurt, plain
+- 1/2 cup greek yogurt plain
 - 1 tsp red chili powder (use what you got but kashmiri is recommended)
 - 1 tsp garam masala
 - 1/2 tsp turmeric
@@ -26,12 +26,12 @@ rating: 4
 - 1 tbsp ginger, garlic paste (if bought separately, add 1 tbsp of each)
 - 1 tbsp vegetable oil
 
-Make 1.5 cups or so of rice on the side
+Make 1.5 cups or so of rice on the side.
 
-**Sauce:**
+Sauce:
 - 3 tbsp vegetable oil
-- 1 large yellow onion, diced small
-- 1 jalapeño, minced (optional)
+- 1 large yellow onion diced small
+- 1 jalapeno minced (optional)
 - 1 tsp salt
 - 1 tbsp ginger, garlic paste (if bought separately, add 1 tbsp of each)
 - 1 tsp red chili powder
@@ -45,13 +45,13 @@ Make 1.5 cups or so of rice on the side
 
 ## Instructions
 
-1. Mix all marinade items together and marinade min of 4 hours, preferably overnight or all day. Cook in sauce pan that barely holds them (goal is to cook them in their own juice). Cook on medium heat until bubbling. Lower heat a bit, just enough to keep bubbling and cook until cooked through
-2. Make rice and set aside
-3. In large pan or pot, heat oil and add onion and pepper if using. Saute until golden
-4. Add ginger/garlic paste and saute for 30 seconds or until aromatic. Reduce heat to low and add chili powder, coriander, garam masala, and cumin. Stir together quickly
-5. Immediately after the above is stirred, add tomatoes and cook on med high heat until sauce becomes thick. This can take up to 10 minutes but probably less
-6. Add hot water and bring to rolling boil and cover. Simmer until thick (10-15 minutes)
-7. Add sugar and cream to sauce and simmer for a few minutes
-8. IF sauce is thick (if not, cook more first), add chicken (cooked) to pot and simmer for another few minutes
+1. Mix all marinade items together and marinade min of 4 hours, preferably overnight or all day. Cook in sauce pan that barely holds them (goal is to cook them in their own juice).  Cook on medium heat until bubbling.  Lower heat a bit, just enough to keep bubbling and cook until cooked through.
+2. Make rice and set aside.
+3. In large pan or pot, heat oil and add onion and pepper if using.  Saute until golden.
+4. Add ginger/garlic paste and saute for 30 seconds or until aromatic.  Reduce heat to low and add chili powder, coriander, garam masala, and cumin.  Stir together quickly.
+5. Immediately after the above is stirred, add tomatoes and cook on med high heat until sauce becomes thick.  This can take up to 10 minutes but probably less.
+6. Add hot water and bring to rolling boil and cover.  Simmer until thick (10-15 minutes).
+7. Add sugar and cream to sauce and simmer for a few minutes.
+8. IF sauce is thick (if not, cook more first), add chicken (cooked) to pot and simmer for another few minutes.
 9. Taste test and add more salt or garam masala or sugar as needed
-10. Serve. Garnish with more cream or chopped coriander leaves if you have them (not essential)
+10. Serve.  Garnish with more cream or chopped coriander leaves if you have them (not essential).
