@@ -8,6 +8,10 @@ theme = "PaperMod"
   # Enable search
   showSearchPage = true
   
+  # Force light mode - disable dark theme
+  defaultTheme = "light"
+  disableThemeToggle = true
+  
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true

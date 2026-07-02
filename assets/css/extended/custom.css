@@ -1,8 +1,23 @@
-body {
-    background-image: url("https://wheelerworldkitchen.com/images/kitchen-bg.jpg");
-    background-size: cover;
-    background-attachment: fixed;
+/* Background image for ALL pages */
+body,
+html,
+#root,
+.page,
+.list {
+    background-image: url("https://wheelerworldkitchen.com/images/kitchen-bg.jpg") !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
     color: #1f2937 !important;
+}
+
+/* Ensure page wrapper doesn't block background */
+#root,
+.page,
+.list,
+body > div {
+    background-color: transparent !important;
 }
 
 /* White content container for all pages */
