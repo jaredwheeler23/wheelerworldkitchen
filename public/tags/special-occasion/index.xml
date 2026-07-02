@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Special-Occasion on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/special-occasion/</link>
+    <description>Recent content in Special-Occasion on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/special-occasion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beef Wellington</title>
+      <link>http://localhost:1313/posts/beef-wellington/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-wellington/</guid>
+      <description>Elegant beef tenderloin wrapped in puff pastry with mushroom duxelles</description>
+    </item>
+    <item>
+      <title>Chocolate Lava Cakes</title>
+      <link>http://localhost:1313/posts/chocolate-lava-cakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chocolate-lava-cakes/</guid>
+      <description>Individual molten chocolate cakes with gooey centers</description>
+    </item>
+    <item>
+      <title>Classic Tiramisu</title>
+      <link>http://localhost:1313/posts/tiramisu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tiramisu/</guid>
+      <description>Italian coffee-soaked dessert with mascarpone and cocoa</description>
+    </item>
+    <item>
+      <title>Crème Brûlée</title>
+      <link>http://localhost:1313/posts/creme-brulee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creme-brulee/</guid>
+      <description>Classic French custard with caramelized sugar topping</description>
+    </item>
+    <item>
+      <title>New York Cheesecake</title>
+      <link>http://localhost:1313/posts/cheesecake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cheesecake/</guid>
+      <description>Rich, creamy cheesecake with graham cracker crust</description>
+    </item>
+    <item>
+      <title>Osso Buco</title>
+      <link>http://localhost:1313/posts/osso-buco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/osso-buco/</guid>
+      <description>Braised veal shanks in white wine and vegetables - a Milanese classic</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chowder on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/chowder/</link>
+    <description>Recent content in Chowder on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/chowder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corn Cheddar Chowder</title>
+      <link>http://localhost:1313/posts/corn-cheddar-chowder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/corn-cheddar-chowder/</guid>
+      <description>Creamy corn chowder with sharp cheddar cheese and vegetables</description>
+    </item>
+    <item>
+      <title>Creamy Seafood Stew/Chowder</title>
+      <link>http://localhost:1313/posts/creamy-seafood-chowder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creamy-seafood-chowder/</guid>
+      <description>Rich seafood chowder with white fish, shrimp, and vegetables</description>
+    </item>
+  </channel>
+</rss>

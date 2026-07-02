@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spicy on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/spicy/</link>
+    <description>Recent content in Spicy on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/spicy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Butter Chicken</title>
+      <link>http://localhost:1313/posts/butter-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/butter-chicken/</guid>
+      <description>Creamy Indian curry with tender chicken in tomato-based sauce</description>
+    </item>
+    <item>
+      <title>Chicken Tikka Masala</title>
+      <link>http://localhost:1313/posts/chicken-tikka-masala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-tikka-masala/</guid>
+      <description>Classic Indian chicken tikka masala with overnight marinade</description>
+    </item>
+    <item>
+      <title>Chile Verde</title>
+      <link>http://localhost:1313/posts/chile-verde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chile-verde/</guid>
+      <description>Tender pork in a tangy green chile sauce</description>
+    </item>
+    <item>
+      <title>Penne Arrabbiata</title>
+      <link>http://localhost:1313/posts/penne-arrabbiata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/penne-arrabbiata/</guid>
+      <description>Spicy tomato pasta with garlic and red pepper flakes</description>
+    </item>
+    <item>
+      <title>Spicy Caribbean Fish</title>
+      <link>http://localhost:1313/posts/spicy-caribbean-fish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-caribbean-fish/</guid>
+      <description>White fish in coconut tomato sauce with Caribbean spices</description>
+    </item>
+    <item>
+      <title>Spicy Chicken Ramen</title>
+      <link>http://localhost:1313/posts/spicy-chicken-ramen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-chicken-ramen/</guid>
+      <description>Homemade spicy chicken ramen with gochujang and chili crisp</description>
+    </item>
+    <item>
+      <title>Spicy Tomato Soup</title>
+      <link>http://localhost:1313/posts/spicy-tomato-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-tomato-soup/</guid>
+      <description>Creamy tomato soup with a kick of spice, perfect with garlic bread</description>
+    </item>
+  </channel>
+</rss>

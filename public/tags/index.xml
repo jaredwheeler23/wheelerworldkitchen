@@ -1,38 +1,941 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on </title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on </description>
+    <title>Tags on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alfredo</title>
+      <link>http://localhost:1313/tags/alfredo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/alfredo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Appetizer</title>
+      <link>http://localhost:1313/tags/appetizer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/appetizer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apples</title>
+      <link>http://localhost:1313/tags/apples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/apples/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Avocado</title>
+      <link>http://localhost:1313/tags/avocado/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/avocado/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Baked</title>
+      <link>http://localhost:1313/tags/baked/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/baked/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Baking</title>
+      <link>http://localhost:1313/tags/baking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/baking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Banana</title>
+      <link>http://localhost:1313/tags/banana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/banana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bbq</title>
+      <link>http://localhost:1313/tags/bbq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bbq/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beans</title>
+      <link>http://localhost:1313/tags/beans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/beans/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Beef</title>
-      <link>/tags/beef/</link>
+      <link>http://localhost:1313/tags/beef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/beef/</guid>
+      <guid>http://localhost:1313/tags/beef/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Birthday</title>
+      <link>http://localhost:1313/tags/birthday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/birthday/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Black-Beans</title>
+      <link>http://localhost:1313/tags/black-beans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/black-beans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Braised</title>
+      <link>http://localhost:1313/tags/braised/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/braised/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bread-Pudding</title>
+      <link>http://localhost:1313/tags/bread-pudding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bread-pudding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>British</title>
+      <link>http://localhost:1313/tags/british/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/british/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Broccoli</title>
+      <link>http://localhost:1313/tags/broccoli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/broccoli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Brownies</title>
+      <link>http://localhost:1313/tags/brownies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/brownies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Burger</title>
+      <link>http://localhost:1313/tags/burger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/burger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Butternut-Squash</title>
+      <link>http://localhost:1313/tags/butternut-squash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/butternut-squash/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Butterscotch</title>
+      <link>http://localhost:1313/tags/butterscotch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/butterscotch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cake</title>
+      <link>http://localhost:1313/tags/cake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Caribbean</title>
+      <link>http://localhost:1313/tags/caribbean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/caribbean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cheddar</title>
+      <link>http://localhost:1313/tags/cheddar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cheddar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cheese</title>
+      <link>http://localhost:1313/tags/cheese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cheese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cheesecake</title>
+      <link>http://localhost:1313/tags/cheesecake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cheesecake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chicken</title>
+      <link>http://localhost:1313/tags/chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chicken/</guid>
       <description></description>
     </item>
     <item>
       <title>Chili</title>
-      <link>/tags/chili/</link>
+      <link>http://localhost:1313/tags/chili/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/chili/</guid>
+      <guid>http://localhost:1313/tags/chili/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chocolate</title>
+      <link>http://localhost:1313/tags/chocolate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chocolate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chocolate-Chip</title>
+      <link>http://localhost:1313/tags/chocolate-chip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chocolate-chip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chowder</title>
+      <link>http://localhost:1313/tags/chowder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chowder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coconut</title>
+      <link>http://localhost:1313/tags/coconut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/coconut/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coffee</title>
+      <link>http://localhost:1313/tags/coffee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/coffee/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comfort-Food</title>
+      <link>http://localhost:1313/tags/comfort-food/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/comfort-food/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cookies</title>
+      <link>http://localhost:1313/tags/cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cookies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Corn</title>
+      <link>http://localhost:1313/tags/corn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/corn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cream-Cheese</title>
+      <link>http://localhost:1313/tags/cream-cheese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cream-cheese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Curry</title>
+      <link>http://localhost:1313/tags/curry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/curry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Custard</title>
+      <link>http://localhost:1313/tags/custard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/custard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dessert</title>
+      <link>http://localhost:1313/tags/dessert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dessert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dip</title>
+      <link>http://localhost:1313/tags/dip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dip/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dumplings</title>
+      <link>http://localhost:1313/tags/dumplings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dumplings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Easy</title>
+      <link>http://localhost:1313/tags/easy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/easy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eggs</title>
+      <link>http://localhost:1313/tags/eggs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/eggs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enchiladas</title>
+      <link>http://localhost:1313/tags/enchiladas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/enchiladas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Family-Dinner</title>
+      <link>http://localhost:1313/tags/family-dinner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/family-dinner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feta</title>
+      <link>http://localhost:1313/tags/feta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/feta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fettuccine</title>
+      <link>http://localhost:1313/tags/fettuccine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fettuccine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fish</title>
+      <link>http://localhost:1313/tags/fish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>French</title>
+      <link>http://localhost:1313/tags/french/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/french/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fresh</title>
+      <link>http://localhost:1313/tags/fresh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fresh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fried</title>
+      <link>http://localhost:1313/tags/fried/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fried/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frosting</title>
+      <link>http://localhost:1313/tags/frosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/frosting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gravy</title>
+      <link>http://localhost:1313/tags/gravy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gravy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Green-Beans</title>
+      <link>http://localhost:1313/tags/green-beans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/green-beans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grilled</title>
+      <link>http://localhost:1313/tags/grilled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/grilled/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Healthy</title>
+      <link>http://localhost:1313/tags/healthy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/healthy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Holiday</title>
+      <link>http://localhost:1313/tags/holiday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/holiday/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indian</title>
+      <link>http://localhost:1313/tags/indian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/indian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Instant-Pot</title>
+      <link>http://localhost:1313/tags/instant-pot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/instant-pot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italian</title>
+      <link>http://localhost:1313/tags/italian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/italian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Italian-Sausage</title>
+      <link>http://localhost:1313/tags/italian-sausage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/italian-sausage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Japanese</title>
+      <link>http://localhost:1313/tags/japanese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/japanese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kid-Friendly</title>
+      <link>http://localhost:1313/tags/kid-friendly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kid-friendly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Korean</title>
+      <link>http://localhost:1313/tags/korean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/korean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lamb</title>
+      <link>http://localhost:1313/tags/lamb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lamb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lasagna</title>
+      <link>http://localhost:1313/tags/lasagna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lasagna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Leftovers</title>
+      <link>http://localhost:1313/tags/leftovers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/leftovers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lentils</title>
+      <link>http://localhost:1313/tags/lentils/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lentils/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Make-Ahead</title>
+      <link>http://localhost:1313/tags/make-ahead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/make-ahead/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marinated</title>
+      <link>http://localhost:1313/tags/marinated/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/marinated/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mashed-Potatoes</title>
+      <link>http://localhost:1313/tags/mashed-potatoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mashed-potatoes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meatballs</title>
+      <link>http://localhost:1313/tags/meatballs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/meatballs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meringue</title>
+      <link>http://localhost:1313/tags/meringue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/meringue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mexican</title>
+      <link>http://localhost:1313/tags/mexican/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mexican/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miso</title>
+      <link>http://localhost:1313/tags/miso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/miso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mushrooms</title>
+      <link>http://localhost:1313/tags/mushrooms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mushrooms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>No-Bake</title>
+      <link>http://localhost:1313/tags/no-bake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/no-bake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Noodles</title>
+      <link>http://localhost:1313/tags/noodles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/noodles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oatmeal</title>
+      <link>http://localhost:1313/tags/oatmeal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oatmeal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One-Pot</title>
+      <link>http://localhost:1313/tags/one-pot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/one-pot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Onions</title>
+      <link>http://localhost:1313/tags/onions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/onions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pasta</title>
+      <link>http://localhost:1313/tags/pasta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pasta/</guid>
       <description></description>
     </item>
     <item>
       <title>Peanut</title>
-      <link>/tags/peanut/</link>
+      <link>http://localhost:1313/tags/peanut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/peanut/</guid>
+      <guid>http://localhost:1313/tags/peanut/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peppers</title>
+      <link>http://localhost:1313/tags/peppers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/peppers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pho</title>
+      <link>http://localhost:1313/tags/pho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pie</title>
+      <link>http://localhost:1313/tags/pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pizza</title>
+      <link>http://localhost:1313/tags/pizza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pizza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pork</title>
+      <link>http://localhost:1313/tags/pork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pot-Pie</title>
+      <link>http://localhost:1313/tags/pot-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pot-pie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Potatoes</title>
+      <link>http://localhost:1313/tags/potatoes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/potatoes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pressure-Cooker</title>
+      <link>http://localhost:1313/tags/pressure-cooker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pressure-cooker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Primavera</title>
+      <link>http://localhost:1313/tags/primavera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/primavera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pudding</title>
+      <link>http://localhost:1313/tags/pudding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pudding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Puff-Pastry</title>
+      <link>http://localhost:1313/tags/puff-pastry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/puff-pastry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quesadillas</title>
+      <link>http://localhost:1313/tags/quesadillas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quesadillas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quick</title>
+      <link>http://localhost:1313/tags/quick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quick/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quinoa</title>
+      <link>http://localhost:1313/tags/quinoa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quinoa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ramen</title>
+      <link>http://localhost:1313/tags/ramen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ramen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rice</title>
+      <link>http://localhost:1313/tags/rice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Roasted</title>
+      <link>http://localhost:1313/tags/roasted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/roasted/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salad</title>
+      <link>http://localhost:1313/tags/salad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/salad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Salsa</title>
+      <link>http://localhost:1313/tags/salsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/salsa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sausage</title>
+      <link>http://localhost:1313/tags/sausage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sausage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Seafood</title>
+      <link>http://localhost:1313/tags/seafood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/seafood/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shepherds-Pie</title>
+      <link>http://localhost:1313/tags/shepherds-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/shepherds-pie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shrimp</title>
+      <link>http://localhost:1313/tags/shrimp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/shrimp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side-Dish</title>
+      <link>http://localhost:1313/tags/side-dish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/side-dish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slow-Cooker</title>
+      <link>http://localhost:1313/tags/slow-cooker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/slow-cooker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soup</title>
+      <link>http://localhost:1313/tags/soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/soup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Southern</title>
+      <link>http://localhost:1313/tags/southern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/southern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Special-Occasion</title>
+      <link>http://localhost:1313/tags/special-occasion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/special-occasion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spicy</title>
+      <link>http://localhost:1313/tags/spicy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spicy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spinach</title>
+      <link>http://localhost:1313/tags/spinach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spinach/</guid>
       <description></description>
     </item>
     <item>
       <title>Stew</title>
-      <link>/tags/stew/</link>
+      <link>http://localhost:1313/tags/stew/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/stew/</guid>
+      <guid>http://localhost:1313/tags/stew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stir-Fry</title>
+      <link>http://localhost:1313/tags/stir-fry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stir-fry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Swedish</title>
+      <link>http://localhost:1313/tags/swedish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/swedish/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sweet</title>
+      <link>http://localhost:1313/tags/sweet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sweet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tacos</title>
+      <link>http://localhost:1313/tags/tacos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tacos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tex-Mex</title>
+      <link>http://localhost:1313/tags/tex-mex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tex-mex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thai</title>
+      <link>http://localhost:1313/tags/thai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/thai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tikka-Masala</title>
+      <link>http://localhost:1313/tags/tikka-masala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tikka-masala/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tomato-Soup</title>
+      <link>http://localhost:1313/tags/tomato-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tomato-soup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tortilla</title>
+      <link>http://localhost:1313/tags/tortilla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tortilla/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Veal</title>
+      <link>http://localhost:1313/tags/veal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/veal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetables</title>
+      <link>http://localhost:1313/tags/vegetables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vegetables/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetarian</title>
+      <link>http://localhost:1313/tags/vegetarian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetarian-Option</title>
+      <link>http://localhost:1313/tags/vegetarian-option/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vegetarian-option/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vietnamese</title>
+      <link>http://localhost:1313/tags/vietnamese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vietnamese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whiskey</title>
+      <link>http://localhost:1313/tags/whiskey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/whiskey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>White-Sauce</title>
+      <link>http://localhost:1313/tags/white-sauce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/white-sauce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wine</title>
+      <link>http://localhost:1313/tags/wine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yogurt</title>
+      <link>http://localhost:1313/tags/yogurt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/yogurt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zucchini</title>
+      <link>http://localhost:1313/tags/zucchini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zucchini/</guid>
       <description></description>
     </item>
   </channel>

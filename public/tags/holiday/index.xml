@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Holiday on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/holiday/</link>
+    <description>Recent content in Holiday on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/holiday/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Pie</title>
+      <link>http://localhost:1313/posts/apple-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/apple-pie/</guid>
+      <description>Classic American apple pie with flaky crust and cinnamon apples</description>
+    </item>
+    <item>
+      <title>Autumn Pot Pie (Christmas Veggie Pot Pie)</title>
+      <link>http://localhost:1313/posts/autumn-pot-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/autumn-pot-pie/</guid>
+      <description>Festive vegetarian pot pie with butternut squash and cheddar crust</description>
+    </item>
+  </channel>
+</rss>

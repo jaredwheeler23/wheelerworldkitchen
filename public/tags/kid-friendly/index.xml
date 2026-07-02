@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kid-Friendly on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/kid-friendly/</link>
+    <description>Recent content in Kid-Friendly on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/kid-friendly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chocolate Chip Brownies</title>
+      <link>http://localhost:1313/posts/chocolate-chip-brownies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chocolate-chip-brownies/</guid>
+      <description>Fudgy brownies loaded with chocolate chips</description>
+    </item>
+    <item>
+      <title>Classic Beef Tacos</title>
+      <link>http://localhost:1313/posts/beef-tacos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-tacos/</guid>
+      <description>Seasoned ground beef tacos with all the fixings - a family favorite</description>
+    </item>
+    <item>
+      <title>Creamy Mac and Cheese</title>
+      <link>http://localhost:1313/posts/mac-and-cheese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mac-and-cheese/</guid>
+      <description>Classic homemade macaroni and cheese with a crispy breadcrumb topping</description>
+    </item>
+  </channel>
+</rss>

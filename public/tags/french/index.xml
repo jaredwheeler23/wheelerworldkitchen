@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>French on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/french/</link>
+    <description>Recent content in French on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/french/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coq au Vin</title>
+      <link>http://localhost:1313/posts/coq-au-vin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/coq-au-vin/</guid>
+      <description>French braised chicken in red wine with bacon and mushrooms</description>
+    </item>
+    <item>
+      <title>Crème Brûlée</title>
+      <link>http://localhost:1313/posts/creme-brulee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creme-brulee/</guid>
+      <description>Classic French custard with caramelized sugar topping</description>
+    </item>
+  </channel>
+</rss>

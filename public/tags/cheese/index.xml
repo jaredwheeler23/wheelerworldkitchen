@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cheese on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/cheese/</link>
+    <description>Recent content in Cheese on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/cheese/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chicken Parmesan</title>
+      <link>http://localhost:1313/posts/chicken-parmesan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-parmesan/</guid>
+      <description>Breaded chicken cutlets topped with marinara and melted cheese</description>
+    </item>
+    <item>
+      <title>Creamy Mac and Cheese</title>
+      <link>http://localhost:1313/posts/mac-and-cheese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mac-and-cheese/</guid>
+      <description>Classic homemade macaroni and cheese with a crispy breadcrumb topping</description>
+    </item>
+    <item>
+      <title>Lasagna (Meat or Veggie)</title>
+      <link>http://localhost:1313/posts/lasagna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/lasagna/</guid>
+      <description>Classic Italian lasagna with marinara, ricotta, and mozzarella</description>
+    </item>
+    <item>
+      <title>Margherita Pizza</title>
+      <link>http://localhost:1313/posts/margherita-pizza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/margherita-pizza/</guid>
+      <description>Classic pizza with tomato, mozzarella, and fresh basil</description>
+    </item>
+    <item>
+      <title>Palak Paneer</title>
+      <link>http://localhost:1313/posts/palak-paneer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/palak-paneer/</guid>
+      <description>Indian spinach curry with paneer cheese</description>
+    </item>
+    <item>
+      <title>Texas Style Quesadillas</title>
+      <link>http://localhost:1313/posts/texas-quesadillas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/texas-quesadillas/</guid>
+      <description>Loaded quesadillas with peppers, onions, and Mexican cheese</description>
+    </item>
+  </channel>
+</rss>

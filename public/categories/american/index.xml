@@ -1,18 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>American on </title>
-    <link>/categories/american/</link>
-    <description>Recent content in American on </description>
+    <title>American on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/categories/american/</link>
+    <description>Recent content in American on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="/categories/american/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/american/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autumn Pot Pie (Christmas Veggie Pot Pie)</title>
+      <link>http://localhost:1313/posts/autumn-pot-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/autumn-pot-pie/</guid>
+      <description>Festive vegetarian pot pie with butternut squash and cheddar crust</description>
+    </item>
+    <item>
+      <title>Award Winning Beef or Vegetarian Chili</title>
+      <link>http://localhost:1313/posts/award-winning-chili/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/award-winning-chili/</guid>
+      <description>Award-winning chili with pineapple juice secret ingredient</description>
+    </item>
+    <item>
+      <title>BBQ Pulled Pork</title>
+      <link>http://localhost:1313/posts/bbq-pulled-pork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bbq-pulled-pork/</guid>
+      <description>Slow-cooked, tender pulled pork with smoky BBQ sauce - perfect for sandwiches</description>
+    </item>
+    <item>
+      <title>Beef Stew</title>
+      <link>http://localhost:1313/posts/beef-stew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-stew/</guid>
+      <description>Hearty beef stew with vegetables, perfect for cold evenings</description>
+    </item>
+    <item>
+      <title>Black Bean and Quinoa Burger</title>
+      <link>http://localhost:1313/posts/black-bean-quinoa-burger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/black-bean-quinoa-burger/</guid>
+      <description>Healthy vegetarian burger with black beans, quinoa, and spices</description>
+    </item>
+    <item>
+      <title>Chicken and Dumplings (Instant Pot Style)</title>
+      <link>http://localhost:1313/posts/chicken-and-dumplings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-and-dumplings/</guid>
+      <description>Comfort food classic with tender chicken and fluffy dumplings</description>
+    </item>
+    <item>
+      <title>Classic Coleslaw</title>
+      <link>http://localhost:1313/posts/coleslaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/coleslaw/</guid>
+      <description>Creamy, tangy coleslaw - the perfect side dish for BBQ</description>
+    </item>
+    <item>
+      <title>Classic Meatloaf</title>
+      <link>http://localhost:1313/posts/meatloaf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/meatloaf/</guid>
+      <description>Traditional meatloaf with a tangy glaze - pure comfort food</description>
+    </item>
+    <item>
+      <title>Classic Roast Chicken</title>
+      <link>http://localhost:1313/posts/roast-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/roast-chicken/</guid>
+      <description>Perfectly roasted whole chicken with crispy skin and juicy meat</description>
+    </item>
+    <item>
+      <title>Corn Cheddar Chowder</title>
+      <link>http://localhost:1313/posts/corn-cheddar-chowder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/corn-cheddar-chowder/</guid>
+      <description>Creamy corn chowder with sharp cheddar cheese and vegetables</description>
+    </item>
+    <item>
+      <title>Creamy Mac and Cheese</title>
+      <link>http://localhost:1313/posts/mac-and-cheese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mac-and-cheese/</guid>
+      <description>Classic homemade macaroni and cheese with a crispy breadcrumb topping</description>
+    </item>
+    <item>
+      <title>Creamy Seafood Stew/Chowder</title>
+      <link>http://localhost:1313/posts/creamy-seafood-chowder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creamy-seafood-chowder/</guid>
+      <description>Rich seafood chowder with white fish, shrimp, and vegetables</description>
+    </item>
     <item>
       <title>Easy Beef Chili</title>
-      <link>/posts/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/test/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>Simple homemade beef chili</description>
+    </item>
+    <item>
+      <title>Grandma Emily&#39;s Lentil Soup</title>
+      <link>http://localhost:1313/posts/grandma-emilys-lentil-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/grandma-emilys-lentil-soup/</guid>
+      <description>Traditional lentil soup with pasta and vegetables</description>
+    </item>
+    <item>
+      <title>Green Bean Salad</title>
+      <link>http://localhost:1313/posts/green-bean-salad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/green-bean-salad/</guid>
+      <description>Fresh green bean salad with feta, tomatoes, and oregano dressing</description>
+    </item>
+    <item>
+      <title>Southern Fried Chicken</title>
+      <link>http://localhost:1313/posts/fried-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fried-chicken/</guid>
+      <description>Crispy, juicy fried chicken with a perfectly seasoned coating</description>
+    </item>
+    <item>
+      <title>Spicy Tomato Soup</title>
+      <link>http://localhost:1313/posts/spicy-tomato-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-tomato-soup/</guid>
+      <description>Creamy tomato soup with a kick of spice, perfect with garlic bread</description>
+    </item>
+    <item>
+      <title>Veggie Pot Pie</title>
+      <link>http://localhost:1313/posts/veggie-pot-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/veggie-pot-pie/</guid>
+      <description>Hearty vegetarian pot pie with mushrooms, carrots, and puff pastry</description>
+    </item>
+    <item>
+      <title>Veggie Shepherds Pie</title>
+      <link>http://localhost:1313/posts/veggie-shepherds-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/veggie-shepherds-pie/</guid>
+      <description>Vegetarian shepherd&amp;#39;s pie with lentils, kale, and mashed potatoes</description>
     </item>
   </channel>
 </rss>

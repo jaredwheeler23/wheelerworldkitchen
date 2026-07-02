@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chicken on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/chicken/</link>
+    <description>Recent content in Chicken on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/chicken/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Butter Chicken</title>
+      <link>http://localhost:1313/posts/butter-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/butter-chicken/</guid>
+      <description>Creamy Indian curry with tender chicken in tomato-based sauce</description>
+    </item>
+    <item>
+      <title>Chicken and Dumplings (Instant Pot Style)</title>
+      <link>http://localhost:1313/posts/chicken-and-dumplings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-and-dumplings/</guid>
+      <description>Comfort food classic with tender chicken and fluffy dumplings</description>
+    </item>
+    <item>
+      <title>Chicken Burritos</title>
+      <link>http://localhost:1313/posts/chicken-burritos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-burritos/</guid>
+      <description>Loaded chicken burritos with rice, beans, and fresh toppings</description>
+    </item>
+    <item>
+      <title>Chicken Fried Rice</title>
+      <link>http://localhost:1313/posts/chicken-fried-rice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-fried-rice/</guid>
+      <description>Restaurant-style fried rice with chicken, eggs, and vegetables</description>
+    </item>
+    <item>
+      <title>Chicken Parmesan</title>
+      <link>http://localhost:1313/posts/chicken-parmesan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-parmesan/</guid>
+      <description>Breaded chicken cutlets topped with marinara and melted cheese</description>
+    </item>
+    <item>
+      <title>Chicken Teriyaki</title>
+      <link>http://localhost:1313/posts/chicken-teriyaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-teriyaki/</guid>
+      <description>Grilled chicken with homemade teriyaki glaze</description>
+    </item>
+    <item>
+      <title>Chicken Tikka Masala</title>
+      <link>http://localhost:1313/posts/chicken-tikka-masala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-tikka-masala/</guid>
+      <description>Classic Indian chicken tikka masala with overnight marinade</description>
+    </item>
+    <item>
+      <title>Chicken Tortilla Soup</title>
+      <link>http://localhost:1313/posts/chicken-tortilla-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-tortilla-soup/</guid>
+      <description>Mexican chicken soup with black beans, corn, and crispy tortilla strips</description>
+    </item>
+    <item>
+      <title>Classic Roast Chicken</title>
+      <link>http://localhost:1313/posts/roast-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/roast-chicken/</guid>
+      <description>Perfectly roasted whole chicken with crispy skin and juicy meat</description>
+    </item>
+    <item>
+      <title>Coq au Vin</title>
+      <link>http://localhost:1313/posts/coq-au-vin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/coq-au-vin/</guid>
+      <description>French braised chicken in red wine with bacon and mushrooms</description>
+    </item>
+    <item>
+      <title>Italian Wedding Soup, The Dill Version</title>
+      <link>http://localhost:1313/posts/italian-wedding-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/italian-wedding-soup/</guid>
+      <description>Classic Italian wedding soup with homemade meatballs and fresh dill</description>
+    </item>
+    <item>
+      <title>Pressure Cooker Chicken Pho</title>
+      <link>http://localhost:1313/posts/chicken-pho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-pho/</guid>
+      <description>Authentic Vietnamese chicken pho made quick in a pressure cooker</description>
+    </item>
+    <item>
+      <title>Southern Fried Chicken</title>
+      <link>http://localhost:1313/posts/fried-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fried-chicken/</guid>
+      <description>Crispy, juicy fried chicken with a perfectly seasoned coating</description>
+    </item>
+    <item>
+      <title>Spicy Chicken Ramen</title>
+      <link>http://localhost:1313/posts/spicy-chicken-ramen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-chicken-ramen/</guid>
+      <description>Homemade spicy chicken ramen with gochujang and chili crisp</description>
+    </item>
+    <item>
+      <title>Sweet and Sour Chicken</title>
+      <link>http://localhost:1313/posts/sweet-and-sour-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sweet-and-sour-chicken/</guid>
+      <description>Crispy chicken in tangy sweet and sour sauce with peppers</description>
+    </item>
+    <item>
+      <title>Thai Chicken Noodle Soup</title>
+      <link>http://localhost:1313/posts/thai-chicken-noodle-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thai-chicken-noodle-soup/</guid>
+      <description>Creamy Thai coconut curry soup with chicken and rice noodles</description>
+    </item>
+  </channel>
+</rss>

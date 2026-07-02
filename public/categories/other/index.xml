@@ -1,18 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Other on </title>
-    <link>/categories/other/</link>
-    <description>Recent content in Other on </description>
+    <title>Other on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/categories/other/</link>
+    <description>Recent content in Other on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="/categories/other/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African Chicken Peanut Stew</title>
-      <link>/posts/african-chicken-peanut-stew/</link>
+      <link>http://localhost:1313/posts/african-chicken-peanut-stew/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/african-chicken-peanut-stew/</guid>
+      <guid>http://localhost:1313/posts/african-chicken-peanut-stew/</guid>
       <description>Simple Chicken Peanut Stew Recipe</description>
+    </item>
+    <item>
+      <title>Bangers and Mash with Guinness Gravy</title>
+      <link>http://localhost:1313/posts/bangers-and-mash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bangers-and-mash/</guid>
+      <description>British comfort food with sausages, mashed potatoes, and rich Guinness gravy</description>
+    </item>
+    <item>
+      <title>Beef Wellington</title>
+      <link>http://localhost:1313/posts/beef-wellington/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-wellington/</guid>
+      <description>Elegant beef tenderloin wrapped in puff pastry with mushroom duxelles</description>
+    </item>
+    <item>
+      <title>Coq au Vin</title>
+      <link>http://localhost:1313/posts/coq-au-vin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/coq-au-vin/</guid>
+      <description>French braised chicken in red wine with bacon and mushrooms</description>
+    </item>
+    <item>
+      <title>Fish and Chips</title>
+      <link>http://localhost:1313/posts/fish-and-chips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fish-and-chips/</guid>
+      <description>Classic British beer-battered fish with crispy fries</description>
+    </item>
+    <item>
+      <title>Shepherd&#39;s Pie</title>
+      <link>http://localhost:1313/posts/shepherds-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/shepherds-pie/</guid>
+      <description>British comfort food with ground lamb and mashed potato topping</description>
+    </item>
+    <item>
+      <title>Spicy Caribbean Fish</title>
+      <link>http://localhost:1313/posts/spicy-caribbean-fish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-caribbean-fish/</guid>
+      <description>White fish in coconut tomato sauce with Caribbean spices</description>
+    </item>
+    <item>
+      <title>Swedish Meatballs</title>
+      <link>http://localhost:1313/posts/swedish-meatballs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/swedish-meatballs/</guid>
+      <description>Classic Swedish meatballs in creamy gravy with allspice and nutmeg</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Beans on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/tags/beans/</link>
+    <description>Recent content in Beans on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/beans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Award Winning Beef or Vegetarian Chili</title>
+      <link>http://localhost:1313/posts/award-winning-chili/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/award-winning-chili/</guid>
+      <description>Award-winning chili with pineapple juice secret ingredient</description>
+    </item>
+    <item>
+      <title>Chicken Burritos</title>
+      <link>http://localhost:1313/posts/chicken-burritos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-burritos/</guid>
+      <description>Loaded chicken burritos with rice, beans, and fresh toppings</description>
+    </item>
+  </channel>
+</rss>

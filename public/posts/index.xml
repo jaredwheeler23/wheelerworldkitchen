@@ -1,25 +1,522 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on </title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on </description>
+    <title>Posts on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African Chicken Peanut Stew</title>
-      <link>/posts/african-chicken-peanut-stew/</link>
+      <link>http://localhost:1313/posts/african-chicken-peanut-stew/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/african-chicken-peanut-stew/</guid>
+      <guid>http://localhost:1313/posts/african-chicken-peanut-stew/</guid>
       <description>Simple Chicken Peanut Stew Recipe</description>
     </item>
     <item>
-      <title>Easy Beef Chili</title>
-      <link>/posts/test/</link>
+      <title>Apple Pie</title>
+      <link>http://localhost:1313/posts/apple-pie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/test/</guid>
+      <guid>http://localhost:1313/posts/apple-pie/</guid>
+      <description>Classic American apple pie with flaky crust and cinnamon apples</description>
+    </item>
+    <item>
+      <title>Autumn Pot Pie (Christmas Veggie Pot Pie)</title>
+      <link>http://localhost:1313/posts/autumn-pot-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/autumn-pot-pie/</guid>
+      <description>Festive vegetarian pot pie with butternut squash and cheddar crust</description>
+    </item>
+    <item>
+      <title>Award Winning Beef or Vegetarian Chili</title>
+      <link>http://localhost:1313/posts/award-winning-chili/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/award-winning-chili/</guid>
+      <description>Award-winning chili with pineapple juice secret ingredient</description>
+    </item>
+    <item>
+      <title>Banana Pudding</title>
+      <link>http://localhost:1313/posts/banana-pudding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/banana-pudding/</guid>
+      <description>Southern-style banana pudding with vanilla wafers and meringue</description>
+    </item>
+    <item>
+      <title>Bangers and Mash with Guinness Gravy</title>
+      <link>http://localhost:1313/posts/bangers-and-mash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bangers-and-mash/</guid>
+      <description>British comfort food with sausages, mashed potatoes, and rich Guinness gravy</description>
+    </item>
+    <item>
+      <title>BBQ Pulled Pork</title>
+      <link>http://localhost:1313/posts/bbq-pulled-pork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bbq-pulled-pork/</guid>
+      <description>Slow-cooked, tender pulled pork with smoky BBQ sauce - perfect for sandwiches</description>
+    </item>
+    <item>
+      <title>Beef and Broccoli</title>
+      <link>http://localhost:1313/posts/beef-and-broccoli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-and-broccoli/</guid>
+      <description>Tender beef with crisp broccoli in a savory brown sauce</description>
+    </item>
+    <item>
+      <title>Beef Fajitas</title>
+      <link>http://localhost:1313/posts/beef-fajitas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-fajitas/</guid>
+      <description>Sizzling beef fajitas with peppers and onions</description>
+    </item>
+    <item>
+      <title>Beef Stew</title>
+      <link>http://localhost:1313/posts/beef-stew/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-stew/</guid>
+      <description>Hearty beef stew with vegetables, perfect for cold evenings</description>
+    </item>
+    <item>
+      <title>Beef Wellington</title>
+      <link>http://localhost:1313/posts/beef-wellington/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-wellington/</guid>
+      <description>Elegant beef tenderloin wrapped in puff pastry with mushroom duxelles</description>
+    </item>
+    <item>
+      <title>Black Bean and Quinoa Burger</title>
+      <link>http://localhost:1313/posts/black-bean-quinoa-burger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/black-bean-quinoa-burger/</guid>
+      <description>Healthy vegetarian burger with black beans, quinoa, and spices</description>
+    </item>
+    <item>
+      <title>Bread Pudding</title>
+      <link>http://localhost:1313/posts/bread-pudding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/bread-pudding/</guid>
+      <description>Classic New Orleans bread pudding with whiskey sauce</description>
+    </item>
+    <item>
+      <title>Butter Chicken</title>
+      <link>http://localhost:1313/posts/butter-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/butter-chicken/</guid>
+      <description>Creamy Indian curry with tender chicken in tomato-based sauce</description>
+    </item>
+    <item>
+      <title>Butterscotch Pudding with Chocolate Scribbles</title>
+      <link>http://localhost:1313/posts/butterscotch-pudding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/butterscotch-pudding/</guid>
+      <description>Rich, homemade butterscotch pudding topped with dark chocolate decorations</description>
+    </item>
+    <item>
+      <title>Carnitas</title>
+      <link>http://localhost:1313/posts/carnitas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/carnitas/</guid>
+      <description>Tender, crispy Mexican pulled pork - perfect for tacos</description>
+    </item>
+    <item>
+      <title>Chicken and Dumplings (Instant Pot Style)</title>
+      <link>http://localhost:1313/posts/chicken-and-dumplings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-and-dumplings/</guid>
+      <description>Comfort food classic with tender chicken and fluffy dumplings</description>
+    </item>
+    <item>
+      <title>Chicken Burritos</title>
+      <link>http://localhost:1313/posts/chicken-burritos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-burritos/</guid>
+      <description>Loaded chicken burritos with rice, beans, and fresh toppings</description>
+    </item>
+    <item>
+      <title>Chicken Fried Rice</title>
+      <link>http://localhost:1313/posts/chicken-fried-rice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-fried-rice/</guid>
+      <description>Restaurant-style fried rice with chicken, eggs, and vegetables</description>
+    </item>
+    <item>
+      <title>Chicken Parmesan</title>
+      <link>http://localhost:1313/posts/chicken-parmesan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-parmesan/</guid>
+      <description>Breaded chicken cutlets topped with marinara and melted cheese</description>
+    </item>
+    <item>
+      <title>Chicken Teriyaki</title>
+      <link>http://localhost:1313/posts/chicken-teriyaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-teriyaki/</guid>
+      <description>Grilled chicken with homemade teriyaki glaze</description>
+    </item>
+    <item>
+      <title>Chicken Tikka Masala</title>
+      <link>http://localhost:1313/posts/chicken-tikka-masala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-tikka-masala/</guid>
+      <description>Classic Indian chicken tikka masala with overnight marinade</description>
+    </item>
+    <item>
+      <title>Chicken Tortilla Soup</title>
+      <link>http://localhost:1313/posts/chicken-tortilla-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-tortilla-soup/</guid>
+      <description>Mexican chicken soup with black beans, corn, and crispy tortilla strips</description>
+    </item>
+    <item>
+      <title>Chile Verde</title>
+      <link>http://localhost:1313/posts/chile-verde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chile-verde/</guid>
+      <description>Tender pork in a tangy green chile sauce</description>
+    </item>
+    <item>
+      <title>Chocolate Chip Brownies</title>
+      <link>http://localhost:1313/posts/chocolate-chip-brownies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chocolate-chip-brownies/</guid>
+      <description>Fudgy brownies loaded with chocolate chips</description>
+    </item>
+    <item>
+      <title>Chocolate Lava Cakes</title>
+      <link>http://localhost:1313/posts/chocolate-lava-cakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chocolate-lava-cakes/</guid>
+      <description>Individual molten chocolate cakes with gooey centers</description>
+    </item>
+    <item>
+      <title>Classic Beef Tacos</title>
+      <link>http://localhost:1313/posts/beef-tacos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-tacos/</guid>
+      <description>Seasoned ground beef tacos with all the fixings - a family favorite</description>
+    </item>
+    <item>
+      <title>Classic Coleslaw</title>
+      <link>http://localhost:1313/posts/coleslaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/coleslaw/</guid>
+      <description>Creamy, tangy coleslaw - the perfect side dish for BBQ</description>
+    </item>
+    <item>
+      <title>Classic Meatloaf</title>
+      <link>http://localhost:1313/posts/meatloaf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/meatloaf/</guid>
+      <description>Traditional meatloaf with a tangy glaze - pure comfort food</description>
+    </item>
+    <item>
+      <title>Classic Roast Chicken</title>
+      <link>http://localhost:1313/posts/roast-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/roast-chicken/</guid>
+      <description>Perfectly roasted whole chicken with crispy skin and juicy meat</description>
+    </item>
+    <item>
+      <title>Classic Tiramisu</title>
+      <link>http://localhost:1313/posts/tiramisu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tiramisu/</guid>
+      <description>Italian coffee-soaked dessert with mascarpone and cocoa</description>
+    </item>
+    <item>
+      <title>Coq au Vin</title>
+      <link>http://localhost:1313/posts/coq-au-vin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/coq-au-vin/</guid>
+      <description>French braised chicken in red wine with bacon and mushrooms</description>
+    </item>
+    <item>
+      <title>Corn Cheddar Chowder</title>
+      <link>http://localhost:1313/posts/corn-cheddar-chowder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/corn-cheddar-chowder/</guid>
+      <description>Creamy corn chowder with sharp cheddar cheese and vegetables</description>
+    </item>
+    <item>
+      <title>Creamy Mac and Cheese</title>
+      <link>http://localhost:1313/posts/mac-and-cheese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mac-and-cheese/</guid>
+      <description>Classic homemade macaroni and cheese with a crispy breadcrumb topping</description>
+    </item>
+    <item>
+      <title>Creamy Mushroom Quesadillas</title>
+      <link>http://localhost:1313/posts/creamy-mushroom-quesadillas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creamy-mushroom-quesadillas/</guid>
+      <description>Vegetarian quesadillas with sautéed mushrooms and cream cheese</description>
+    </item>
+    <item>
+      <title>Creamy Seafood Stew/Chowder</title>
+      <link>http://localhost:1313/posts/creamy-seafood-chowder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creamy-seafood-chowder/</guid>
+      <description>Rich seafood chowder with white fish, shrimp, and vegetables</description>
+    </item>
+    <item>
+      <title>Crème Brûlée</title>
+      <link>http://localhost:1313/posts/creme-brulee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/creme-brulee/</guid>
+      <description>Classic French custard with caramelized sugar topping</description>
+    </item>
+    <item>
+      <title>Easy Alfredo Pasta with Veggies and Italian Sausage</title>
+      <link>http://localhost:1313/posts/easy-alfredo-pasta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/easy-alfredo-pasta/</guid>
+      <description>Quick alfredo pasta loaded with vegetables and spicy sausage</description>
+    </item>
+    <item>
+      <title>Easy Beef Chili</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>Simple homemade beef chili</description>
+    </item>
+    <item>
+      <title>Fettuccine with Caramelized Onions and Yogurt</title>
+      <link>http://localhost:1313/posts/fettuccine-caramelized-onions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fettuccine-caramelized-onions/</guid>
+      <description>Simple pasta with deeply caramelized onions and tangy yogurt sauce</description>
+    </item>
+    <item>
+      <title>Fish and Chips</title>
+      <link>http://localhost:1313/posts/fish-and-chips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fish-and-chips/</guid>
+      <description>Classic British beer-battered fish with crispy fries</description>
+    </item>
+    <item>
+      <title>Grandma Emily&#39;s Lentil Soup</title>
+      <link>http://localhost:1313/posts/grandma-emilys-lentil-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/grandma-emilys-lentil-soup/</guid>
+      <description>Traditional lentil soup with pasta and vegetables</description>
+    </item>
+    <item>
+      <title>Green Bean Salad</title>
+      <link>http://localhost:1313/posts/green-bean-salad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/green-bean-salad/</guid>
+      <description>Fresh green bean salad with feta, tomatoes, and oregano dressing</description>
+    </item>
+    <item>
+      <title>Guacamole</title>
+      <link>http://localhost:1313/posts/guacamole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/guacamole/</guid>
+      <description>Fresh, chunky guacamole with lime and cilantro</description>
+    </item>
+    <item>
+      <title>Homemade Salsa</title>
+      <link>http://localhost:1313/posts/homemade-salsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/homemade-salsa/</guid>
+      <description>Fresh, zesty homemade salsa with tomatoes and cilantro</description>
+    </item>
+    <item>
+      <title>Italian Wedding Soup, The Dill Version</title>
+      <link>http://localhost:1313/posts/italian-wedding-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/italian-wedding-soup/</guid>
+      <description>Classic Italian wedding soup with homemade meatballs and fresh dill</description>
+    </item>
+    <item>
+      <title>Korean Bulgogi</title>
+      <link>http://localhost:1313/posts/korean-bulgogi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/korean-bulgogi/</guid>
+      <description>Marinated Korean BBQ beef with sweet and savory flavors</description>
+    </item>
+    <item>
+      <title>Lasagna (Meat or Veggie)</title>
+      <link>http://localhost:1313/posts/lasagna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/lasagna/</guid>
+      <description>Classic Italian lasagna with marinara, ricotta, and mozzarella</description>
+    </item>
+    <item>
+      <title>Mama&#39;s Chocolate Cake</title>
+      <link>http://localhost:1313/posts/mamas-chocolate-cake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mamas-chocolate-cake/</guid>
+      <description>Classic chocolate layer cake with rich cocoa frosting</description>
+    </item>
+    <item>
+      <title>Margherita Pizza</title>
+      <link>http://localhost:1313/posts/margherita-pizza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/margherita-pizza/</guid>
+      <description>Classic pizza with tomato, mozzarella, and fresh basil</description>
+    </item>
+    <item>
+      <title>Miso, Noodle, Peanut Soup</title>
+      <link>http://localhost:1313/posts/miso-peanut-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/miso-peanut-soup/</guid>
+      <description>Quick Japanese-inspired miso soup with peanut butter</description>
+    </item>
+    <item>
+      <title>Mushroom Risotto</title>
+      <link>http://localhost:1313/posts/mushroom-risotto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mushroom-risotto/</guid>
+      <description>Creamy, luxurious risotto with earthy mushrooms</description>
+    </item>
+    <item>
+      <title>New York Cheesecake</title>
+      <link>http://localhost:1313/posts/cheesecake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cheesecake/</guid>
+      <description>Rich, creamy cheesecake with graham cracker crust</description>
+    </item>
+    <item>
+      <title>Oatmeal Chocolate Chip Cookies</title>
+      <link>http://localhost:1313/posts/oatmeal-chocolate-chip-cookies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/oatmeal-chocolate-chip-cookies/</guid>
+      <description>Chewy oatmeal cookies loaded with chocolate chips</description>
+    </item>
+    <item>
+      <title>Osso Buco</title>
+      <link>http://localhost:1313/posts/osso-buco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/osso-buco/</guid>
+      <description>Braised veal shanks in white wine and vegetables - a Milanese classic</description>
+    </item>
+    <item>
+      <title>Pad Thai</title>
+      <link>http://localhost:1313/posts/pad-thai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pad-thai/</guid>
+      <description>Classic Thai stir-fried noodles with tamarind, peanuts, and lime</description>
+    </item>
+    <item>
+      <title>Palak Paneer</title>
+      <link>http://localhost:1313/posts/palak-paneer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/palak-paneer/</guid>
+      <description>Indian spinach curry with paneer cheese</description>
+    </item>
+    <item>
+      <title>Pasta Tutto Giardino (White Sauce Primavera)</title>
+      <link>http://localhost:1313/posts/pasta-tutto-giardino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pasta-tutto-giardino/</guid>
+      <description>Fresh vegetable pasta in creamy white sauce</description>
+    </item>
+    <item>
+      <title>Penne Arrabbiata</title>
+      <link>http://localhost:1313/posts/penne-arrabbiata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/penne-arrabbiata/</guid>
+      <description>Spicy tomato pasta with garlic and red pepper flakes</description>
+    </item>
+    <item>
+      <title>Pressure Cooker Chicken Pho</title>
+      <link>http://localhost:1313/posts/chicken-pho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-pho/</guid>
+      <description>Authentic Vietnamese chicken pho made quick in a pressure cooker</description>
+    </item>
+    <item>
+      <title>Shepherd&#39;s Pie</title>
+      <link>http://localhost:1313/posts/shepherds-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/shepherds-pie/</guid>
+      <description>British comfort food with ground lamb and mashed potato topping</description>
+    </item>
+    <item>
+      <title>Southern Fried Chicken</title>
+      <link>http://localhost:1313/posts/fried-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fried-chicken/</guid>
+      <description>Crispy, juicy fried chicken with a perfectly seasoned coating</description>
+    </item>
+    <item>
+      <title>Spaghetti Carbonara</title>
+      <link>http://localhost:1313/posts/spaghetti-carbonara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spaghetti-carbonara/</guid>
+      <description>Classic Roman pasta with eggs, cheese, and pancetta</description>
+    </item>
+    <item>
+      <title>Spicy Caribbean Fish</title>
+      <link>http://localhost:1313/posts/spicy-caribbean-fish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-caribbean-fish/</guid>
+      <description>White fish in coconut tomato sauce with Caribbean spices</description>
+    </item>
+    <item>
+      <title>Spicy Chicken Ramen</title>
+      <link>http://localhost:1313/posts/spicy-chicken-ramen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-chicken-ramen/</guid>
+      <description>Homemade spicy chicken ramen with gochujang and chili crisp</description>
+    </item>
+    <item>
+      <title>Spicy Tomato Soup</title>
+      <link>http://localhost:1313/posts/spicy-tomato-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-tomato-soup/</guid>
+      <description>Creamy tomato soup with a kick of spice, perfect with garlic bread</description>
+    </item>
+    <item>
+      <title>Swedish Meatballs</title>
+      <link>http://localhost:1313/posts/swedish-meatballs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/swedish-meatballs/</guid>
+      <description>Classic Swedish meatballs in creamy gravy with allspice and nutmeg</description>
+    </item>
+    <item>
+      <title>Sweet and Sour Chicken</title>
+      <link>http://localhost:1313/posts/sweet-and-sour-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sweet-and-sour-chicken/</guid>
+      <description>Crispy chicken in tangy sweet and sour sauce with peppers</description>
+    </item>
+    <item>
+      <title>Texas Style Quesadillas</title>
+      <link>http://localhost:1313/posts/texas-quesadillas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/texas-quesadillas/</guid>
+      <description>Loaded quesadillas with peppers, onions, and Mexican cheese</description>
+    </item>
+    <item>
+      <title>Thai Chicken Noodle Soup</title>
+      <link>http://localhost:1313/posts/thai-chicken-noodle-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thai-chicken-noodle-soup/</guid>
+      <description>Creamy Thai coconut curry soup with chicken and rice noodles</description>
+    </item>
+    <item>
+      <title>Vegetarian Enchiladas with Black Bean and Zucchini</title>
+      <link>http://localhost:1313/posts/vegetarian-enchiladas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vegetarian-enchiladas/</guid>
+      <description>Delicious vegetarian enchiladas loaded with beans, zucchini, and peppers</description>
+    </item>
+    <item>
+      <title>Veggie Pot Pie</title>
+      <link>http://localhost:1313/posts/veggie-pot-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/veggie-pot-pie/</guid>
+      <description>Hearty vegetarian pot pie with mushrooms, carrots, and puff pastry</description>
+    </item>
+    <item>
+      <title>Veggie Shepherds Pie</title>
+      <link>http://localhost:1313/posts/veggie-shepherds-pie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/veggie-shepherds-pie/</guid>
+      <description>Vegetarian shepherd&amp;#39;s pie with lentils, kale, and mashed potatoes</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Asian on Wheeler World Kitchen</title>
+    <link>http://localhost:1313/categories/asian/</link>
+    <description>Recent content in Asian on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/categories/asian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beef and Broccoli</title>
+      <link>http://localhost:1313/posts/beef-and-broccoli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beef-and-broccoli/</guid>
+      <description>Tender beef with crisp broccoli in a savory brown sauce</description>
+    </item>
+    <item>
+      <title>Chicken Fried Rice</title>
+      <link>http://localhost:1313/posts/chicken-fried-rice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-fried-rice/</guid>
+      <description>Restaurant-style fried rice with chicken, eggs, and vegetables</description>
+    </item>
+    <item>
+      <title>Chicken Teriyaki</title>
+      <link>http://localhost:1313/posts/chicken-teriyaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-teriyaki/</guid>
+      <description>Grilled chicken with homemade teriyaki glaze</description>
+    </item>
+    <item>
+      <title>Korean Bulgogi</title>
+      <link>http://localhost:1313/posts/korean-bulgogi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/korean-bulgogi/</guid>
+      <description>Marinated Korean BBQ beef with sweet and savory flavors</description>
+    </item>
+    <item>
+      <title>Miso, Noodle, Peanut Soup</title>
+      <link>http://localhost:1313/posts/miso-peanut-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/miso-peanut-soup/</guid>
+      <description>Quick Japanese-inspired miso soup with peanut butter</description>
+    </item>
+    <item>
+      <title>Pad Thai</title>
+      <link>http://localhost:1313/posts/pad-thai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pad-thai/</guid>
+      <description>Classic Thai stir-fried noodles with tamarind, peanuts, and lime</description>
+    </item>
+    <item>
+      <title>Pressure Cooker Chicken Pho</title>
+      <link>http://localhost:1313/posts/chicken-pho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/chicken-pho/</guid>
+      <description>Authentic Vietnamese chicken pho made quick in a pressure cooker</description>
+    </item>
+    <item>
+      <title>Spicy Chicken Ramen</title>
+      <link>http://localhost:1313/posts/spicy-chicken-ramen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spicy-chicken-ramen/</guid>
+      <description>Homemade spicy chicken ramen with gochujang and chili crisp</description>
+    </item>
+    <item>
+      <title>Sweet and Sour Chicken</title>
+      <link>http://localhost:1313/posts/sweet-and-sour-chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/sweet-and-sour-chicken/</guid>
+      <description>Crispy chicken in tangy sweet and sour sauce with peppers</description>
+    </item>
+    <item>
+      <title>Thai Chicken Noodle Soup</title>
+      <link>http://localhost:1313/posts/thai-chicken-noodle-soup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/thai-chicken-noodle-soup/</guid>
+      <description>Creamy Thai coconut curry soup with chicken and rice noodles</description>
+    </item>
+  </channel>
+</rss>
