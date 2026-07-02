@@ -1,3 +1,4 @@
+# Site configuration - Updated to trigger rebuild
 baseURL = "https://wheelerworldkitchen.com/"
 languageCode = "en-us"
 title = "Wheeler World Kitchen"
