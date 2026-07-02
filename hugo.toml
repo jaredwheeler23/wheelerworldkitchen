@@ -4,6 +4,9 @@ languageCode = "en-us"
 title = "Wheeler World Kitchen"
 theme = "PaperMod"
 
+# Google Analytics
+googleAnalytics = "G-2546PJ56CN"
+
 [params]
   # Enable search
   showSearchPage = true
