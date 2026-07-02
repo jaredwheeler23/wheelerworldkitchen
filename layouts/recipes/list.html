@@ -28,8 +28,8 @@
   <div class="recipe-card-grid">
     {{- range $recipes -}}
     <article class="recipe-card" 
-             data-categories="{{ delimit .Params.categories "|" | lower }}" 
-             data-tags="{{ delimit .Params.tags "|" | lower }}">
+             data-categories="{{ if .Params.categories }}{{ delimit .Params.categories "|" | lower }}{{ end }}" 
+             data-tags="{{ if .Params.tags }}{{ delimit .Params.tags "|" | lower }}{{ end }}">
       <a class="recipe-card-link" href="{{ .RelPermalink }}">
         {{ with .Params.image }}
         <div class="recipe-card-image">
