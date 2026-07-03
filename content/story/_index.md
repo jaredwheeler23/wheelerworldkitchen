@@ -22,9 +22,17 @@ Believe it or not, teaching my humans and step son the proper cooking (and even 
 
 My stepson whom I have come to love slowly over the many years is a hard nut to crack.  It is a lucky day where he even eats normal food much less anything remotely resembling quality.  Kids these days...  
 
-Speaking of which, my humans decided to have their own pup.  Would have been nice to get my blessing but oh well she is quite cute.  I haven't started training her yet, my habits are well lower than the level needed to be within my realm of patience.  That said, my step son, even without knowing it, seems to be helping.  He sits with her daily and discusses the world.  Hopefully, one day me and her can come together to help her grow up.
+Speaking of which, my humans decided to have their own pup.  Would have been nice to get my blessing but oh well she is quite cute.  I haven't started training her yet, her habits are well lower than my realm of patience.  She just chugs basic things...not even a spice!  
+
+![baby chugging](/images/chug.jpg)
+
+That said, my step son, even without knowing it, seems to be helping.  He sits with her daily and discusses the world.  Hopefully, one day me and her can come together to help her grow her palette.
 
 ![Cooking process](/images/baby_and_louie.jpg)
+
+Alas, there is one more family member I almost don't mention but I must to be fair, they do share my same last name afterall.  My nemesis, the mean scratchy claw fang fur beast, that lives with me occasionally.  Him, I just try to stay away but I suppose with enough good cooking maybe one day he will come around and leave me to my couch.
+
+![nemesis](/images/nemesis.jpg)
 
 ## The Recipes
 
@@ -38,5 +46,8 @@ This collection of recipes intends to encompass a range of comfort foods and tra
 
 Thank you for being part of Wheeler World Kitchen. We hope our recipes inspire you to create delicious meals and lasting memories with your loved ones.  Please leave comments or send me an email with any suggestions on the contact page.
 
+Finally, after much insinuation and hints, the human has figured it out.  It is time for a walk!
+
+![finally a walk](/images/walk.jpg)
 ---
 
