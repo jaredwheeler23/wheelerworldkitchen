@@ -4,7 +4,7 @@ title: "Wheeler World Kitchen"
 
 # Welcome to Wheeler World Kitchen
 
-Homestyle recipes, comfort food, and family favorites crafted with love.
+Homestyle recipes, international comfort food, and family favorites crafted with love.
 
 ---
 
@@ -12,11 +12,16 @@ Homestyle recipes, comfort food, and family favorites crafted with love.
 
 Explore our collection of delicious recipes organized by cuisine and meal type:
 
-- **American Classics** - Traditional comfort food favorites
-- **Mexican Cuisine** - Flavorful south-of-the-border dishes
-- **Side Dishes** - Perfect accompaniments for any meal
-- **Easy Weeknight Meals** - Quick and delicious recipes for busy nights
+- **American Classics** - A wide variety of comfort foods
+- **Mexican Cuisine** - A mix of Tex-Mex and Sonoran cuisine
+- **Italian Cuisine** - Fan favorites with twists
+- **Asian Cuisine** - Traditional noodles, rice and comfort foods
+- **sides and soups** - to fill the cracks in the above mains
+- **and many more**
 
 ---
 
-Browse our recipes below to find your next family favorite!
+Intentionally, the vast majority of ingredients can be sourced at your local super markets in the US.  A few here and there 
+had to be sourced at asian or international markets.
+
+Browse our recipes or scroll below to see some of our most recent posts.
