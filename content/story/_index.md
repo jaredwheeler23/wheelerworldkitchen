@@ -2,7 +2,7 @@
 title: "Our Story"
 ---
 
-# Our Story
+
 
 Welcome to Wheeler World Kitchen! This is where we share our journey and passion for cooking.
 
@@ -30,7 +30,7 @@ That said, my step son, even without knowing it, seems to be helping.  He sits w
 
 ![Cooking process](/images/baby_and_louie.jpg)
 
-Alas, there is one more family member I almost don't mention but I must to be fair, they do share my same last name afterall.  My nemesis, the mean scratchy claw fang fur beast, that lives with me occasionally.  Him, I just try to stay away but I suppose with enough good cooking maybe one day he will come around and leave me to my couch.
+Alas, there is one more family member I almost don't mention but I must to be fair, they do share my same last name after all.  My nemesis, the mean scratchy claw fang fur beast, that lives with me occasionally.  Him, I just try to stay away from but I suppose with enough good cooking maybe one day he will come around and leave me to my couch.
 
 ![nemesis](/images/nemesis.jpg)
 
@@ -40,14 +40,18 @@ Finally, enough about me and let's discuss the main course.
 
 This collection of recipes intends to encompass a range of comfort foods and traditional fair from many places around the world.  From my travels and at home, these have been my favorite recipes and I hope you enjoy them as well.
 
-![Taking care of secondary human](/images/camping.jpg)
 
 ## Join Our Journey
 
 Thank you for being part of Wheeler World Kitchen. We hope our recipes inspire you to create delicious meals and lasting memories with your loved ones.  Please leave comments or send me an email with any suggestions on the contact page.
 
-Finally, after much insinuation and hints, the human has figured it out.  It is time for a walk!
+Finally, after much insinuation and hints, the human has figured it out.  It is time for me to take them for a walk!
 
 ![finally a walk](/images/walk.jpg)
+
+And another night of taking care of my humans!
+
+![Taking care of secondary human](/images/camping.jpg)
+
 ---
 
