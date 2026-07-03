@@ -6,36 +6,37 @@ title: "Our Story"
 
 Welcome to Wheeler World Kitchen! This is where we share our journey and passion for cooking.
 
-![Family cooking together](/images/family-kitchen.jpg)
+![me before cooking](/images/dirty.jpg)
 
 ## How It All Began
 
-[Add your story here about how you got started with cooking, what inspired you, or memorable moments in the kitchen...]
+My name is Winston Chickeneater Wheeler.  Two passions have followed me throughout my life, cooking and walks.  The former neccesatitates the creation of this page.  Without it, my humans would be lost and have no idea what they are cooking (for me).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Our love for cooking began many years ago when we first discovered the joy of creating delicious meals for family and friends. Every recipe tells a story, and every dish brings people together around the table.
+It all became real about 5 years ago when my human Jared came into my life.  For some reason my primary human Michelle seemed to fall for him and that means I have to as well??  Anyway, he thought that meals needed to be cooked and not brought to the front door by strangers that dropped food off and left.  Why would they abandon food so nonchelantly...must not be very good.  But did he know what he was doing? No...  I had to step in and support this effort tirelessly in order to keep him in line.  This kicked off a 5 year journey to where we are today.
 
-![Our first recipe](/images/first-recipe.jpg)
+![after a good meal](/images/tree.jpg)
 
-## Our Philosophy
+## My Family and Goals
 
-[Share your cooking philosophy, values, or what makes your recipes special...]
+Believe it or not, teaching my humans and step son the proper cooking (and even eating) techniques has not been easy.  
 
-We believe in using fresh ingredients, tried-and-true techniques, and lots of love in every dish we create. Our recipes are designed to be accessible, delicious, and perfect for bringing families together.
+My stepson whom I have come to love slowly over the many years is a hard nut to crack.  It is a lucky day where he even eats normal food much less anything remotely resembling quality.  Kids these days...  
 
-![Cooking process](/images/cooking-process.jpg)
+Speaking of which, my humans decided to have their own pup.  Woudl have been nice to get my blessing but oh well she is quite cute.  I haven't started training her yet, my habits are well lower than the level needed to be within my realm of patience.  That said, my step son, even without knowing it, seems to be helping.  He sits with her daily and discusses the world.  Hopefully, one day me and her can come together to help her grow up.
+
+![Cooking process](/images/baby_and_louie.jpg)
 
 ## The Recipes
 
-[Talk about your recipe collection, where they come from, family traditions, etc...]
+Finally, enough about me and let's discuss the main course.
 
-Each recipe in our collection has been tested, perfected, and enjoyed by our family. From weeknight dinners to special occasion meals, we're excited to share these favorites with you.
+This collection of recipes intends to encompass a range of comfort foods and traditional fair from many places around the world.  From my travels and at home, these have been my favorite recipes and I hope you enjoy them as well.
 
-![Finished dish](/images/finished-dish.jpg)
+![Taking care of secondary human](/images/camping.jpg)
 
 ## Join Our Journey
 
-Thank you for being part of Wheeler World Kitchen. We hope our recipes inspire you to create delicious meals and lasting memories with your loved ones.
+Thank you for being part of Wheeler World Kitchen. We hope our recipes inspire you to create delicious meals and lasting memories with your loved ones.  Please leave comments or send me an email with any suggestions on the contact page.
 
 ---
 
-*[Add any additional paragraphs, images, or sections as you'd like!]*
