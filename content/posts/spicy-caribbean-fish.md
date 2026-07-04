@@ -2,7 +2,7 @@
 title: "Spicy Caribbean Fish"
 description: "Great hearty dish, serve over rice"
 categories: ["American"]
-tags: ["caribbean, "seafood"]
+tags: ["caribbean", "seafood"]
 prepTime: "PT25M"
 cookTime: "PT30M"
 totalTime: "PT0H55M"
