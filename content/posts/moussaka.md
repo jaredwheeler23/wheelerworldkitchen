@@ -1,15 +1,14 @@
 ---
 title: "Moussaka"
-date: 2025-01-20
-draft: false
-tags: ["greek", "beef", "eggplant"]
+description: "Classic Greek Version of Lasagna"
+categories: ["Greek", "Mediterranean"]
+tags: ["greek", "lasagna", "mediterranean", "comfort food"]
+prepTime: "PT45M"
+cookTime: "PT90M"
+totalTime: "PT2H15M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 45 min
-- **Cook:** 1.25 hours
-- **Rating:** 10/10
-- **Servings:** 4-6
 
 ## Ingredients
 - 2 lb eggplant sliced 0.3" thickness (discard ends)

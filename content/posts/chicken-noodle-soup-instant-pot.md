@@ -1,7 +1,7 @@
 ---
 title: "Chicken Noodle Soup in Instant Pot"
 description: "Classic chicken noodle soup made quickly in the instant pot"
-categories: ["American"]
+categories: ["American", "Soup or Stew"]
 tags: ["soup", "chicken", "noodles", "instant-pot", "pressure-cooker", "comfort-food"]
 prepTime: "PT30M"
 cookTime: "PT0M"

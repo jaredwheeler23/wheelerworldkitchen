@@ -1,7 +1,7 @@
 ---
 title: "Greek Rice"
 description: "Aromatic rice with turmeric, cumin, and pine nuts - perfect side dish"
-categories: ["Greek", "Side Dishes"]
+categories: ["Greek", "Side"]
 tags: ["rice", "greek", "turmeric", "pine-nuts", "cilantro"]
 prepTime: "PT10M"
 cookTime: "PT30M"

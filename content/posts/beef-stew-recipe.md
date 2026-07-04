@@ -1,7 +1,7 @@
 ---
 title: "Beef Stew"
 description: "Hearty beef stew with vegetables and rich broth"
-categories: ["American", "Stew"]
+categories: ["American", "Stew", "soup"]
 tags: ["beef", "stew", "comfort-food", "vegetables", "slow-cooked"]
 prepTime: "PT15M"
 cookTime: "PT2H"

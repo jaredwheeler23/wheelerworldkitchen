@@ -10,7 +10,7 @@ Welcome to Wheeler World Kitchen! This is where we share our journey and passion
 
 ## How It All Began
 
-My name is Winston Chicken-eater Wheeler.  Two passions have followed me throughout my life, cooking and walks.  The former neccesatitates the creation of this page.  Without it, my humans would be lost.  This page is an instructional aid for them (to cook for me).
+My name is Winston Chicken-Lover Wheeler.  Two passions have followed me throughout my life, cooking and walks.  The former neccesitates the creation of this page.  Without it, my humans would be lost.  This page is an instructional aid for them (to cook for me).
 
 It all became real about 5 years ago when my secondary human, loud & hairy bed thief who sometimes feeds me, came into my life.  For some reason my primary human, sweet snuggler woman who walks me, seemed to fall for him and that means I have to as well??  Anyway, he thought that meals needed to be cooked and not brought to the front door by strangers that dropped food off and left.  Why would they abandon food so nonchelantly...must not be very good.  But did he know what he was doing? No...  I had to step in and support this effort tirelessly in order to keep him in line.  This kicked off a 5 year journey to where we are today.
 
@@ -18,21 +18,21 @@ It all became real about 5 years ago when my secondary human, loud & hairy bed t
 
 ## My Family and Goals
 
-Believe it or not, teaching my humans and step son the proper cooking (and even eating) techniques has not been easy.  
+Believe it or not, teaching my humans and step-dog the proper cooking (and even eating) techniques has not been easy.  
 
-My stepson whom I have come to love slowly over the many years is a hard nut to crack.  It is a lucky day where he even eats normal food much less anything remotely resembling quality.  Kids these days...  
+My step-dog whom I have come to love slowly over the many years is a hard nut to crack.  It is a lucky day where he even eats normal food much less anything remotely resembling quality.  Kids these days...  
 
-Speaking of which, my humans decided to have their own pup.  Would have been nice to get my blessing but oh well she is quite cute.  I haven't started training her yet, her habits are well lower than my realm of patience.  She just chugs basic things...not even a spice!  
+Speaking of which, my humans decided to have their own pup.  Would have been nice to get my blessing but oh well she is quite cute.  I haven't started training her yet, her habits are far beneath my realm of patience.  She just chugs basic things...not even a spice!  
 
 ![baby chugging](/images/chug.jpg)
 
-That said, my step son, even without knowing it, seems to be helping.  He sits with her daily and discusses the world.  Hopefully, one day me and her can come together to help her grow her palette.
+That said, my step-dog, without knowing it, seems to be helping.  He sits with her daily and discusses the world.  Hopefully, one day me and her can come together to help her grow her palette.
 
 ![Cooking process](/images/baby_and_louie.jpg)
 
 Alas, there is one more family member I almost don't mention but I must to be fair, they do share my same last name after all.  My nemesis, the mean scratchy claw fang fur beast, that lives with me occasionally.  Him, I just try to stay away from but I suppose with enough good cooking maybe one day he will come around and leave me to my couch.
 
-![nemesis](/images/nemesis.jpg)
+![nemesis](/images/cleo_story.jpg)
 
 ## The Recipes
 

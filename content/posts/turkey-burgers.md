@@ -1,15 +1,14 @@
 ---
 title: "Turkey Burgers"
-date: 2025-01-20
-draft: false
-tags: ["turkey", "burgers", "grilling"]
+description: "Simple grillable (or stove top) recipe"
+categories: ["American", "Hand Held"]
+tags: ["burger"]
+prepTime: "PT20M"
+cookTime: "PT20M"
+totalTime: "PT40M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 20 min
-- **Cook:** 20 min
-- **Rating:** 10/10
-- **Servings:** 3-4
 
 ## Ingredients (meat)
 - 2 lb ground turkey

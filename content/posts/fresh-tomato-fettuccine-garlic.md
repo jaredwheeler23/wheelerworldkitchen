@@ -1,7 +1,7 @@
 ---
 title: "Fresh Tomato Fettuccine with Garlic"
 description: "Light summer pasta with fresh tomatoes, basil, and garlic"
-categories: ["Italian"]
+categories: ["Italian", "Pasta"]
 tags: ["pasta", "tomato", "basil", "garlic", "fresh", "summer"]
 prepTime: "PT30M"
 cookTime: "PT15M"

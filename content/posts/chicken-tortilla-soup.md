@@ -1,7 +1,7 @@
 ---
 title: "Chicken Tortilla Soup"
 description: "Flavorful Mexican soup with chicken, black beans, and crispy tortilla strips"
-categories: ["Mexican"]
+categories: ["Mexican", Soup or Stew"]
 tags: ["soup", "chicken", "tortilla", "black-beans", "mexican"]
 prepTime: "PT15M"
 cookTime: "PT35M"

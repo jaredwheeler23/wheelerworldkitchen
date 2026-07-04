@@ -1,7 +1,7 @@
 ---
 title: "Cheesy Pesto Pull Apart Bread Appetizer"
 description: "Delicious pull-apart bread filled with pesto and melted mozzarella"
-categories: ["Appetizer"]
+categories: ["Appetizer", "Italian"]
 tags: ["bread", "pesto", "cheese", "appetizer", "party"]
 prepTime: "PT10M"
 cookTime: "PT10M"

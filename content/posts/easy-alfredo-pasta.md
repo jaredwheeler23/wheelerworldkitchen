@@ -1,7 +1,7 @@
 ---
 title: "Easy Alfredo Pasta with Veggies and Spicy Italian Sausage"
 description: "Quick and delicious alfredo pasta loaded with vegetables and optional spicy sausage"
-categories: ["Italian"]
+categories: ["Italian", "Pasta"]
 tags: ["pasta", "alfredo", "italian-sausage", "vegetables", "quick"]
 prepTime: "PT15M"
 cookTime: "PT25M"

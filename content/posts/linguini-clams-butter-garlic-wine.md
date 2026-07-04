@@ -1,7 +1,7 @@
 ---
 title: "Linguini and Clams in Butter/Garlic/Wine Sauce"
 description: "Classic Italian pasta with fresh clams in a white wine butter sauce"
-categories: ["Italian"]
+categories: ["Italian", "Pasta"]
 tags: ["pasta", "seafood", "clams", "white-wine", "garlic"]
 prepTime: "PT10M"
 cookTime: "PT20M"

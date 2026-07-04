@@ -1,15 +1,14 @@
 ---
 title: "Naan"
-date: 2025-01-20
-draft: false
-tags: ["bread", "indian", "quick"]
+description: "Classic Indian Break"
+categories: ["Indian", "Side"]
+tags: ["indian", "bread", "naan", "side"]
+prepTime: "PT10M"
+cookTime: "PT10M"
+totalTime: "PT0H20M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 min
-- **Cook:** 10 min
-- **Rating:** 10/10
-- **Servings:** 3-4
 
 ## Ingredients
 - 1.5 cups all purpose flour

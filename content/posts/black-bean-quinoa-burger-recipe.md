@@ -1,7 +1,7 @@
 ---
 title: "Black Bean and Quinoa Burger"
 description: "Healthy vegetarian burger with black beans, quinoa, and spices"
-categories: ["Vegetarian", "Main Dish"]
+categories: ["Vegetarian", "American", "hand-held"]
 tags: ["burger", "black-beans", "quinoa", "vegetarian", "healthy"]
 prepTime: "PT10M"
 cookTime: "PT15M"
@@ -13,7 +13,7 @@ rating: 5
 ## Ingredients
 
 **Burger:**
-- ? ? cup quinoa (cook according to package instructions)
+- 1/3 cup quinoa (cook according to package instructions)
 - 1 can black beans (drained and rinsed well)
 - 1/2 cup bread crumbs
 - Half bell pepper (any color)

@@ -1,7 +1,7 @@
 ---
 title: "Creamy Sausage and Potato Soup"
 description: "Rich and hearty soup with sausage, potatoes, and cream"
-categories: ["Soup", "Comfort Food"]
+categories: ["American", Soup or Stew"]
 tags: ["sausage", "potato", "soup", "creamy", "rice"]
 prepTime: "PT30M"
 cookTime: "PT30M"

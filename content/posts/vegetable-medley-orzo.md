@@ -1,15 +1,14 @@
 ---
-title: "Vegetable Medley with Orzo"
-date: 2025-01-20
-draft: false
-tags: ["vegetarian", "pasta", "orzo"]
+title: "Vegetable Medley Orzo"
+description: "Nice quick Pasta"
+categories: ["American", "Pasta"]
+tags: ["pasta"]
+prepTime: "PT10M"
+cookTime: "PT20M"
+totalTime: "PT30M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 min
-- **Cook:** 20 min
-- **Rating:** 10/10
-- **Servings:** 3-4
 
 ## Ingredients (sauce)
 - Olive oil

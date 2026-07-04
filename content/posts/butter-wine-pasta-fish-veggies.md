@@ -1,7 +1,7 @@
 ---
 title: "Butter Wine Pasta with White Fish Filets & Veggies"
 description: "Light pasta dish with baked fish, vegetables, and white wine butter sauce"
-categories: ["Italian"]
+categories: ["Italian", "Pasta"]
 tags: ["pasta", "fish", "wine", "vegetables", "healthy"]
 prepTime: "PT15M"
 cookTime: "PT20M"

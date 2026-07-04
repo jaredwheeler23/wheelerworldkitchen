@@ -1,15 +1,14 @@
 ---
-title: "Slow Cooked Chicken in Tomatoes, Greek Style"
-date: 2025-01-20
-draft: false
-tags: ["chicken", "greek", "slow-cooker"]
+title: "Slow Cooker chicken Tomato Greek"
+description: "Easy Main Greek Dish"
+categories: ["Greek", "Slow Cooker"]
+tags: ["greek", "Tomato", "mediterranean", "comfort food"]
+prepTime: "PT10M"
+cookTime: "PT180M"
+totalTime: "PT3H0M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 min
-- **Cook:** 3 hours
-- **Rating:** 10/10
-- **Servings:** 4
 
 ## Ingredients
 - 2+ pounds chicken thighs bone in

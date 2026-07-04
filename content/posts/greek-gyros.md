@@ -1,7 +1,7 @@
 ---
 title: "Greek Gyros"
 description: "Authentic homemade gyros with seasoned meat, tzatziki sauce, and fresh toppings"
-categories: ["Other"]
+categories: ["Greek", "Hand-Held"]
 tags: ["gyros", "greek", "lamb", "beef", "tzatziki", "pita"]
 prepTime: "PT25M"
 cookTime: "PT60M"

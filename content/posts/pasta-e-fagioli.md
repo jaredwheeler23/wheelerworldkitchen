@@ -1,7 +1,7 @@
 ---
 title: "Pasta e Fagioli"
 description: "Hearty Italian pasta and bean soup with sausage"
-categories: ["Italian", "Soup"]
+categories: ["Italian", "Soup or Stew"]
 tags: ["pasta", "beans", "sausage", "soup", "comfort-food"]
 prepTime: "PT15M"
 cookTime: "PT30M"

@@ -1,15 +1,14 @@
 ---
 title: "Roasted Tomato Soup"
-date: 2025-01-20
-draft: false
-tags: ["soup", "vegetarian", "tomato"]
+description: "American Comfort Food at its best (serve with ham/cheese sandwiches for a full meal)"
+categories: ["American", "Soup or Stew"]
+tags: ["tomato soup", "soup", "tomato", "roasted"]
+prepTime: "PT15M"
+cookTime: "PT40M"
+totalTime: "PT0H55M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 15 min
-- **Cook:** 40 min
-- **Rating:** 10/10
-- **Servings:** ~4
 
 ## Ingredients
 - 4 lb tomatoes (any type)

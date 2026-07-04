@@ -1,7 +1,7 @@
 ---
 title: "Miso, Noodle, Peanut Soup"
 description: "Quick and flavorful Asian-inspired soup with miso, peanut butter, and noodles"
-categories: ["Asian"]
+categories: ["Asian", Soup or Stew"]
 tags: ["miso", "soup", "noodles", "peanut", "quick", "vegetarian"]
 prepTime: "PT5M"
 cookTime: "PT5M"

@@ -1,7 +1,7 @@
 ---
 title: "Asian Noodle Bowl (Not Soup)"
 description: "Colorful stir-fried noodle bowl with vegetables, eggs, and Asian flavors"
-categories: ["Asian"]
+categories: ["Asian", "vegetarian"]
 tags: ["noodles", "stir-fry", "vegetables", "peanuts", "quick"]
 prepTime: "PT30M"
 cookTime: "PT0M"

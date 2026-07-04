@@ -1,7 +1,7 @@
 ---
 title: "Green Chile Chicken Stew"
 description: "Southwestern chicken stew with green chiles, salsa verde, and rice"
-categories: ["Mexican"]
+categories: ["Mexican", Soup or Stew"]
 tags: ["stew", "chicken", "green-chile", "instant-pot", "rice"]
 prepTime: "PT15M"
 cookTime: "PT90M"

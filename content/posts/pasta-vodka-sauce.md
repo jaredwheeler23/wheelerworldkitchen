@@ -1,7 +1,7 @@
 ---
 title: "Pasta with Vodka Sauce"
 description: "Creamy vodka sauce with meatballs over pasta"
-categories: ["Italian"]
+categories: ["Italian", "Pasta"]
 tags: ["pasta", "vodka-sauce", "meatballs", "tomato", "cream"]
 prepTime: "PT30M"
 cookTime: "PT60M"

@@ -1,7 +1,7 @@
 ---
 title: "Amazing Pesto, Tomato, Broccoli Pizza"
 description: "Delicious homemade pizza with pesto, roasted tomatoes, and broccoli"
-categories: ["Italian", "Pizza"]
+categories: ["Italian", "Pizza", "vegetarian"]
 tags: ["pizza", "pesto", "broccoli", "tomato", "vegetarian"]
 prepTime: "PT60M"
 cookTime: "PT30M"

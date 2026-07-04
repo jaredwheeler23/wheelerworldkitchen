@@ -1,15 +1,14 @@
 ---
 title: "Pressure Cooker Chicken Pho"
-date: 2025-01-20
-draft: false
-tags: ["vietnamese", "soup", "chicken", "pressure-cooker"]
+description: "Classic Vietnamese Comfort Food"
+categories: ["Asian", "Soup or Stew"]
+tags: ["soup", "pho", "asian"]
+prepTime: "PT25M"
+cookTime: "PT45M"
+totalTime: "PT1H15M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 25 minutes
-- **Cook:** 45 minutes
-- **Rating:** 10/10
-- **Servings:** 4
 
 ## Ingredients
 

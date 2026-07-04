@@ -1,7 +1,7 @@
 ---
 title: "Veggie Shepherds Pie"
 description: "Hearty vegetarian version with lentils, vegetables, and creamy mashed potato topping"
-categories: ["American"]
+categories: ["American", "Vegetarian"]
 tags: ["shepherds-pie", "vegetarian", "lentils", "mashed-potatoes", "comfort-food", "kale"]
 prepTime: "PT45M"
 cookTime: "PT30M"

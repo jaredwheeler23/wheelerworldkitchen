@@ -1,14 +1,14 @@
 ---
-title: "Quick, Vegetarian Pad Thai"
-date: 2025-01-20
-draft: false
-tags: ["thai", "vegetarian", "noodles", "quick"]
+title: "Pad Thai"
+description: "Well Known Pad Thai, Perfect Street or Casual Food"
+categories: ["Asian"]
+tags: ["asian", "pad", "thai", "noodles"]
+prepTime: "PT15M"
+cookTime: "PT15M"
+totalTime: "PT0H30M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 30 min
-- **Rating:** 10/10
-- **Servings:** 2-4
 
 ## Ingredients
 

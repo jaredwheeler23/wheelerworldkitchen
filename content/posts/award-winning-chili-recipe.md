@@ -1,7 +1,7 @@
 ---
 title: "Award Winning Beef or Vegetarian Chili"
 description: "Flavorful chili with three types of beans and optional beef"
-categories: ["American", "Soup"]
+categories: ["American", "Soup", "vegetarian"]
 tags: ["chili", "beans", "comfort-food", "vegetarian-option", "pineapple"]
 prepTime: "PT15M"
 cookTime: "PT30M"

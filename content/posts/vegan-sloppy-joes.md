@@ -1,15 +1,14 @@
 ---
 title: "Vegan Sloppy Joes"
-date: 2025-01-20
-draft: false
-tags: ["vegan", "vegetarian", "sandwich"]
+description: "Nice Vegetarian Hand Held of a Classic"
+categories: ["American", "vegetarian", "Hand Held"]
+tags: ["vegetarian", "hand held"]
+prepTime: "PT30M"
+cookTime: "PT60M"
+totalTime: "PT90M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 30 min
-- **Cook:** 60 min
-- **Rating:** 10/10
-- **Servings:** 4-6
 
 ## Ingredients
 - Olive oil

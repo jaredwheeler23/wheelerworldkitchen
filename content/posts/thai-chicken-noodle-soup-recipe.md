@@ -1,15 +1,14 @@
 ---
 title: "Thai Chicken Noodle Soup"
-date: 2025-01-20
-draft: false
-tags: ["thai", "soup", "chicken", "noodles"]
+description: "Rich and creamy Thai soup"
+categories: ["Asian", "Soup or Stew"]
+tags: ["curry", "thai", "chicken", "coconut-milk", "instant-pot", "spicy"]
+prepTime: "PT10M"
+cookTime: "PT15M"
+totalTime: "PT25M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 minutes
-- **Cook:** 15 minutes
-- **Rating:** 10/10
-- **Servings:** 4
 
 ## Broth:
 - 1 tbl vegetable oil

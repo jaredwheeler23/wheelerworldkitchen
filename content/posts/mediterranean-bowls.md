@@ -1,7 +1,7 @@
 ---
 title: "Mediterranean Bowls"
 description: "Healthy grain bowls with roasted chickpeas, red pepper sauce, and fresh toppings"
-categories: ["Other"]
+categories: ["Mediterranean", "Bowls"]
 tags: ["bowl", "mediterranean", "chickpeas", "healthy", "quinoa"]
 prepTime: "PT15M"
 cookTime: "PT30M"

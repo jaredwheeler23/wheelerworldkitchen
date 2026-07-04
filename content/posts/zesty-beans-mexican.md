@@ -1,7 +1,7 @@
 ---
 title: "Zesty Beans for Mexican Dishes"
 description: "Spicy refried black beans with chipotle and lime - perfect burrito filling"
-categories: ["Mexican"]
+categories: ["Mexican", "Side"]
 tags: ["beans", "black-beans", "chipotle", "mexican", "side-dish"]
 prepTime: "PT3M"
 cookTime: "PT30M"

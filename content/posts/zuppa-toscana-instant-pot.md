@@ -1,15 +1,14 @@
 ---
-title: "Zuppa Toscana (Instant Pot Option)"
-date: 2025-01-20
-draft: false
-tags: ["soup", "italian", "instant-pot"]
+title: "Zuppa Toscana Instant Pot"
+description: "Nice classic italian with quick process"
+categories: ["Italian", "Soup or Stew"]
+tags: ["soup"]
+prepTime: "PT10M"
+cookTime: "PT10M"
+totalTime: "PT20M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 min
-- **Cook:** 10 min
-- **Rating:** 10/10
-- **Servings:** 4-6
 
 ## Ingredients (sauce)
 - Olive oil

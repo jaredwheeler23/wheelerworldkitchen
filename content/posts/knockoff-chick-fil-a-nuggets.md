@@ -1,7 +1,7 @@
 ---
 title: "Knockoff Chick-fil-A Nuggets"
 description: "Copycat Chick-fil-A chicken nuggets with pickle brine marinade"
-categories: ["American"]
+categories: ["American", "Side", "Appetizer"]
 tags: ["chicken", "nuggets", "fried", "pickle", "copycat"]
 prepTime: "PT30M"
 cookTime: "PT5M"

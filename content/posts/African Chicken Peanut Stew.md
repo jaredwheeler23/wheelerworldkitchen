@@ -1,8 +1,8 @@
 ---
 title: "African Chicken Peanut Stew"
 description: "Rich and flavorful chicken stew with peanut butter and vegetables"
-categories: ["African", "Stew"]
-tags: ["chicken", "peanut-butter", "stew", "rice", "peppers"]
+categories: ["Stew"]
+tags: ["chicken", "peanut-butter", "stew", "african", "rice", "peppers"]
 prepTime: "PT15M"
 cookTime: "PT60M"
 totalTime: "PT1H15M"

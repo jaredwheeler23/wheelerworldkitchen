@@ -1,15 +1,14 @@
 ---
 title: "Spicy Caribbean Fish"
-date: 2025-01-20
-draft: false
-tags: ["fish", "caribbean", "spicy"]
+description: "Great hearty dish, serve over rice"
+categories: ["American"]
+tags: ["caribbean, "seafood"]
+prepTime: "PT25M"
+cookTime: "PT30M"
+totalTime: "PT0H55M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 25 minutes
-- **Cook:** 30 minutes
-- **Rating:** 10/10
-- **Servings:** 4
 
 ## Sauce:
 - 1 tbsp olive oil

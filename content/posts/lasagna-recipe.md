@@ -1,7 +1,7 @@
 ---
 title: "Lasagna (Meat or Veggie)"
 description: "Classic layered lasagna with rich marinara sauce - customize with sausage or keep it vegetarian"
-categories: ["Italian"]
+categories: ["Italian", "Pasta"]
 tags: ["lasagna", "pasta", "italian-sausage", "vegetarian-option", "baked", "cheese"]
 prepTime: "PT15M"
 cookTime: "PT1H"

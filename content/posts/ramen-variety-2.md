@@ -1,7 +1,7 @@
 ---
 title: "Ramen Variety 2, Not Spicy"
 description: "Mild and flavorful ramen with chicken, fresh vegetables, and savory broth"
-categories: ["Asian"]
+categories: ["Asian", "Soup or Stew"]
 tags: ["ramen", "chicken", "noodles", "soup", "japanese"]
 prepTime: "PT15M"
 cookTime: "PT45M"

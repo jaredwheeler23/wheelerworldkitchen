@@ -1,7 +1,7 @@
 ---
 title: "Homemade Salsa"
 description: "Fresh, flavorful salsa with the perfect balance of tomatoes, cilantro, and spice"
-categories: ["Mexican"]
+categories: ["Mexican", "Appetizer", "Side"]
 tags: ["salsa", "appetizer", "dip", "fresh", "quick", "vegetarian"]
 prepTime: "PT10M"
 cookTime: "PT2M"

@@ -1,7 +1,7 @@
 ---
 title: "Chicken and Dumplings (Instant Pot Style)"
 description: "Comforting chicken and dumplings made easy in the instant pot"
-categories: ["American"]
+categories: ["American", "Soup or Stew"]
 tags: ["chicken", "dumplings", "instant-pot", "pressure-cooker", "comfort-food", "soup"]
 prepTime: "PT30M"
 cookTime: "PT30M"

@@ -1,7 +1,7 @@
 ---
 title: "Quick Cajun Gumbo"
 description: "Fast and flavorful Cajun gumbo with shrimp, sausage, and white fish"
-categories: ["American"]
+categories: ["American", "Soup or Stew"]
 tags: ["gumbo", "cajun", "seafood", "spicy", "rice"]
 prepTime: "PT10M"
 cookTime: "PT30M"

@@ -1,7 +1,7 @@
 ---
 title: "Baked Pasta Al Cavolfiore"
 description: "Decadent baked pasta with cauliflower, tomatoes, and cheese sauce"
-categories: ["Italian", "Pasta"]
+categories: ["Italian", "Pasta", "vegetarian"]
 tags: ["pasta", "cauliflower", "baked", "cheese", "vegetarian"]
 prepTime: "PT90M"
 cookTime: "PT40M"

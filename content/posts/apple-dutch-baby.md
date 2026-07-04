@@ -1,7 +1,7 @@
 ---
 title: "Apple Dutch Baby"
 description: "Fluffy oven pancake with caramelized apples and cinnamon"
-categories: ["Breakfast", "Dessert"]
+categories: ["Breakfast", "Dessert", "vegetarian"]
 tags: ["dutch-baby", "apple", "pancake", "breakfast", "cinnamon"]
 prepTime: "PT20M"
 cookTime: "PT20M"

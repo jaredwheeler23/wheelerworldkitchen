@@ -1,7 +1,7 @@
 ---
 title: "Garlic Butter Grilled Shrimp"
 description: "Succulent grilled shrimp with garlic herb marinade and melted butter finish"
-categories: ["American"]
+categories: ["American", "Side"]
 tags: ["shrimp", "grilled", "garlic", "butter", "seafood"]
 prepTime: "PT10M"
 cookTime: "PT10M"

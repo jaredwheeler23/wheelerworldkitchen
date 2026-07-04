@@ -5,7 +5,7 @@ categories: ["Dessert"]
 tags: ["cookies", "oatmeal", "chocolate-chip", "baking", "dessert"]
 prepTime: "PT30M"
 cookTime: "PT10M"
-totalTime: "PT1H40M"
+totalTime: "PT0H40M"
 servings: 24
 rating: 5
 ---

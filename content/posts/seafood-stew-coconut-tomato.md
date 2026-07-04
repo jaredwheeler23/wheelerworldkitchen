@@ -1,15 +1,14 @@
 ---
-title: "Seafood Stew with Coconut and Tomato"
-date: 2025-01-20
-draft: false
-tags: ["seafood", "stew", "coconut"]
+title: "Seafood Stew With Coconut and Tomato"
+description: "Simple and quick Seafood Stew"
+categories: ["American", "Soup or Stew"]
+tags: ["seafood", "soup", "stew"]
+prepTime: "PT10M"
+cookTime: "PT30M"
+totalTime: "PT0H40M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 min
-- **Cook:** 30 min
-- **Rating:** 10/10
-- **Servings:** 4-5
 
 ## Ingredients
 - Oil

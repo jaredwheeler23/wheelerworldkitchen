@@ -1,7 +1,7 @@
 ---
 title: "Greek Rice with Dill and Lemon"
 description: "Light and lemony Greek rice with fresh dill - perfect side dish"
-categories: ["Other"]
+categories: ["Greek", "Side"]
 tags: ["rice", "greek", "side-dish", "lemon", "dill"]
 prepTime: "PT3M"
 cookTime: "PT15M"

@@ -1,7 +1,7 @@
 ---
 title: "Bangers and Mash with Guinness Gravy"
 description: "Traditional British sausages with mashed potatoes and rich Guinness gravy"
-categories: ["British", "Main Dish"]
+categories: ["British"]
 tags: ["sausage", "mashed-potatoes", "gravy", "guinness", "comfort-food"]
 prepTime: "PT30M"
 cookTime: "PT30M"

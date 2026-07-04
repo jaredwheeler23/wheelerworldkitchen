@@ -1,7 +1,7 @@
 ---
 title: "Autumn Pot Pie (Christmas Veggie Pot Pie)"
 description: "Festive vegetarian pot pie with butternut squash, mushrooms, and cheddar pastry"
-categories: ["American"]
+categories: ["American", "vegetarian"]
 tags: ["pot-pie", "vegetarian", "butternut-squash", "mushrooms", "holiday", "puff-pastry"]
 prepTime: "PT1H30M"
 cookTime: "PT45M"

@@ -1,7 +1,7 @@
 ---
 title: "Copycat Chipotle Style Pan Cooked Veggies"
 description: "Simple sautéed peppers and onions with oregano - just like Chipotle"
-categories: ["Mexican"]
+categories: ["Mexican", "Side"]
 tags: ["vegetables", "side-dish", "peppers", "copycat", "chipotle"]
 prepTime: "PT3M"
 cookTime: "PT10M"

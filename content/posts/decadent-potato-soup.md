@@ -1,7 +1,7 @@
 ---
 title: "Decadent Potato Soup"
 description: "Rich and creamy potato soup with bacon, cheddar cheese, and sour cream"
-categories: ["American"]
+categories: ["American", Soup or Stew"]
 tags: ["soup", "potato", "bacon", "cheese", "comfort-food", "creamy"]
 prepTime: "PT20M"
 cookTime: "PT30M"

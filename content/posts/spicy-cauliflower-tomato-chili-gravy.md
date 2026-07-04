@@ -1,15 +1,14 @@
 ---
-title: "Spicy Cauliflower in Tomato-Chili Gravy (Indian)"
-date: 2025-01-20
-draft: false
-tags: ["indian", "vegetarian", "spicy", "cauliflower"]
+title: "Spicy Cauliflower Tomato Chili Gravy"
+description: "Easy Indian Dish to Serve Over Rice"
+categories: ["Indian"]
+tags: ["indian", "gravy"]
+prepTime: "PT10M"
+cookTime: "PT25M"
+totalTime: "PT0H35M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 min
-- **Cook:** 20 min
-- **Rating:** 10/10
-- **Servings:** 3-4
 
 ## Ingredients (sauce)
 - Olive oil

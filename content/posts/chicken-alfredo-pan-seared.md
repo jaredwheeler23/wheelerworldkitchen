@@ -1,7 +1,7 @@
 ---
 title: "Chicken Alfredo with Pan Seared Chicken"
 description: "Restaurant-quality chicken alfredo with perfectly seared chicken and spicy alfredo sauce"
-categories: ["Italian"]
+categories: ["Italian", "Pasta"]
 tags: ["chicken", "alfredo", "pasta", "italian", "pan-seared"]
 prepTime: "PT15M"
 cookTime: "PT30M"

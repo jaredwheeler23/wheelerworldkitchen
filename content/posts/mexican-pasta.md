@@ -1,7 +1,7 @@
 ---
 title: "Mexican Pasta"
 description: "Creamy pasta with Mexican flavors - great side dish or main with grilled protein"
-categories: ["Mexican"]
+categories: ["Mexican", "Pasta"]
 tags: ["pasta", "mexican", "creamy", "side-dish", "lime"]
 prepTime: "PT10M"
 cookTime: "PT30M"

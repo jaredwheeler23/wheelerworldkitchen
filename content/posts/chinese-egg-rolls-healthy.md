@@ -1,7 +1,7 @@
 ---
 title: "Chinese Egg Rolls - Healthy Version"
 description: "Healthy air-fried egg rolls with vegetables and optional sausage"
-categories: ["Chinese"]
+categories: ["Chinese", "Side", "Appetizer"]
 tags: ["egg-rolls", "air-fryer", "healthy", "vegetarian-option", "appetizer"]
 prepTime: "PT15M"
 cookTime: "PT20M"

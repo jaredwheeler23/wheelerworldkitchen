@@ -1,7 +1,7 @@
 ---
 title: "Birria Ramen with Leftover Birria Broth"
 description: "Delicious ramen made with leftover birria broth"
-categories: ["Mexican", "Fusion"]
+categories: ["Mexican", "slow-cooker"]
 tags: ["birria", "ramen", "noodles", "leftover", "soup"]
 prepTime: "PT5M"
 cookTime: "PT10M"

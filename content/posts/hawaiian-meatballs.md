@@ -1,7 +1,7 @@
 ---
 title: "Hawaiian Meatballs"
 description: "Easy Hawaiian meatballs with pineapple and BBQ sauce - perfect as appetizer or main"
-categories: ["American"]
+categories: ["American", "Appetizer", "Side"]
 tags: ["meatballs", "hawaiian", "pineapple", "bbq", "easy"]
 prepTime: "PT1M"
 cookTime: "PT20M"

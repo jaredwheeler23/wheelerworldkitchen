@@ -1,7 +1,7 @@
 ---
 title: "Al Pastor (Pork with Hot and Sweet Flavor)"
 description: "Spicy-sweet Mexican pork with pineapple, perfect for tacos"
-categories: ["Mexican"]
+categories: ["Mexican", "slow-cooker"]
 tags: ["pork", "al-pastor", "pineapple", "instant-pot", "tacos"]
 prepTime: "PT10M"
 cookTime: "PT90M"

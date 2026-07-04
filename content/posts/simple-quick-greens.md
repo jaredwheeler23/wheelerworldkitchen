@@ -1,15 +1,14 @@
 ---
-title: "Simple and Quick Greens"
-date: 2025-01-20
-draft: false
-tags: ["side-dish", "vegetables", "quick"]
+title: "Quick Greens as a Side"
+description: "Quick, easy and healthy side dish"
+categories: ["American", "Side"]
+tags: ["vegetarian"]
+prepTime: "PT5M"
+cookTime: "PT5M"
+totalTime: "PT0H110"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** <5 min
-- **Cook:** 5 min
-- **Rating:** 10/10
-- **Servings:** it is a light side but the below is 2-4
 
 ## Fresh Greens
 - 2 bunches of kale (or 8 cups), cut into 1/2" or shorter sections

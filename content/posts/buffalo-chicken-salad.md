@@ -1,7 +1,7 @@
 ---
 title: "Buffalo Chicken Salad"
 description: "Michelle's lunch special - creamy buffalo chicken salad perfect for sandwiches or with crackers"
-categories: ["American"]
+categories: ["American", "Side"]
 tags: ["chicken", "salad", "buffalo", "lunch", "sandwich"]
 prepTime: "PT10M"
 cookTime: "PT0M"

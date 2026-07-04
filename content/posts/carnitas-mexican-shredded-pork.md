@@ -1,7 +1,7 @@
 ---
 title: "Carnitas (Mexican Shredded Pork)"
 description: "Tender pressure cooker carnitas with orange juice and spices - perfect for tacos"
-categories: ["Mexican"]
+categories: ["Mexican", "Slow-Cooker"]
 tags: ["carnitas", "pork", "instant-pot", "tacos", "mexican"]
 prepTime: "PT5M"
 cookTime: "PT1H30M"

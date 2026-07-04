@@ -1,7 +1,7 @@
 ---
 title: "Thai Chicken Curry with Coconut Milk"
 description: "Rich and creamy Thai red curry with chicken, peanut butter, and coconut milk"
-categories: ["Asian"]
+categories: ["Asian", "Soup or Stew"]
 tags: ["curry", "thai", "chicken", "coconut-milk", "instant-pot", "spicy"]
 prepTime: "PT15M"
 cookTime: "PT30M"

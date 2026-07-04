@@ -1,15 +1,14 @@
 ---
-title: "Amazing Spicy Air Fryer Chicken Wing Recipe"
-date: 2025-01-20
-draft: false
-tags: ["chicken", "wings", "spicy", "air-fryer"]
+title: "Chicken Wings"
+description: "Easy and good chicken wing recipe"
+categories: ["American", "Side"]
+tags: ["chicken wings", "appetizer"]
+prepTime: "PT10M"
+cookTime: "PT45M"
+totalTime: "PT0H55M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 min
-- **Cook:** 20-25 min
-- **Rating:** 10/10
-- **Servings:** 4
 
 ## Ingredients
 - 1 lb chicken wings, cut at joints into wingettes and drummettes

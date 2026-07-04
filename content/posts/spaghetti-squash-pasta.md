@@ -1,7 +1,7 @@
 ---
 title: "Spaghetti Squash Pasta"
 description: "Simple roasted spaghetti squash - healthy pasta alternative"
-categories: ["American"]
+categories: ["American", "Pasta"]
 tags: ["spaghetti-squash", "healthy", "low-carb", "vegetables", "side-dish"]
 prepTime: "PT1M"
 cookTime: "PT45M"

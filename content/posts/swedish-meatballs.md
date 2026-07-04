@@ -1,7 +1,7 @@
 ---
 title: "Swedish Meatballs (MD Special)"
 description: "Classic Swedish meatballs in a rich, creamy gravy - a family favorite"
-categories: ["Other"]
+categories: ["Swedish", "Appetizer", "Side"]
 tags: ["meatballs", "swedish", "beef", "pork", "gravy", "comfort-food"]
 prepTime: "PT30M"
 cookTime: "PT20M"

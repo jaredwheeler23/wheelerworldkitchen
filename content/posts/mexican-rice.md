@@ -1,7 +1,7 @@
 ---
 title: "Mexican Rice"
 description: "Authentic Mexican rice with tomato, vegetables, and spices - perfect side dish"
-categories: ["Mexican"]
+categories: ["Mexican", "Side"]
 tags: ["rice", "side-dish", "mexican", "tomato", "vegetables"]
 prepTime: "PT5M"
 cookTime: "PT30M"

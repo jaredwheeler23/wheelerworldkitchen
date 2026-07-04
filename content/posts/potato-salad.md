@@ -1,7 +1,7 @@
 ---
 title: "Potato Salad"
 description: "Classic creamy potato salad with eggs, pickles, and mustard"
-categories: ["American"]
+categories: ["American", "Appetizer", "Side"]
 tags: ["potato-salad", "side-dish", "picnic", "bbq", "make-ahead"]
 prepTime: "PT10M"
 cookTime: "PT30M"

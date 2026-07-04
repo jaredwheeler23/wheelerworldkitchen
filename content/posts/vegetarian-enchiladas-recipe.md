@@ -1,15 +1,14 @@
 ---
-title: "Vegetarian Enchiladas with Black Bean and Zucchini"
-date: 2025-01-20
-draft: false
-tags: ["mexican", "vegetarian", "enchiladas"]
+title: "Vegetarian Enchiladas"
+description: "Black Bean Enchiladas with Veggies"
+categories: ["Mexican", "Vegetarian"]
+tags: ["enchiladas"]
+prepTime: "PT15M"
+cookTime: "PT45M"
+totalTime: "PT60M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 15 minutes
-- **Cook:** 45 minutes
-- **Rating:** 10/10
-- **Servings:** 4
 
 ## Ingredients
 - 1 tbsp olive oil

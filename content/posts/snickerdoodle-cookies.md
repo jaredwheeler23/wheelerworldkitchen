@@ -1,15 +1,14 @@
 ---
-title: "Snickerdoodle Cookie Recipe"
-date: 2025-01-20
-draft: false
-tags: ["dessert", "cookies", "cinnamon"]
+title: "Snickerdoodle Cookies"
+description: "cookies!!!"
+categories: ["Dessert"]
+tags: ["dessert", "cookies"]
+prepTime: "PT10M"
+cookTime: "PT15M"
+totalTime: "PT0H30M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 min
-- **Cook:** 15 min
-- **Rating:** 10/10
-- **Servings:** 3
 
 ## Ingredients
 - 2.75 cups flour

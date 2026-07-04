@@ -1,7 +1,7 @@
 ---
 title: "Bacon Wrapped Meatloaf with Spicy Ketchup"
 description: "Classic meatloaf wrapped in bacon with a spicy glaze"
-categories: ["American", "Main Dish"]
+categories: ["American"]
 tags: ["meatloaf", "bacon", "beef", "pork", "comfort-food"]
 prepTime: "PT90M"
 cookTime: "PT75M"

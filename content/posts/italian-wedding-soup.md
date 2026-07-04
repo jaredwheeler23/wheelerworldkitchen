@@ -1,7 +1,7 @@
 ---
 title: "Italian Wedding Soup, the Dill Version"
 description: "Classic Italian soup with tender meatballs, pasta, and fresh dill"
-categories: ["Italian"]
+categories: ["Italian", Soup or Stew"]
 tags: ["soup", "meatballs", "italian", "pasta", "spinach", "comfort-food"]
 prepTime: "PT15M"
 cookTime: "PT45M"

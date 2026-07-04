@@ -1,15 +1,14 @@
 ---
 title: "White Guy Veggie Tacos"
-date: 2025-01-20
-draft: false
-tags: ["vegetarian", "tacos", "mexican"]
+description: "Not authentic to mexico at all, but good and casual"
+categories: ["Mexican"]
+tags: ["tacos", "mexican"]
+prepTime: "PT15M"
+cookTime: "PT15M"
+totalTime: "PT30M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 15 min
-- **Cook:** 15 min
-- **Rating:** 10/10
-- **Servings:** ~4
 
 ## Ingredients
 - 1 large sweet potato, diced small

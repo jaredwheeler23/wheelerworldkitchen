@@ -1,7 +1,7 @@
 ---
 title: "Veggie Pot Pie"
 description: "Hearty vegetarian pot pie with creamy vegetable filling and flaky pastry top"
-categories: ["American"]
+categories: ["American", "Vegetarian"]
 tags: ["pot-pie", "vegetarian", "vegetables", "puff-pastry", "comfort-food"]
 prepTime: "PT20M"
 cookTime: "PT35M"

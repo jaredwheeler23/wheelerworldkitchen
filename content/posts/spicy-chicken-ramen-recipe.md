@@ -1,14 +1,14 @@
 ---
-title: "Spicy Chicken Ramen Recipe"
-date: 2025-01-20
-draft: false
-tags: ["ramen", "chicken", "spicy", "japanese"]
+title: "Spicy Ramen Recipe"
+description: "Easy and good ramen to make on a weeknight"
+categories: ["Asian", "Soup or Stew"]
+tags: ["ramen"]
+prepTime: "PT10M"
+cookTime: "PT15M"
+totalTime: "PT0H25M"
+servings: 4
+rating: 5
 ---
-
-## Details
-- **Prep:** 10 minutes
-- **Cook:** 15 minutes
-- **Servings:** 2
 
 ## Broth:
 - 6 Cups good chicken broth (kitchen basics preferred)

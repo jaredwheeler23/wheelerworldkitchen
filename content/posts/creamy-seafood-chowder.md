@@ -1,7 +1,7 @@
 ---
 title: "Creamy Seafood Stew/Chowder"
 description: "Rich and creamy seafood chowder with fish, shrimp, and vegetables"
-categories: ["American"]
+categories: ["American", Soup or Stew"]
 tags: ["seafood", "chowder", "fish", "shrimp", "soup", "comfort-food"]
 prepTime: "PT30M"
 cookTime: "PT30M"

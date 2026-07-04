@@ -1,7 +1,7 @@
 ---
 title: "Pigs in the Blanket, Chicago Style"
 description: "Classic pigs in a blanket with Chicago-style hot dog toppings"
-categories: ["American"]
+categories: ["American", "Appetizer", "Side"]
 tags: ["appetizer", "pigs-in-blanket", "chicago", "hot-dogs", "party"]
 prepTime: "PT5M"
 cookTime: "PT15M"

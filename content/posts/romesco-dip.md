@@ -1,7 +1,7 @@
 ---
 title: "Romesco Dip"
 description: "Spanish roasted red pepper and almond dip - perfect appetizer"
-categories: ["Other"]
+categories: ["Spanish", "Side"]
 tags: ["dip", "appetizer", "spanish", "red-pepper", "almonds"]
 prepTime: "PT10M"
 cookTime: "PT0M"
