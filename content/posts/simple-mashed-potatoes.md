@@ -2,7 +2,7 @@
 title: "Mashed Potatoes"
 description: "Recipe for the basics (can be added to many things)"
 categories: ["American", "Side", "Appetizer"]
-tags: ["mashed potatoes""]
+tags: ["mashed potatoes"]
 prepTime: "PT5M"
 cookTime: "PT45M"
 totalTime: "PT0H50M"
