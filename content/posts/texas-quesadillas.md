@@ -10,6 +10,12 @@ servings: 4
 rating: 5
 ---
 
+![after a good meal](/images/quesadillas.jpg)
+
+---
+Example photo for half size quesadillas
+---
+
 ## Ingredients
 
 - 1 package LARGE Flour Tortillas (comes in pack of 8 or 10)
