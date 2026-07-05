@@ -10,7 +10,7 @@ servings: 4
 rating: 5
 ---
 
-![after a good meal](/images/quesadillas.jpg)
+![](/images/quesadilla.jpg)
 
 ---
 Example photo for half size quesadillas
