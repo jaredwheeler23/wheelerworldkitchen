@@ -11,8 +11,7 @@ Have a question, recipe idea, or feedback? I'd love to hear from you!
 ### Contact Information
 
 - **Email:** tbd@tbd.com
-- **Phone:** tbd
-- **Location:** Tucson, AZ
+- **Location:** AZ, USA
 
 ---
 
