@@ -10,6 +10,11 @@ servings: 8
 rating: 5
 ---
 
+![tacos](/images/carnitas_tacos.jpg)
+---
+example using the carnitas to make tacos!
+---
+
 ## Ingredients
 
 - 1 tbsp olive oil
