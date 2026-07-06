@@ -1,111 +1,50 @@
-{{- /* Recipe Schema Markup - Only for chicken-tikka-masala and al-pastor */ -}}
-{{- if and (.IsPage) (eq .File.BaseFileName "chicken-tikka-masala") (.Params.rating) -}}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Recipe",
-  "name": "{{ .Title }}",
-  "image": [
-    "{{ .Site.BaseURL }}images/kitchen-bg.jpg"
-  ],
-  "author": {
-    "@type": "Organization",
-    "name": "Wheeler World Kitchen"
-  },
-  "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
-  "description": "{{ .Params.description }}",
-  "prepTime": "{{ .Params.prepTime }}",
-  "cookTime": "{{ .Params.cookTime }}",
-  "totalTime": "{{ .Params.totalTime }}",
-  "keywords": "{{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}{{ $tag }}{{ end }}",
-  "recipeYield": "{{ .Params.servings }} servings",
-  "recipeCategory": "Main Course",
-  "recipeCuisine": "{{ index .Params.categories 0 }}",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "{{ .Params.rating }}",
-    "ratingCount": "1"
-  },
-  "recipeIngredient": [
-    "2 lbs diced small chunks chicken thighs",
-    "1/2 cup greek yogurt plain",
-    "1 tsp red chili powder (use what you got but kashmiri is recommended)",
-    "1 tsp garam masala",
-    "1/2 tsp turmeric",
-    "1 tsp coriander powder",
-    "1/2 tsp cumin powder",
-    "1 tsp salt",
-    "1 tbsp lemon juice",
-    "1 tbsp kasuri methi",
-    "1 tbsp ginger, garlic paste (if bought separately, add 1 tbsp of each)",
-    "1 tbsp vegetable oil",
-    "3 tbsp vegetable oil",
-    "1 large yellow onion diced small",
-    "1 jalapeno minced (optional)",
-    "1 tsp salt",
-    "1 tbsp ginger, garlic paste (if bought separately, add 1 tbsp of each)",
-    "1 tsp red chili powder",
-    "2 tsp garam masala",
-    "1 tbsp coriander powder",
-    "1.5 tsp cumin powder",
-    "1-2 tsp sugar",
-    "1.25 lbs fresh tomatoes (pureed, can be done before or in pot using immersion blender)",
-    "1 cup hot water",
-    "0.5 cup heavy whipping cream"
-  ],
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "name": "Marinate and cook chicken",
-      "text": "Mix all marinade items together and marinade min of 4 hours, preferably overnight or all day. Cook in sauce pan that barely holds them (goal is to cook them in their own juice). Cook on medium heat until bubbling. Lower heat a bit, just enough to keep bubbling and cook until cooked through."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Prepare rice",
-      "text": "Make rice and set aside."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Sauté aromatics",
-      "text": "In large pan or pot, heat oil and add onion and pepper if using. Saute until golden. Add ginger/garlic paste and saute for 30 seconds or until aromatic. Reduce heat to low and add chili powder, coriander, garam masala, and cumin. Stir together quickly."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Cook tomato sauce",
-      "text": "Immediately after the above is stirred, add tomatoes and cook on med high heat until sauce becomes thick. This can take up to 10 minutes but probably less."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Simmer sauce",
-      "text": "Add hot water and bring to rolling boil and cover. Simmer until thick (10-15 minutes)."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Add cream",
-      "text": "Add sugar and cream to sauce and simmer for a few minutes."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Combine chicken and sauce",
-      "text": "IF sauce is thick (if not, cook more first), add chicken (cooked) to pot and simmer for another few minutes."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Final seasoning and serve",
-      "text": "Taste test and add more salt or garam masala or sugar as needed. Serve. Garnish with more cream or chopped coriander leaves if you have them (not essential)."
-    }
-  ]
-}
-</script>
+{{- /* Universal Recipe Schema Markup - Applies to ALL recipes with rating parameter */ -}}
+{{- if and (.IsPage) (.Params.rating) -}}
+{{- $content := .RawContent -}}
+{{- $ingredientsSection := "" -}}
+{{- $instructionsSection := "" -}}
+
+{{- /* Extract Ingredients section */ -}}
+{{- $ingredientsStart := index (findRE `(?s)## Ingredients\s*\n` $content) 0 -}}
+{{- if $ingredientsStart -}}
+  {{- $afterIngredients := replaceRE `(?s)^.*?## Ingredients\s*\n` "" $content -}}
+  {{- $ingredientsSection = index (findRE `(?s)^.*?(?=\n## )` $afterIngredients) 0 -}}
 {{- end -}}
 
-{{- /* Recipe Schema Markup - Al Pastor */ -}}
-{{- if and (.IsPage) (eq .File.BaseFileName "al-pastor") (.Params.rating) -}}
+{{- /* Extract Instructions section */ -}}
+{{- $instructionsStart := index (findRE `(?s)## Instructions\s*\n` $content) 0 -}}
+{{- if $instructionsStart -}}
+  {{- $afterInstructions := replaceRE `(?s)^.*?## Instructions\s*\n` "" $content -}}
+  {{- $instructionsSection = index (findRE `(?s)^.*?(?=\n## |\z)` $afterInstructions) 0 -}}
+{{- end -}}
+
+{{- /* Parse ingredients into array */ -}}
+{{- $ingredients := slice -}}
+{{- range split $ingredientsSection "\n" -}}
+  {{- $line := trim . " \t\r" -}}
+  {{- if and (hasPrefix $line "- ") (gt (len $line) 2) -}}
+    {{- $ingredient := trim (substr $line 2) " " -}}
+    {{- $ingredients = $ingredients | append $ingredient -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Parse instructions into array */ -}}
+{{- $instructions := slice -}}
+{{- range split $instructionsSection "\n" -}}
+  {{- $line := trim . " \t\r" -}}
+  {{- if findRE `^\d+\.\s+` $line -}}
+    {{- $instruction := trim (replaceRE `^\d+\.\s+` "" $line) " " -}}
+    {{- if gt (len $instruction) 0 -}}
+      {{- $instructions = $instructions | append $instruction -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
-  "name": "{{ .Title }}",
+  "name": {{ .Title | jsonify }},
   "image": [
     "{{ .Site.BaseURL }}images/kitchen-bg.jpg"
   ],
@@ -114,7 +53,7 @@
     "name": "Wheeler World Kitchen"
   },
   "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
-  "description": "{{ .Params.description }}",
+  "description": {{ .Params.description | jsonify }},
   "prepTime": "{{ .Params.prepTime }}",
   "cookTime": "{{ .Params.cookTime }}",
   "totalTime": "{{ .Params.totalTime }}",
@@ -128,46 +67,19 @@
     "ratingCount": "1"
   },
   "recipeIngredient": [
-    "1 tbsp olive oil",
-    "4 lb pork shoulder (boneless) chopped into a 2 inch chunks",
-    "1 pineapple (ripe!, can sub cans drained well as well), chopped into small chunks.  Use only HALF for instant pot.  Save other half for toppings on tacos or whatever.",
-    "3 tsp dried oregano",
-    "1.5 tsp cumin",
-    "1 tsp garlic powder",
-    "1 tsp garlic salt",
-    "1 tsp chipotle powder",
-    "1.5 cups chicken stock",
-    "1/4 cup apple cider vinegar",
-    "1 7-oz can chipotles in adobo sauce",
-    "1 small white onion",
-    "3 garlic cloves"
+    {{- range $index, $ingredient := $ingredients -}}
+    {{- if $index }},{{ end }}
+    {{ $ingredient | jsonify }}
+    {{- end -}}
   ],
   "recipeInstructions": [
+    {{- range $index, $instruction := $instructions -}}
+    {{- if $index }},{{ end }}
     {
       "@type": "HowToStep",
-      "name": "Prepare marinade",
-      "text": "In food processor mince the can of chipotles/sauce, onion, half the pineapple and garlic."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Cook in instant pot",
-      "text": "Add minced ingredients and rest in first section to instant pot. Cook high pressure and heat for minimum of 1 hour (preferably 1.5 hours)."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Release pressure",
-      "text": "Release pressure."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Shred meat",
-      "text": "Remove meat shred, then return to pot."
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Serve",
-      "text": "Ready to serve with whatever (tacos, enchiladas, quesadillas, etc.)."
+      "text": {{ $instruction | jsonify }}
     }
+    {{- end -}}
   ]
 }
 </script>
