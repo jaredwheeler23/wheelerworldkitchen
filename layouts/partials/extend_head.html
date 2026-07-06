@@ -1,4 +1,4 @@
-{{- /* Recipe Schema Markup - Only for chicken-tikka-masala */ -}}
+{{- /* Recipe Schema Markup - Only for chicken-tikka-masala and al-pastor */ -}}
 {{- if and (.IsPage) (eq .File.BaseFileName "chicken-tikka-masala") (.Params.rating) -}}
 <script type="application/ld+json">
 {
@@ -93,6 +93,80 @@
       "@type": "HowToStep",
       "name": "Final seasoning and serve",
       "text": "Taste test and add more salt or garam masala or sugar as needed. Serve. Garnish with more cream or chopped coriander leaves if you have them (not essential)."
+    }
+  ]
+}
+</script>
+{{- end -}}
+
+{{- /* Recipe Schema Markup - Al Pastor */ -}}
+{{- if and (.IsPage) (eq .File.BaseFileName "al-pastor") (.Params.rating) -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "{{ .Title }}",
+  "image": [
+    "{{ .Site.BaseURL }}images/kitchen-bg.jpg"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "Wheeler World Kitchen"
+  },
+  "datePublished": "{{ .PublishDate.Format "2006-01-02" }}",
+  "description": "{{ .Params.description }}",
+  "prepTime": "{{ .Params.prepTime }}",
+  "cookTime": "{{ .Params.cookTime }}",
+  "totalTime": "{{ .Params.totalTime }}",
+  "keywords": "{{ range $index, $tag := .Params.tags }}{{ if $index }}, {{ end }}{{ $tag }}{{ end }}",
+  "recipeYield": "{{ .Params.servings }} servings",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": "{{ index .Params.categories 0 }}",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ .Params.rating }}",
+    "ratingCount": "1"
+  },
+  "recipeIngredient": [
+    "1 tbsp olive oil",
+    "4 lb pork shoulder (boneless) chopped into a 2 inch chunks",
+    "1 pineapple (ripe!, can sub cans drained well as well), chopped into small chunks.  Use only HALF for instant pot.  Save other half for toppings on tacos or whatever.",
+    "3 tsp dried oregano",
+    "1.5 tsp cumin",
+    "1 tsp garlic powder",
+    "1 tsp garlic salt",
+    "1 tsp chipotle powder",
+    "1.5 cups chicken stock",
+    "1/4 cup apple cider vinegar",
+    "1 7-oz can chipotles in adobo sauce",
+    "1 small white onion",
+    "3 garlic cloves"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "name": "Prepare marinade",
+      "text": "In food processor mince the can of chipotles/sauce, onion, half the pineapple and garlic."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Cook in instant pot",
+      "text": "Add minced ingredients and rest in first section to instant pot. Cook high pressure and heat for minimum of 1 hour (preferably 1.5 hours)."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Release pressure",
+      "text": "Release pressure."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Shred meat",
+      "text": "Remove meat shred, then return to pot."
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Serve",
+      "text": "Ready to serve with whatever (tacos, enchiladas, quesadillas, etc.)."
     }
   ]
 }
