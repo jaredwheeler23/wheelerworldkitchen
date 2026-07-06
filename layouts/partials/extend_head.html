@@ -5,17 +5,23 @@
 {{- $instructionsSection := "" -}}
 
 {{- /* Extract Ingredients section */ -}}
-{{- $ingredientsStart := index (findRE `(?s)## Ingredients\s*\n` $content) 0 -}}
-{{- if $ingredientsStart -}}
-  {{- $afterIngredients := replaceRE `(?s)^.*?## Ingredients\s*\n` "" $content -}}
-  {{- $ingredientsSection = index (findRE `(?s)^.*?(?=\n## )` $afterIngredients) 0 -}}
+{{- if strings.Contains $content "## Ingredients" -}}
+  {{- $parts := split $content "## Ingredients" -}}
+  {{- if gt (len $parts) 1 -}}
+    {{- $afterIngredients := index $parts 1 -}}
+    {{- $nextSection := split $afterIngredients "## " -}}
+    {{- $ingredientsSection = index $nextSection 0 -}}
+  {{- end -}}
 {{- end -}}
 
 {{- /* Extract Instructions section */ -}}
-{{- $instructionsStart := index (findRE `(?s)## Instructions\s*\n` $content) 0 -}}
-{{- if $instructionsStart -}}
-  {{- $afterInstructions := replaceRE `(?s)^.*?## Instructions\s*\n` "" $content -}}
-  {{- $instructionsSection = index (findRE `(?s)^.*?(?=\n## |\z)` $afterInstructions) 0 -}}
+{{- if strings.Contains $content "## Instructions" -}}
+  {{- $parts := split $content "## Instructions" -}}
+  {{- if gt (len $parts) 1 -}}
+    {{- $afterInstructions := index $parts 1 -}}
+    {{- $nextSection := split $afterInstructions "## " -}}
+    {{- $instructionsSection = index $nextSection 0 -}}
+  {{- end -}}
 {{- end -}}
 
 {{- /* Parse ingredients into array */ -}}
@@ -30,10 +36,11 @@
 
 {{- /* Parse instructions into array */ -}}
 {{- $instructions := slice -}}
+{{- $stepPattern := `^\d+\.\s+` -}}
 {{- range split $instructionsSection "\n" -}}
   {{- $line := trim . " \t\r" -}}
-  {{- if findRE `^\d+\.\s+` $line -}}
-    {{- $instruction := trim (replaceRE `^\d+\.\s+` "" $line) " " -}}
+  {{- if findRE $stepPattern $line -}}
+    {{- $instruction := trim (replaceRE $stepPattern "" $line) " " -}}
     {{- if gt (len $instruction) 0 -}}
       {{- $instructions = $instructions | append $instruction -}}
     {{- end -}}
