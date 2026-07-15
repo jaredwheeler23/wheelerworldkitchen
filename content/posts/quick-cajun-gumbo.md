@@ -8,6 +8,8 @@ cookTime: "PT30M"
 totalTime: "PT40M"
 servings: 6
 rating: 5
+date: 2026-07-15
+# image: ""
 ---
 
 ## Ingredients

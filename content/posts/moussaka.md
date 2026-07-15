@@ -8,6 +8,8 @@ cookTime: "PT90M"
 totalTime: "PT2H15M"
 servings: 4
 rating: 5
+date: 2026-07-15
+# image: ""
 ---
 
 ## Ingredients

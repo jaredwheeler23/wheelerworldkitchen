@@ -8,6 +8,8 @@ cookTime: "PT1H"
 totalTime: "PT1H15M"
 servings: 6
 rating: 5
+date: 2026-07-15
+# image: ""
 ---
 
 ## Ingredients

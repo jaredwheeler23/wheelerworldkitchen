@@ -8,6 +8,8 @@ cookTime: "PT35M"
 totalTime: "PT55M"
 servings: 4
 rating: 5
+date: 2026-07-15
+# image: ""
 ---
 
 ## Ingredients

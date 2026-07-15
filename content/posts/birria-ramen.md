@@ -8,6 +8,8 @@ cookTime: "PT10M"
 totalTime: "PT15M"
 servings: varies
 rating: 5
+date: 2026-07-15
+# image: ""
 ---
 
 ## Ingredients
