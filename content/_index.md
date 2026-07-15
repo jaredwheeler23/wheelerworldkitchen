@@ -24,6 +24,8 @@ Explore our collection of delicious recipes organized by cuisine and meal type:
 Intentionally, the vast majority of ingredients can be sourced at your local super markets in the US.  A few here and there 
 had to be sourced at asian or international markets.
 
-Big thanks for contributing to: JW, SW, MW, WCEW
+Big thanks for contributing to: JW, SW, MW, and of course Winston Chicker-Eater Wheeler
+
+![the chef extroidinaire](/images/chef_winston.jpg)
 
 Browse our recipes or scroll below to see some of our most recent posts.

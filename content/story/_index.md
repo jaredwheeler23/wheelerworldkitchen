@@ -10,7 +10,7 @@ Welcome to Wheeler World Kitchen! This is where we share our journey and passion
 
 ## How It All Began
 
-My name is Winston Chicken-Lover Wheeler.  Two passions have followed me throughout my life, cooking and walks.  The former neccesitates the creation of this page.  Without it, my humans would be lost.  This page is an instructional aid for them (to cook for me).
+My name is Winston Chicken-Eater Wheeler.  Two passions have followed me throughout my life, cooking and walks.  The former neccesitates the creation of this page.  Without it, my humans would be lost.  This page is an instructional aid for them (to cook for me).
 
 It all became real about 5 years ago when my secondary human, loud & hairy bed thief who sometimes feeds me, came into my life.  For some reason my primary human, sweet snuggler woman who walks me, seemed to fall for him and that means I have to as well??  Anyway, he thought that meals needed to be cooked and not brought to the front door by strangers that dropped food off and left.  Why would they abandon food so nonchelantly...must not be very good.  But did he know what he was doing? No...  I had to step in and support this effort tirelessly in order to keep him in line.  This kicked off a 5 year journey to where we are today.
 
