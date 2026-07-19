@@ -26,6 +26,6 @@ had to be sourced at asian or international markets.
 
 Big thanks for contributing to: JW, SW, MW, and of course Winston Chicker-Eater Wheeler
 
-![the chef extroidinaire](/images/chef_winston.png)
+![the chef extroidinaire](/images/dirty_winston.png)
 
 Browse our recipes or scroll below to see some of our most recent posts.
