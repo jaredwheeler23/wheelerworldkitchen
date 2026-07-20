@@ -32,7 +32,7 @@ This is a dog tale of how just a little spice goes a long way.
 ## Its a tough neightborhood and a warm touch is needed
 
 ![burnt toast](/images/beingchased.png)
-![burnt toast](/images/feddingdogcrowd.png)
+![burnt toast](/images/feedingdogcrowd.png)
 
 ## The End
 
