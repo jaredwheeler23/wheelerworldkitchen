@@ -8,8 +8,10 @@ This is a dog tale of how just a little spice goes a long way.
 
 ![me before cooking](/images/chef_winston.png)
 
-## Chef Winston
+## Chef Winston (my story)
 
+![burnt toast](/images/alone_winston_happy.png)
+## but thankfully I was found
 
 
 ## My Humans, Oh How They Try
@@ -27,7 +29,10 @@ This is a dog tale of how just a little spice goes a long way.
 ![burnt toast](/images/unhappybaby.png)
 ![burnt toast](/images/happybaby.png)
 
+## Its a tough neightborhood and a warm touch is needed
 
+![burnt toast](/images/beingchased.png)
+![burnt toast](/images/feddingdogcrowd.png)
 
 ## The End
 
