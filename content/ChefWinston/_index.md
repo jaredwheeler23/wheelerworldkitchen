@@ -10,8 +10,11 @@ This is a dog tale of how just a little spice goes a long way.
 
 ## Chef Winston (my story)
 
+I was once a wild and free pup!  Nothing could tame me but the threat of loneliness at night from the long days of prowling the wild.
 ![burnt toast](/images/alone_winston_happy.png)
-## but thankfully I was found
+## but thankfully I found a family to take in
+![burnt toast](/images/pickingoutdog.png)
+I found my family at the pound after that wild guy with a net brought me there.
 
 
 ## My Humans, Oh How They Try
