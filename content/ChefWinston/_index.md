@@ -37,6 +37,13 @@ Oh my humans, they are hard enough to train.  But, the human pup!, that is anoth
 It just takes a little spice and things taste much better.
 ![burnt toast](/images/happybaby.png)
 
+
+## Walking is a Requirement, Not a Luxury
+
+My primary humans think walking is a want, not a need.  Oh are they wrong.  Thanfully, I have an occasional human that deserves all the love.
+![burnt toast](/images/dog_wants_towalk.png)
+![burnt toast](/images/meemaw.png)
+
 ## Its a tough neightborhood and a warm touch is needed
 
 My new neighborhood is not the same as the wilds.  Many things present themselves differently.  For one, creatures knew what to eat in the wild and didn't need to be told.  Dogs living with humans somehow forget?  All I did was try telling these folks of a recipe recipe.
