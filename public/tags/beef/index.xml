@@ -2,80 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Beef on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/beef/</link>
+    <link>https://wheelerworldkitchen.com/tags/beef/</link>
     <description>Recent content in Beef on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/beef/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/beef/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Award Winning Beef or Vegetarian Chili</title>
-      <link>http://localhost:1313/posts/award-winning-chili/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/award-winning-chili/</guid>
-      <description>Award-winning chili with pineapple juice secret ingredient</description>
-    </item>
-    <item>
-      <title>Beef and Broccoli</title>
-      <link>http://localhost:1313/posts/beef-and-broccoli/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-and-broccoli/</guid>
-      <description>Tender beef with crisp broccoli in a savory brown sauce</description>
-    </item>
-    <item>
-      <title>Beef Fajitas</title>
-      <link>http://localhost:1313/posts/beef-fajitas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-fajitas/</guid>
-      <description>Sizzling beef fajitas with peppers and onions</description>
+      <title>Bacon Wrapped Meatloaf with Spicy Ketchup</title>
+      <link>https://wheelerworldkitchen.com/posts/bacon-wrapped-meatloaf-spicy-ketchup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/bacon-wrapped-meatloaf-spicy-ketchup/</guid>
+      <description>Classic meatloaf wrapped in bacon with a spicy glaze</description>
     </item>
     <item>
       <title>Beef Stew</title>
-      <link>http://localhost:1313/posts/beef-stew/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-stew/</guid>
-      <description>Hearty beef stew with vegetables, perfect for cold evenings</description>
+      <link>https://wheelerworldkitchen.com/posts/beef-stew-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/beef-stew-recipe/</guid>
+      <description>Hearty beef stew with vegetables and rich broth</description>
     </item>
     <item>
-      <title>Beef Wellington</title>
-      <link>http://localhost:1313/posts/beef-wellington/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-wellington/</guid>
-      <description>Elegant beef tenderloin wrapped in puff pastry with mushroom duxelles</description>
+      <title>Chinese Beef and Broccoli Stir Fry</title>
+      <link>https://wheelerworldkitchen.com/posts/chinese-beef-broccoli-stir-fry/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chinese-beef-broccoli-stir-fry/</guid>
+      <description>Classic beef and broccoli stir fry with savory sauce</description>
     </item>
     <item>
-      <title>Classic Beef Tacos</title>
-      <link>http://localhost:1313/posts/beef-tacos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-tacos/</guid>
-      <description>Seasoned ground beef tacos with all the fixings - a family favorite</description>
+      <title>Famous Cincinnati Chili (5-Way)</title>
+      <link>https://wheelerworldkitchen.com/posts/famous-cincinnati-chili/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/famous-cincinnati-chili/</guid>
+      <description>Authentic Cincinnati-style chili with unique spices, served over spaghetti</description>
     </item>
     <item>
-      <title>Classic Meatloaf</title>
-      <link>http://localhost:1313/posts/meatloaf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meatloaf/</guid>
-      <description>Traditional meatloaf with a tangy glaze - pure comfort food</description>
+      <title>Fancy Steak Marinade</title>
+      <link>https://wheelerworldkitchen.com/posts/fancy-steak-marinade/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fancy-steak-marinade/</guid>
+      <description>Flavorful marinade with soy sauce, lime, and spices perfect for grilled steak</description>
     </item>
     <item>
-      <title>Easy Beef Chili</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>Simple homemade beef chili</description>
+      <title>Greek Gyros</title>
+      <link>https://wheelerworldkitchen.com/posts/greek-gyros/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/greek-gyros/</guid>
+      <description>Authentic homemade gyros with seasoned meat, tzatziki sauce, and fresh toppings</description>
     </item>
     <item>
-      <title>Korean Bulgogi</title>
-      <link>http://localhost:1313/posts/korean-bulgogi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/korean-bulgogi/</guid>
-      <description>Marinated Korean BBQ beef with sweet and savory flavors</description>
+      <title>Mexican Birria (Beef or Lamb)</title>
+      <link>https://wheelerworldkitchen.com/posts/mexican-birria/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/mexican-birria/</guid>
+      <description>Rich Mexican braised beef in spicy chile sauce - perfect for tacos or quesadillas</description>
     </item>
     <item>
-      <title>Swedish Meatballs</title>
-      <link>http://localhost:1313/posts/swedish-meatballs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/swedish-meatballs/</guid>
-      <description>Classic Swedish meatballs in creamy gravy with allspice and nutmeg</description>
+      <title>Swedish Meatballs (MD Special)</title>
+      <link>https://wheelerworldkitchen.com/posts/swedish-meatballs/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/swedish-meatballs/</guid>
+      <description>Classic Swedish meatballs in a rich, creamy gravy - a family favorite</description>
     </item>
   </channel>
 </rss>

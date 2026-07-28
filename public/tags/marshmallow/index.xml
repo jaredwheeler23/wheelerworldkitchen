@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marshmallow on Wheeler World Kitchen</title>
+    <link>https://wheelerworldkitchen.com/tags/marshmallow/</link>
+    <description>Recent content in Marshmallow on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/marshmallow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rice Crispy Treats</title>
+      <link>https://wheelerworldkitchen.com/posts/rice-crispy-treats/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/rice-crispy-treats/</guid>
+      <description>Classic marshmallow and cereal treats - easy and delicious</description>
+    </item>
+  </channel>
+</rss>

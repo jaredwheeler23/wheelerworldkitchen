@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Roasted on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/roasted/</link>
+    <link>https://wheelerworldkitchen.com/tags/roasted/</link>
     <description>Recent content in Roasted on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/roasted/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/roasted/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Classic Roast Chicken</title>
-      <link>http://localhost:1313/posts/roast-chicken/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/roast-chicken/</guid>
-      <description>Perfectly roasted whole chicken with crispy skin and juicy meat</description>
+      <title>Mustard Roasted Chicken</title>
+      <link>https://wheelerworldkitchen.com/posts/mustard-roasted-chicken/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/mustard-roasted-chicken/</guid>
+      <description>Tender roasted chicken thighs with dijon mustard, honey, and tarragon</description>
+    </item>
+    <item>
+      <title>Roasted Tomato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/roasted-tomato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/roasted-tomato-soup/</guid>
+      <description>American Comfort Food at its best (serve with ham/cheese sandwiches for a full meal)</description>
     </item>
   </channel>
 </rss>

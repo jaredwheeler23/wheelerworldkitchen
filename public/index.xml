@@ -2,540 +2,917 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wheeler World Kitchen</title>
-    <link>http://localhost:1313/</link>
+    <link>https://wheelerworldkitchen.com/</link>
     <description>Recent content on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>African Chicken Peanut Stew</title>
-      <link>http://localhost:1313/posts/african-chicken-peanut-stew/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/african-chicken-peanut-stew/</guid>
-      <description>Simple Chicken Peanut Stew Recipe</description>
+      <title>Easy Italian Meatballs</title>
+      <link>https://wheelerworldkitchen.com/posts/italian-meatballs/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/italian-meatballs/</guid>
+      <description>Easy and tasty italian meatballs</description>
     </item>
     <item>
-      <title>Apple Pie</title>
-      <link>http://localhost:1313/posts/apple-pie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apple-pie/</guid>
-      <description>Classic American apple pie with flaky crust and cinnamon apples</description>
+      <title>African Chicken Peanut Stew</title>
+      <link>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</guid>
+      <description>Rich and flavorful chicken stew with peanut butter and vegetables</description>
+    </item>
+    <item>
+      <title>Al Pastor (Pork with Hot and Sweet Flavor)</title>
+      <link>https://wheelerworldkitchen.com/posts/al-pastor/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/al-pastor/</guid>
+      <description>Spicy-sweet Mexican pork with pineapple, perfect for tacos</description>
+    </item>
+    <item>
+      <title>Amazing Pesto, Tomato, Broccoli Pizza</title>
+      <link>https://wheelerworldkitchen.com/posts/amazing-pesto-tomato-broccoli-pizza/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/amazing-pesto-tomato-broccoli-pizza/</guid>
+      <description>Delicious homemade pizza with pesto, roasted tomatoes, and broccoli</description>
+    </item>
+    <item>
+      <title>Apple Dutch Baby</title>
+      <link>https://wheelerworldkitchen.com/posts/apple-dutch-baby/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/apple-dutch-baby/</guid>
+      <description>Fluffy oven pancake with caramelized apples and cinnamon</description>
+    </item>
+    <item>
+      <title>Asian Noodle Bowl (Not Soup)</title>
+      <link>https://wheelerworldkitchen.com/posts/asian-noodle-bowl/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/asian-noodle-bowl/</guid>
+      <description>Colorful stir-fried noodle bowl with vegetables, eggs, and Asian flavors</description>
     </item>
     <item>
       <title>Autumn Pot Pie (Christmas Veggie Pot Pie)</title>
-      <link>http://localhost:1313/posts/autumn-pot-pie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/autumn-pot-pie/</guid>
-      <description>Festive vegetarian pot pie with butternut squash and cheddar crust</description>
+      <link>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</guid>
+      <description>Festive vegetarian pot pie with butternut squash, mushrooms, and cheddar pastry</description>
     </item>
     <item>
       <title>Award Winning Beef or Vegetarian Chili</title>
-      <link>http://localhost:1313/posts/award-winning-chili/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/award-winning-chili/</guid>
-      <description>Award-winning chili with pineapple juice secret ingredient</description>
+      <link>https://wheelerworldkitchen.com/posts/award-winning-chili-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/award-winning-chili-recipe/</guid>
+      <description>Flavorful chili with three types of beans and optional beef</description>
+    </item>
+    <item>
+      <title>Bacon Wrapped Meatloaf with Spicy Ketchup</title>
+      <link>https://wheelerworldkitchen.com/posts/bacon-wrapped-meatloaf-spicy-ketchup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/bacon-wrapped-meatloaf-spicy-ketchup/</guid>
+      <description>Classic meatloaf wrapped in bacon with a spicy glaze</description>
+    </item>
+    <item>
+      <title>Baked Pasta Al Cavolfiore</title>
+      <link>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</guid>
+      <description>Decadent baked pasta with cauliflower, tomatoes, and cheese sauce</description>
     </item>
     <item>
       <title>Banana Pudding</title>
-      <link>http://localhost:1313/posts/banana-pudding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/banana-pudding/</guid>
-      <description>Southern-style banana pudding with vanilla wafers and meringue</description>
+      <link>https://wheelerworldkitchen.com/posts/banana-pudding/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/banana-pudding/</guid>
+      <description>Southern classic with layers of vanilla wafers, banana slices, and meringue</description>
     </item>
     <item>
       <title>Bangers and Mash with Guinness Gravy</title>
-      <link>http://localhost:1313/posts/bangers-and-mash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bangers-and-mash/</guid>
-      <description>British comfort food with sausages, mashed potatoes, and rich Guinness gravy</description>
-    </item>
-    <item>
-      <title>BBQ Pulled Pork</title>
-      <link>http://localhost:1313/posts/bbq-pulled-pork/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bbq-pulled-pork/</guid>
-      <description>Slow-cooked, tender pulled pork with smoky BBQ sauce - perfect for sandwiches</description>
-    </item>
-    <item>
-      <title>Beef and Broccoli</title>
-      <link>http://localhost:1313/posts/beef-and-broccoli/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-and-broccoli/</guid>
-      <description>Tender beef with crisp broccoli in a savory brown sauce</description>
-    </item>
-    <item>
-      <title>Beef Fajitas</title>
-      <link>http://localhost:1313/posts/beef-fajitas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-fajitas/</guid>
-      <description>Sizzling beef fajitas with peppers and onions</description>
+      <link>https://wheelerworldkitchen.com/posts/bangers-and-mash/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/bangers-and-mash/</guid>
+      <description>Traditional British sausages with mashed potatoes and rich Guinness gravy</description>
     </item>
     <item>
       <title>Beef Stew</title>
-      <link>http://localhost:1313/posts/beef-stew/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-stew/</guid>
-      <description>Hearty beef stew with vegetables, perfect for cold evenings</description>
+      <link>https://wheelerworldkitchen.com/posts/beef-stew-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/beef-stew-recipe/</guid>
+      <description>Hearty beef stew with vegetables and rich broth</description>
     </item>
     <item>
-      <title>Beef Wellington</title>
-      <link>http://localhost:1313/posts/beef-wellington/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-wellington/</guid>
-      <description>Elegant beef tenderloin wrapped in puff pastry with mushroom duxelles</description>
+      <title>Birria Ramen with Leftover Birria Broth</title>
+      <link>https://wheelerworldkitchen.com/posts/birria-ramen/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/birria-ramen/</guid>
+      <description>Delicious ramen made with leftover birria broth</description>
     </item>
     <item>
       <title>Black Bean and Quinoa Burger</title>
-      <link>http://localhost:1313/posts/black-bean-quinoa-burger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/black-bean-quinoa-burger/</guid>
+      <link>https://wheelerworldkitchen.com/posts/black-bean-quinoa-burger-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/black-bean-quinoa-burger-recipe/</guid>
       <description>Healthy vegetarian burger with black beans, quinoa, and spices</description>
     </item>
     <item>
       <title>Bread Pudding</title>
-      <link>http://localhost:1313/posts/bread-pudding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bread-pudding/</guid>
-      <description>Classic New Orleans bread pudding with whiskey sauce</description>
+      <link>https://wheelerworldkitchen.com/posts/bread-pudding/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/bread-pudding/</guid>
+      <description>Classic New Orleans-style bread pudding with whiskey sauce</description>
     </item>
     <item>
-      <title>Butter Chicken</title>
-      <link>http://localhost:1313/posts/butter-chicken/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/butter-chicken/</guid>
-      <description>Creamy Indian curry with tender chicken in tomato-based sauce</description>
+      <title>Breakfast Pizza</title>
+      <link>https://wheelerworldkitchen.com/posts/breakfast-pizza/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/breakfast-pizza/</guid>
+      <description>Savory breakfast pizza with sausage gravy, eggs, and cheese</description>
+    </item>
+    <item>
+      <title>Buffalo Chicken Salad</title>
+      <link>https://wheelerworldkitchen.com/posts/buffalo-chicken-salad/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/buffalo-chicken-salad/</guid>
+      <description>Michelle&amp;#39;s lunch special - creamy buffalo chicken salad perfect for sandwiches or with crackers</description>
+    </item>
+    <item>
+      <title>Butter Wine Pasta with White Fish Filets &amp; Veggies</title>
+      <link>https://wheelerworldkitchen.com/posts/butter-wine-pasta-fish-veggies/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/butter-wine-pasta-fish-veggies/</guid>
+      <description>Light pasta dish with baked fish, vegetables, and white wine butter sauce</description>
     </item>
     <item>
       <title>Butterscotch Pudding with Chocolate Scribbles</title>
-      <link>http://localhost:1313/posts/butterscotch-pudding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/butterscotch-pudding/</guid>
-      <description>Rich, homemade butterscotch pudding topped with dark chocolate decorations</description>
+      <link>https://wheelerworldkitchen.com/posts/butterscotch-pudding/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/butterscotch-pudding/</guid>
+      <description>Rich butterscotch pudding with a hint of whiskey and elegant chocolate decorations</description>
     </item>
     <item>
-      <title>Carnitas</title>
-      <link>http://localhost:1313/posts/carnitas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/carnitas/</guid>
-      <description>Tender, crispy Mexican pulled pork - perfect for tacos</description>
+      <title>Cajun Pot Pie</title>
+      <link>https://wheelerworldkitchen.com/posts/cajun-pot-pie/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/cajun-pot-pie/</guid>
+      <description>Cajun-spiced chicken pot pie with flaky crust topping</description>
+    </item>
+    <item>
+      <title>Cajun Seasoning</title>
+      <link>https://wheelerworldkitchen.com/posts/cajun-seasoning/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/cajun-seasoning/</guid>
+      <description>Homemade cajun seasoning blend</description>
+    </item>
+    <item>
+      <title>Carnitas (Mexican Shredded Pork)</title>
+      <link>https://wheelerworldkitchen.com/posts/carnitas-mexican-shredded-pork/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/carnitas-mexican-shredded-pork/</guid>
+      <description>Tender pressure cooker carnitas with orange juice and spices - perfect for tacos</description>
+    </item>
+    <item>
+      <title>Ceviche Tostadas</title>
+      <link>https://wheelerworldkitchen.com/posts/ceviche-tostadas/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/ceviche-tostadas/</guid>
+      <description>Fresh shrimp ceviche served on crispy tostadas with spicy mayo</description>
+    </item>
+    <item>
+      <title>Cheesy Pesto Pull Apart Bread Appetizer</title>
+      <link>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</guid>
+      <description>Delicious pull-apart bread filled with pesto and melted mozzarella</description>
+    </item>
+    <item>
+      <title>Chicken Alfredo with Pan Seared Chicken</title>
+      <link>https://wheelerworldkitchen.com/posts/chicken-alfredo-pan-seared/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-alfredo-pan-seared/</guid>
+      <description>Restaurant-quality chicken alfredo with perfectly seared chicken and spicy alfredo sauce</description>
     </item>
     <item>
       <title>Chicken and Dumplings (Instant Pot Style)</title>
-      <link>http://localhost:1313/posts/chicken-and-dumplings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-and-dumplings/</guid>
-      <description>Comfort food classic with tender chicken and fluffy dumplings</description>
+      <link>https://wheelerworldkitchen.com/posts/chicken-and-dumplings/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-and-dumplings/</guid>
+      <description>Comforting chicken and dumplings made easy in the instant pot</description>
     </item>
     <item>
-      <title>Chicken Burritos</title>
-      <link>http://localhost:1313/posts/chicken-burritos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-burritos/</guid>
-      <description>Loaded chicken burritos with rice, beans, and fresh toppings</description>
+      <title>Chicken Marinade with Lime for Mexican Dish</title>
+      <link>https://wheelerworldkitchen.com/posts/chicken-marinade-lime/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-marinade-lime/</guid>
+      <description>Flavorful lime-based chicken marinade perfect for tacos and other Mexican dishes</description>
     </item>
     <item>
-      <title>Chicken Fried Rice</title>
-      <link>http://localhost:1313/posts/chicken-fried-rice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-fried-rice/</guid>
-      <description>Restaurant-style fried rice with chicken, eggs, and vegetables</description>
-    </item>
-    <item>
-      <title>Chicken Parmesan</title>
-      <link>http://localhost:1313/posts/chicken-parmesan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-parmesan/</guid>
-      <description>Breaded chicken cutlets topped with marinara and melted cheese</description>
-    </item>
-    <item>
-      <title>Chicken Teriyaki</title>
-      <link>http://localhost:1313/posts/chicken-teriyaki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-teriyaki/</guid>
-      <description>Grilled chicken with homemade teriyaki glaze</description>
+      <title>Chicken Noodle Soup in Instant Pot</title>
+      <link>https://wheelerworldkitchen.com/posts/chicken-noodle-soup-instant-pot/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-noodle-soup-instant-pot/</guid>
+      <description>Classic chicken noodle soup made quickly in the instant pot</description>
     </item>
     <item>
       <title>Chicken Tikka Masala</title>
-      <link>http://localhost:1313/posts/chicken-tikka-masala/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-tikka-masala/</guid>
-      <description>Classic Indian chicken tikka masala with overnight marinade</description>
+      <link>https://wheelerworldkitchen.com/posts/chicken-tikka-masala/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-tikka-masala/</guid>
+      <description>Authentic chicken tikka masala with overnight marinated chicken in rich tomato cream sauce</description>
     </item>
     <item>
       <title>Chicken Tortilla Soup</title>
-      <link>http://localhost:1313/posts/chicken-tortilla-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-tortilla-soup/</guid>
-      <description>Mexican chicken soup with black beans, corn, and crispy tortilla strips</description>
+      <link>https://wheelerworldkitchen.com/posts/chicken-tortilla-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-tortilla-soup/</guid>
+      <description>Flavorful Mexican soup with chicken, black beans, and crispy tortilla strips</description>
     </item>
     <item>
-      <title>Chile Verde</title>
-      <link>http://localhost:1313/posts/chile-verde/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chile-verde/</guid>
-      <description>Tender pork in a tangy green chile sauce</description>
+      <title>Chicken Wings</title>
+      <link>https://wheelerworldkitchen.com/posts/spicy-air-fryer-chicken-wings/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-air-fryer-chicken-wings/</guid>
+      <description>Easy and good chicken wing recipe</description>
     </item>
     <item>
-      <title>Chocolate Chip Brownies</title>
-      <link>http://localhost:1313/posts/chocolate-chip-brownies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chocolate-chip-brownies/</guid>
-      <description>Fudgy brownies loaded with chocolate chips</description>
+      <title>Chickpea Curry, Quick, Easy and Light</title>
+      <link>https://wheelerworldkitchen.com/posts/chickpea-curry-quick/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chickpea-curry-quick/</guid>
+      <description>Fast and flavorful chickpea curry with coconut milk</description>
     </item>
     <item>
-      <title>Chocolate Lava Cakes</title>
-      <link>http://localhost:1313/posts/chocolate-lava-cakes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chocolate-lava-cakes/</guid>
-      <description>Individual molten chocolate cakes with gooey centers</description>
+      <title>Chinese Beef and Broccoli Stir Fry</title>
+      <link>https://wheelerworldkitchen.com/posts/chinese-beef-broccoli-stir-fry/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chinese-beef-broccoli-stir-fry/</guid>
+      <description>Classic beef and broccoli stir fry with savory sauce</description>
     </item>
     <item>
-      <title>Classic Beef Tacos</title>
-      <link>http://localhost:1313/posts/beef-tacos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-tacos/</guid>
-      <description>Seasoned ground beef tacos with all the fixings - a family favorite</description>
+      <title>Chinese Cashew Chicken</title>
+      <link>https://wheelerworldkitchen.com/posts/chinese-cashew-chicken/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chinese-cashew-chicken/</guid>
+      <description>Spicy stir-fried chicken with cashews, vegetables, and Asian sauces</description>
     </item>
     <item>
-      <title>Classic Coleslaw</title>
-      <link>http://localhost:1313/posts/coleslaw/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/coleslaw/</guid>
-      <description>Creamy, tangy coleslaw - the perfect side dish for BBQ</description>
+      <title>Chinese Egg Rolls - Healthy Version</title>
+      <link>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</guid>
+      <description>Healthy air-fried egg rolls with vegetables and optional sausage</description>
     </item>
     <item>
-      <title>Classic Meatloaf</title>
-      <link>http://localhost:1313/posts/meatloaf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meatloaf/</guid>
-      <description>Traditional meatloaf with a tangy glaze - pure comfort food</description>
+      <title>Copycat Chipotle Style Pan Cooked Veggies</title>
+      <link>https://wheelerworldkitchen.com/posts/copycat-chipotle-pan-cooked-veggies/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/copycat-chipotle-pan-cooked-veggies/</guid>
+      <description>Simple sautéed peppers and onions with oregano - just like Chipotle</description>
     </item>
     <item>
-      <title>Classic Roast Chicken</title>
-      <link>http://localhost:1313/posts/roast-chicken/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/roast-chicken/</guid>
-      <description>Perfectly roasted whole chicken with crispy skin and juicy meat</description>
+      <title>Corn Cheddar Chowder</title>
+      <link>https://wheelerworldkitchen.com/posts/corn-cheddar-chowder/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/corn-cheddar-chowder/</guid>
+      <description>Creamy, hearty chowder loaded with corn, vegetables, and cheddar cheese</description>
     </item>
     <item>
-      <title>Classic Tiramisu</title>
-      <link>http://localhost:1313/posts/tiramisu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tiramisu/</guid>
-      <description>Italian coffee-soaked dessert with mascarpone and cocoa</description>
+      <title>Country Potatoes and Bravas Sauce</title>
+      <link>https://wheelerworldkitchen.com/posts/country-potatoes-bravas-sauce/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/country-potatoes-bravas-sauce/</guid>
+      <description>Spanish-style fried potatoes with creamy spicy bravas sauce</description>
+    </item>
+    <item>
+      <title>Creamy Corn Street Tacos</title>
+      <link>https://wheelerworldkitchen.com/posts/creamy-corn-street-tacos/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-corn-street-tacos/</guid>
+      <description>Vegetarian street tacos with creamy elote-style corn and mushrooms</description>
+    </item>
+    <item>
+      <title>Creamy Mushroom Quesadillas</title>
+      <link>https://wheelerworldkitchen.com/posts/creamy-mushroom-quesadillas/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-mushroom-quesadillas/</guid>
+      <description>Vegetarian quesadillas with sautéed mushrooms and creamy cheese filling</description>
+    </item>
+    <item>
+      <title>Creamy Sausage and Potato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</guid>
+      <description>Rich and hearty soup with sausage, potatoes, and cream</description>
+    </item>
+    <item>
+      <title>Creamy Seafood Stew/Chowder</title>
+      <link>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</guid>
+      <description>Rich and creamy seafood chowder with fish, shrimp, and vegetables</description>
+    </item>
+    <item>
+      <title>Decadent Potato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</guid>
+      <description>Rich and creamy potato soup with bacon, cheddar cheese, and sour cream</description>
+    </item>
+    <item>
+      <title>Easy Alfredo Pasta with Veggies and Spicy Italian Sausage</title>
+      <link>https://wheelerworldkitchen.com/posts/easy-alfredo-pasta/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/easy-alfredo-pasta/</guid>
+      <description>Quick and delicious alfredo pasta loaded with vegetables and optional spicy sausage</description>
+    </item>
+    <item>
+      <title>Famous Cincinnati Chili (5-Way)</title>
+      <link>https://wheelerworldkitchen.com/posts/famous-cincinnati-chili/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/famous-cincinnati-chili/</guid>
+      <description>Authentic Cincinnati-style chili with unique spices, served over spaghetti</description>
+    </item>
+    <item>
+      <title>Fancy Steak Marinade</title>
+      <link>https://wheelerworldkitchen.com/posts/fancy-steak-marinade/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fancy-steak-marinade/</guid>
+      <description>Flavorful marinade with soy sauce, lime, and spices perfect for grilled steak</description>
+    </item>
+    <item>
+      <title>Fettuccine with Caramelized Onions and Yogurt</title>
+      <link>https://wheelerworldkitchen.com/posts/fettuccine-caramelized-onions-yogurt/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fettuccine-caramelized-onions-yogurt/</guid>
+      <description>Simple yet elegant pasta with sweet caramelized onions and tangy yogurt</description>
+    </item>
+    <item>
+      <title>Fish and Veggie Enchiladas</title>
+      <link>https://wheelerworldkitchen.com/posts/fish-veggie-enchiladas/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fish-veggie-enchiladas/</guid>
+      <description>Light and flavorful fish enchiladas with vegetables and guacamole salsa</description>
+    </item>
+    <item>
+      <title>Fondue (Cheese, Broth and Chocolate)</title>
+      <link>https://wheelerworldkitchen.com/posts/fondue-triple/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fondue-triple/</guid>
+      <description>Triple fondue experience with cheese, broth, and chocolate fondues</description>
+    </item>
+    <item>
+      <title>Fresh Tomato Fettuccine with Garlic</title>
+      <link>https://wheelerworldkitchen.com/posts/fresh-tomato-fettuccine-garlic/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fresh-tomato-fettuccine-garlic/</guid>
+      <description>Light summer pasta with fresh tomatoes, basil, and garlic</description>
+    </item>
+    <item>
+      <title>Fried Rice</title>
+      <link>https://wheelerworldkitchen.com/posts/fried-rice/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fried-rice/</guid>
+      <description>Classic fried rice with vegetables and eggs</description>
+    </item>
+    <item>
+      <title>Garlic Butter Grilled Shrimp</title>
+      <link>https://wheelerworldkitchen.com/posts/garlic-butter-grilled-shrimp/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/garlic-butter-grilled-shrimp/</guid>
+      <description>Succulent grilled shrimp with garlic herb marinade and melted butter finish</description>
+    </item>
+    <item>
+      <title>Greek Gyros</title>
+      <link>https://wheelerworldkitchen.com/posts/greek-gyros/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/greek-gyros/</guid>
+      <description>Authentic homemade gyros with seasoned meat, tzatziki sauce, and fresh toppings</description>
+    </item>
+    <item>
+      <title>Greek Rice</title>
+      <link>https://wheelerworldkitchen.com/posts/greek-rice/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/greek-rice/</guid>
+      <description>Aromatic rice with turmeric, cumin, and pine nuts - perfect side dish</description>
+    </item>
+    <item>
+      <title>Greek Rice with Dill and Lemon</title>
+      <link>https://wheelerworldkitchen.com/posts/greek-rice-dill-lemon/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/greek-rice-dill-lemon/</guid>
+      <description>Light and lemony Greek rice with fresh dill - perfect side dish</description>
+    </item>
+    <item>
+      <title>Green Bean Salad</title>
+      <link>https://wheelerworldkitchen.com/posts/green-bean-salad/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/green-bean-salad/</guid>
+      <description>Fresh and vibrant salad with green beans, feta, walnuts, and oregano dressing</description>
+    </item>
+    <item>
+      <title>Green Chile Chicken Stew</title>
+      <link>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</guid>
+      <description>Southwestern chicken stew with green chiles, salsa verde, and rice</description>
+    </item>
+    <item>
+      <title>Hawaiian Meatballs</title>
+      <link>https://wheelerworldkitchen.com/posts/hawaiian-meatballs/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/hawaiian-meatballs/</guid>
+      <description>Easy Hawaiian meatballs with pineapple and BBQ sauce - perfect as appetizer or main</description>
+    </item>
+    <item>
+      <title>Himalayan Chicken Karahi</title>
+      <link>https://wheelerworldkitchen.com/posts/himalayan-chicken-karahi/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/himalayan-chicken-karahi/</guid>
+      <description>Spicy Pakistani-style chicken curry cooked in a wok with tomatoes and aromatic spices</description>
+    </item>
+    <item>
+      <title>Homemade Black Bean Tostadas with Lime and Fajita Veggies</title>
+      <link>https://wheelerworldkitchen.com/posts/homemade-black-bean-tostadas/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/homemade-black-bean-tostadas/</guid>
+      <description>Fresh tostadas with homemade refried beans, fajita vegetables, and chili lime slaw</description>
+    </item>
+    <item>
+      <title>Homemade Pasta Dough</title>
+      <link>https://wheelerworldkitchen.com/posts/homemade-pasta-dough/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/homemade-pasta-dough/</guid>
+      <description>Simple homemade fresh pasta dough with just 4 ingredients</description>
+    </item>
+    <item>
+      <title>Homemade Pesto Sauce</title>
+      <link>https://wheelerworldkitchen.com/posts/homemade-pesto-sauce/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/homemade-pesto-sauce/</guid>
+      <description>Fresh basil pesto with pine nuts and parmesan</description>
+    </item>
+    <item>
+      <title>Homemade Salsa</title>
+      <link>https://wheelerworldkitchen.com/posts/homemade-salsa-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/homemade-salsa-recipe/</guid>
+      <description>Fresh, flavorful salsa with the perfect balance of tomatoes, cilantro, and spice</description>
+    </item>
+    <item>
+      <title>Instant Pot Chicken Tinga</title>
+      <link>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</guid>
+      <description>Spicy shredded chicken with chipotle peppers - perfect for tacos</description>
+    </item>
+    <item>
+      <title>Italian Wedding Soup, the Dill Version</title>
+      <link>https://wheelerworldkitchen.com/posts/italian-wedding-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/italian-wedding-soup/</guid>
+      <description>Classic Italian soup with tender meatballs, pasta, and fresh dill</description>
+    </item>
+    <item>
+      <title>Knockoff Chick-fil-A Nuggets</title>
+      <link>https://wheelerworldkitchen.com/posts/knockoff-chick-fil-a-nuggets/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/knockoff-chick-fil-a-nuggets/</guid>
+      <description>Copycat Chick-fil-A chicken nuggets with pickle brine marinade</description>
+    </item>
+    <item>
+      <title>Lasagna (Meat or Veggie)</title>
+      <link>https://wheelerworldkitchen.com/posts/lasagna-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/lasagna-recipe/</guid>
+      <description>Classic layered lasagna with rich marinara sauce - customize with sausage or keep it vegetarian</description>
+    </item>
+    <item>
+      <title>Lentil Dahl</title>
+      <link>https://wheelerworldkitchen.com/posts/lentil-dahl/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/lentil-dahl/</guid>
+      <description>Simple Indian red lentil curry - quick, healthy, and flavorful</description>
+    </item>
+    <item>
+      <title>Lentil, Tomato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/lentil-tomato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/lentil-tomato-soup/</guid>
+      <description>Hearty and healthy lentil soup with tomatoes, curry, and fresh greens</description>
+    </item>
+    <item>
+      <title>Linguini and Clams in Butter/Garlic/Wine Sauce</title>
+      <link>https://wheelerworldkitchen.com/posts/linguini-clams-butter-garlic-wine/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/linguini-clams-butter-garlic-wine/</guid>
+      <description>Classic Italian pasta with fresh clams in a white wine butter sauce</description>
+    </item>
+    <item>
+      <title>Mama&#39;s Chocolate Cake</title>
+      <link>https://wheelerworldkitchen.com/posts/mamas-chocolate-cake/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/mamas-chocolate-cake/</guid>
+      <description>Classic homemade chocolate layer cake with rich chocolate frosting</description>
+    </item>
+    <item>
+      <title>Mashed Potatoes</title>
+      <link>https://wheelerworldkitchen.com/posts/simple-mashed-potatoes/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/simple-mashed-potatoes/</guid>
+      <description>Recipe for the basics (can be added to many things)</description>
+    </item>
+    <item>
+      <title>Mediterranean Bowls</title>
+      <link>https://wheelerworldkitchen.com/posts/mediterranean-bowls/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/mediterranean-bowls/</guid>
+      <description>Healthy grain bowls with roasted chickpeas, red pepper sauce, and fresh toppings</description>
+    </item>
+    <item>
+      <title>Mexican Birria (Beef or Lamb)</title>
+      <link>https://wheelerworldkitchen.com/posts/mexican-birria/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/mexican-birria/</guid>
+      <description>Rich Mexican braised beef in spicy chile sauce - perfect for tacos or quesadillas</description>
+    </item>
+    <item>
+      <title>Mexican Pasta</title>
+      <link>https://wheelerworldkitchen.com/posts/mexican-pasta/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/mexican-pasta/</guid>
+      <description>Creamy pasta with Mexican flavors - great side dish or main with grilled protein</description>
+    </item>
+    <item>
+      <title>Mexican Rice</title>
+      <link>https://wheelerworldkitchen.com/posts/mexican-rice/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/mexican-rice/</guid>
+      <description>Authentic Mexican rice with tomato, vegetables, and spices - perfect side dish</description>
+    </item>
+    <item>
+      <title>Minestrone Soup (Instant Pot)</title>
+      <link>https://wheelerworldkitchen.com/posts/minestrone-soup-instant-pot/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/minestrone-soup-instant-pot/</guid>
+      <description>Classic Italian vegetable soup made easy in the instant pot</description>
+    </item>
+    <item>
+      <title>Miso, Noodle, Peanut Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</guid>
+      <description>Quick and flavorful Asian-inspired soup with miso, peanut butter, and noodles</description>
+    </item>
+    <item>
+      <title>Moussaka</title>
+      <link>https://wheelerworldkitchen.com/posts/moussaka/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/moussaka/</guid>
+      <description>Classic Greek Version of Lasagna</description>
+    </item>
+    <item>
+      <title>Mustard Roasted Chicken</title>
+      <link>https://wheelerworldkitchen.com/posts/mustard-roasted-chicken/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/mustard-roasted-chicken/</guid>
+      <description>Tender roasted chicken thighs with dijon mustard, honey, and tarragon</description>
+    </item>
+    <item>
+      <title>Naan</title>
+      <link>https://wheelerworldkitchen.com/posts/naan/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/naan/</guid>
+      <description>Classic Indian Break</description>
+    </item>
+    <item>
+      <title>Oatmeal Chocolate Chip Cookies</title>
+      <link>https://wheelerworldkitchen.com/posts/oatmeal-chocolate-chip-cookies/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/oatmeal-chocolate-chip-cookies/</guid>
+      <description>Chewy oatmeal cookies loaded with chocolate chips - a classic favorite</description>
+    </item>
+    <item>
+      <title>Pad Kee Mao (Drunken Noodles)</title>
+      <link>https://wheelerworldkitchen.com/posts/pad-kee-mao/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pad-kee-mao/</guid>
+      <description>Spicy Thai stir-fried noodles with vegetables and aromatic Thai basil</description>
+    </item>
+    <item>
+      <title>Pad Thai</title>
+      <link>https://wheelerworldkitchen.com/posts/quick-vegetarian-pad-thai/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/quick-vegetarian-pad-thai/</guid>
+      <description>Well Known Pad Thai, Perfect Street or Casual Food</description>
+    </item>
+    <item>
+      <title>Pasta e Fagioli</title>
+      <link>https://wheelerworldkitchen.com/posts/pasta-e-fagioli/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-e-fagioli/</guid>
+      <description>Hearty Italian pasta and bean soup with sausage</description>
+    </item>
+    <item>
+      <title>Pasta Tutto Giardino (White Sauce Primavera)</title>
+      <link>https://wheelerworldkitchen.com/posts/pasta-tutto-giardino/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-tutto-giardino/</guid>
+      <description>Garden vegetable pasta in a creamy white sauce with fresh herbs</description>
+    </item>
+    <item>
+      <title>Pasta with Brussels, Cauliflower and Roasted Bread Crumbs</title>
+      <link>https://wheelerworldkitchen.com/posts/pasta-brussels-cauliflower/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-brussels-cauliflower/</guid>
+      <description>Hearty pasta dish with roasted vegetables, anchovies, and crispy breadcrumbs</description>
+    </item>
+    <item>
+      <title>Pasta with Vodka Sauce</title>
+      <link>https://wheelerworldkitchen.com/posts/pasta-vodka-sauce/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-vodka-sauce/</guid>
+      <description>Creamy vodka sauce with meatballs over pasta</description>
+    </item>
+    <item>
+      <title>Pigs in the Blanket, Chicago Style</title>
+      <link>https://wheelerworldkitchen.com/posts/pigs-in-blanket-chicago/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pigs-in-blanket-chicago/</guid>
+      <description>Classic pigs in a blanket with Chicago-style hot dog toppings</description>
+    </item>
+    <item>
+      <title>Potato Salad</title>
+      <link>https://wheelerworldkitchen.com/posts/potato-salad/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/potato-salad/</guid>
+      <description>Classic creamy potato salad with eggs, pickles, and mustard</description>
+    </item>
+    <item>
+      <title>Pressure Cooker Chicken Pho</title>
+      <link>https://wheelerworldkitchen.com/posts/pressure-cooker-chicken-pho/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pressure-cooker-chicken-pho/</guid>
+      <description>Classic Vietnamese Comfort Food</description>
+    </item>
+    <item>
+      <title>Quick Cajun Gumbo</title>
+      <link>https://wheelerworldkitchen.com/posts/quick-cajun-gumbo/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/quick-cajun-gumbo/</guid>
+      <description>Fast and flavorful Cajun gumbo with shrimp, sausage, and white fish</description>
+    </item>
+    <item>
+      <title>Quick Greens as a Side</title>
+      <link>https://wheelerworldkitchen.com/posts/simple-quick-greens/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/simple-quick-greens/</guid>
+      <description>Quick, easy and healthy side dish</description>
+    </item>
+    <item>
+      <title>Ramen Variety 2, Not Spicy</title>
+      <link>https://wheelerworldkitchen.com/posts/ramen-variety-2/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/ramen-variety-2/</guid>
+      <description>Mild and flavorful ramen with chicken, fresh vegetables, and savory broth</description>
+    </item>
+    <item>
+      <title>Red Curry Thai Noodle Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/red-curry-thai-noodle-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/red-curry-thai-noodle-soup/</guid>
+      <description>Spicy Thai soup with red curry, coconut milk, chicken, and rice noodles</description>
+    </item>
+    <item>
+      <title>Red Lentils (Mediterranean/Indian Mix)</title>
+      <link>https://wheelerworldkitchen.com/posts/red-lentils-mediterranean-indian/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/red-lentils-mediterranean-indian/</guid>
+      <description>Smooth red lentil soup with Mediterranean herbs and Indian spices</description>
+    </item>
+    <item>
+      <title>Rice Crispy Treats</title>
+      <link>https://wheelerworldkitchen.com/posts/rice-crispy-treats/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/rice-crispy-treats/</guid>
+      <description>Classic marshmallow and cereal treats - easy and delicious</description>
+    </item>
+    <item>
+      <title>Roasted Tomato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/roasted-tomato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/roasted-tomato-soup/</guid>
+      <description>American Comfort Food at its best (serve with ham/cheese sandwiches for a full meal)</description>
+    </item>
+    <item>
+      <title>Romesco Dip</title>
+      <link>https://wheelerworldkitchen.com/posts/romesco-dip/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/romesco-dip/</guid>
+      <description>Spanish roasted red pepper and almond dip - perfect appetizer</description>
+    </item>
+    <item>
+      <title>Seafood Boil in a Pot, Cajun Style</title>
+      <link>https://wheelerworldkitchen.com/posts/seafood-boil-cajun/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/seafood-boil-cajun/</guid>
+      <description>Large-batch Cajun seafood boil with potatoes, corn, sausage, and seafood</description>
+    </item>
+    <item>
+      <title>Seafood Stew With Coconut and Tomato</title>
+      <link>https://wheelerworldkitchen.com/posts/seafood-stew-coconut-tomato/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/seafood-stew-coconut-tomato/</guid>
+      <description>Simple and quick Seafood Stew</description>
+    </item>
+    <item>
+      <title>Slow Cooker chicken Tomato Greek</title>
+      <link>https://wheelerworldkitchen.com/posts/slow-cooked-chicken-greek/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/slow-cooked-chicken-greek/</guid>
+      <description>Easy Main Greek Dish</description>
+    </item>
+    <item>
+      <title>Snickerdoodle Cookies</title>
+      <link>https://wheelerworldkitchen.com/posts/snickerdoodle-cookies/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/snickerdoodle-cookies/</guid>
+      <description>cookies!!!</description>
+    </item>
+    <item>
+      <title>Spaghetti Squash Pasta</title>
+      <link>https://wheelerworldkitchen.com/posts/spaghetti-squash-pasta/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spaghetti-squash-pasta/</guid>
+      <description>Simple roasted spaghetti squash - healthy pasta alternative</description>
+    </item>
+    <item>
+      <title>Spicy Caribbean Fish</title>
+      <link>https://wheelerworldkitchen.com/posts/spicy-caribbean-fish/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-caribbean-fish/</guid>
+      <description>Great hearty dish, serve over rice</description>
+    </item>
+    <item>
+      <title>Spicy Cauliflower Tomato Chili Gravy</title>
+      <link>https://wheelerworldkitchen.com/posts/spicy-cauliflower-tomato-chili-gravy/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-cauliflower-tomato-chili-gravy/</guid>
+      <description>Easy Indian Dish to Serve Over Rice</description>
+    </item>
+    <item>
+      <title>Spicy Italian Sausage Korean Stir Fry</title>
+      <link>https://wheelerworldkitchen.com/posts/spicy-italian-sausage-korean-stir-fry/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-italian-sausage-korean-stir-fry/</guid>
+      <description>Fusion dish combining Italian sausage with Korean-style spicy stir fry sauce</description>
+    </item>
+    <item>
+      <title>Spicy Ramen Recipe</title>
+      <link>https://wheelerworldkitchen.com/posts/spicy-chicken-ramen-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-chicken-ramen-recipe/</guid>
+      <description>Easy and good ramen to make on a weeknight</description>
+    </item>
+    <item>
+      <title>Spicy Tomato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/spicy-tomato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-tomato-soup/</guid>
+      <description>Rich, creamy tomato soup with a kick of spice - perfect with garlic bread</description>
+    </item>
+    <item>
+      <title>Swedish Meatballs (MD Special)</title>
+      <link>https://wheelerworldkitchen.com/posts/swedish-meatballs/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/swedish-meatballs/</guid>
+      <description>Classic Swedish meatballs in a rich, creamy gravy - a family favorite</description>
+    </item>
+    <item>
+      <title>Texas Style Quesadillas</title>
+      <link>https://wheelerworldkitchen.com/posts/texas-quesadillas/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/texas-quesadillas/</guid>
+      <description>Loaded quesadillas with peppers, onions, cheese, and optional meat</description>
+    </item>
+    <item>
+      <title>Thai Chicken Curry with Coconut Milk</title>
+      <link>https://wheelerworldkitchen.com/posts/thai-chicken-curry-coconut/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/thai-chicken-curry-coconut/</guid>
+      <description>Rich and creamy Thai red curry with chicken, peanut butter, and coconut milk</description>
+    </item>
+    <item>
+      <title>Thai Chicken Noodle Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/thai-chicken-noodle-soup-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/thai-chicken-noodle-soup-recipe/</guid>
+      <description>Rich and creamy Thai soup</description>
+    </item>
+    <item>
+      <title>Turkey Burgers</title>
+      <link>https://wheelerworldkitchen.com/posts/turkey-burgers/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/turkey-burgers/</guid>
+      <description>Simple grillable (or stove top) recipe</description>
+    </item>
+    <item>
+      <title>Vegan Sloppy Joes</title>
+      <link>https://wheelerworldkitchen.com/posts/vegan-sloppy-joes/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/vegan-sloppy-joes/</guid>
+      <description>Nice Vegetarian Hand Held of a Classic</description>
+    </item>
+    <item>
+      <title>Vegetable Medley Orzo</title>
+      <link>https://wheelerworldkitchen.com/posts/vegetable-medley-orzo/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/vegetable-medley-orzo/</guid>
+      <description>Nice quick Pasta</description>
+    </item>
+    <item>
+      <title>Vegetarian Enchiladas</title>
+      <link>https://wheelerworldkitchen.com/posts/vegetarian-enchiladas-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/vegetarian-enchiladas-recipe/</guid>
+      <description>Black Bean Enchiladas with Veggies</description>
+    </item>
+    <item>
+      <title>Veggie Pot Pie</title>
+      <link>https://wheelerworldkitchen.com/posts/veggie-pot-pie/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/veggie-pot-pie/</guid>
+      <description>Hearty vegetarian pot pie with creamy vegetable filling and flaky pastry top</description>
+    </item>
+    <item>
+      <title>Veggie Shepherds Pie</title>
+      <link>https://wheelerworldkitchen.com/posts/veggie-shepherds-pie/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/veggie-shepherds-pie/</guid>
+      <description>Hearty vegetarian version with lentils, vegetables, and creamy mashed potato topping</description>
+    </item>
+    <item>
+      <title>White Guy Veggie Tacos</title>
+      <link>https://wheelerworldkitchen.com/posts/white-guy-veggie-tacos/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/white-guy-veggie-tacos/</guid>
+      <description>Not authentic to mexico at all, but good and casual</description>
+    </item>
+    <item>
+      <title>Zesty Avocado Cream Sauce for Mexican Dishes</title>
+      <link>https://wheelerworldkitchen.com/posts/zesty-avocado-cream-sauce/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/zesty-avocado-cream-sauce/</guid>
+      <description>Creamy avocado sauce with cilantro and lime - perfect for tacos and burritos</description>
+    </item>
+    <item>
+      <title>Zesty Beans for Mexican Dishes</title>
+      <link>https://wheelerworldkitchen.com/posts/zesty-beans-mexican/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/zesty-beans-mexican/</guid>
+      <description>Spicy refried black beans with chipotle and lime - perfect burrito filling</description>
+    </item>
+    <item>
+      <title>Zuppa Toscana Instant Pot</title>
+      <link>https://wheelerworldkitchen.com/posts/zuppa-toscana-instant-pot/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/zuppa-toscana-instant-pot/</guid>
+      <description>Nice classic italian with quick process</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://wheelerworldkitchen.com/privacy/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/privacy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Last Updated:&lt;/strong&gt; January 15, 2024&lt;/p&gt;
+&lt;p&gt;Wheeler World Kitchen (&amp;ldquo;we&amp;rdquo;, &amp;ldquo;our&amp;rdquo;, or &amp;ldquo;us&amp;rdquo;) operates wheelerworldkitchen.com. This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our website.&lt;/p&gt;
+&lt;h2 id=&#34;information-we-collect&#34;&gt;Information We Collect&lt;/h2&gt;
+&lt;h3 id=&#34;google-analytics&#34;&gt;Google Analytics&lt;/h3&gt;
+&lt;p&gt;We use Google Analytics to analyze how visitors use our website. Google Analytics collects information such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How often users visit our site&lt;/li&gt;
+&lt;li&gt;What pages they visit&lt;/li&gt;
+&lt;li&gt;What other sites they used prior to coming to this site&lt;/li&gt;
+&lt;li&gt;Browser type and version&lt;/li&gt;
+&lt;li&gt;Device type (mobile, tablet, desktop)&lt;/li&gt;
+&lt;li&gt;Geographic location (country/city level)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Google Analytics uses cookies to collect this information. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://wheelerworldkitchen.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://wheelerworldkitchen.com/contact/</guid>
       <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h2&gt;
 &lt;p&gt;Have a question, recipe idea, or feedback? I&amp;rsquo;d love to hear from you!&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:info@wheelerworldkitchen.com&#34;&gt;info@wheelerworldkitchen.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; (555) 123-4567&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; Your hometown, USA&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:tbd@tbd.com&#34;&gt;tbd@tbd.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; AZ, USA&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect&lt;/h3&gt;
-&lt;p&gt;Whether you have a recipe request, want to share your cooking success, or just want to say hello, feel free to reach out. I&amp;rsquo;m always excited to connect with fellow food enthusiasts and home cooks!&lt;/p&gt;
-&lt;p&gt;You can also follow along on social media for daily recipe inspiration and cooking tips.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Coq au Vin</title>
-      <link>http://localhost:1313/posts/coq-au-vin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/coq-au-vin/</guid>
-      <description>French braised chicken in red wine with bacon and mushrooms</description>
-    </item>
-    <item>
-      <title>Corn Cheddar Chowder</title>
-      <link>http://localhost:1313/posts/corn-cheddar-chowder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/corn-cheddar-chowder/</guid>
-      <description>Creamy corn chowder with sharp cheddar cheese and vegetables</description>
-    </item>
-    <item>
-      <title>Creamy Mac and Cheese</title>
-      <link>http://localhost:1313/posts/mac-and-cheese/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mac-and-cheese/</guid>
-      <description>Classic homemade macaroni and cheese with a crispy breadcrumb topping</description>
-    </item>
-    <item>
-      <title>Creamy Mushroom Quesadillas</title>
-      <link>http://localhost:1313/posts/creamy-mushroom-quesadillas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-mushroom-quesadillas/</guid>
-      <description>Vegetarian quesadillas with sautéed mushrooms and cream cheese</description>
-    </item>
-    <item>
-      <title>Creamy Seafood Stew/Chowder</title>
-      <link>http://localhost:1313/posts/creamy-seafood-chowder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-seafood-chowder/</guid>
-      <description>Rich seafood chowder with white fish, shrimp, and vegetables</description>
-    </item>
-    <item>
-      <title>Crème Brûlée</title>
-      <link>http://localhost:1313/posts/creme-brulee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creme-brulee/</guid>
-      <description>Classic French custard with caramelized sugar topping</description>
-    </item>
-    <item>
-      <title>Easy Alfredo Pasta with Veggies and Italian Sausage</title>
-      <link>http://localhost:1313/posts/easy-alfredo-pasta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/easy-alfredo-pasta/</guid>
-      <description>Quick alfredo pasta loaded with vegetables and spicy sausage</description>
-    </item>
-    <item>
-      <title>Easy Beef Chili</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>Simple homemade beef chili</description>
-    </item>
-    <item>
-      <title>Fettuccine with Caramelized Onions and Yogurt</title>
-      <link>http://localhost:1313/posts/fettuccine-caramelized-onions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fettuccine-caramelized-onions/</guid>
-      <description>Simple pasta with deeply caramelized onions and tangy yogurt sauce</description>
-    </item>
-    <item>
-      <title>Fish and Chips</title>
-      <link>http://localhost:1313/posts/fish-and-chips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fish-and-chips/</guid>
-      <description>Classic British beer-battered fish with crispy fries</description>
-    </item>
-    <item>
-      <title>Grandma Emily&#39;s Lentil Soup</title>
-      <link>http://localhost:1313/posts/grandma-emilys-lentil-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/grandma-emilys-lentil-soup/</guid>
-      <description>Traditional lentil soup with pasta and vegetables</description>
-    </item>
-    <item>
-      <title>Green Bean Salad</title>
-      <link>http://localhost:1313/posts/green-bean-salad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/green-bean-salad/</guid>
-      <description>Fresh green bean salad with feta, tomatoes, and oregano dressing</description>
-    </item>
-    <item>
-      <title>Guacamole</title>
-      <link>http://localhost:1313/posts/guacamole/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/guacamole/</guid>
-      <description>Fresh, chunky guacamole with lime and cilantro</description>
-    </item>
-    <item>
-      <title>Homemade Salsa</title>
-      <link>http://localhost:1313/posts/homemade-salsa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/homemade-salsa/</guid>
-      <description>Fresh, zesty homemade salsa with tomatoes and cilantro</description>
-    </item>
-    <item>
-      <title>Italian Wedding Soup, The Dill Version</title>
-      <link>http://localhost:1313/posts/italian-wedding-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/italian-wedding-soup/</guid>
-      <description>Classic Italian wedding soup with homemade meatballs and fresh dill</description>
-    </item>
-    <item>
-      <title>Korean Bulgogi</title>
-      <link>http://localhost:1313/posts/korean-bulgogi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/korean-bulgogi/</guid>
-      <description>Marinated Korean BBQ beef with sweet and savory flavors</description>
-    </item>
-    <item>
-      <title>Lasagna (Meat or Veggie)</title>
-      <link>http://localhost:1313/posts/lasagna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lasagna/</guid>
-      <description>Classic Italian lasagna with marinara, ricotta, and mozzarella</description>
-    </item>
-    <item>
-      <title>Mama&#39;s Chocolate Cake</title>
-      <link>http://localhost:1313/posts/mamas-chocolate-cake/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mamas-chocolate-cake/</guid>
-      <description>Classic chocolate layer cake with rich cocoa frosting</description>
-    </item>
-    <item>
-      <title>Margherita Pizza</title>
-      <link>http://localhost:1313/posts/margherita-pizza/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/margherita-pizza/</guid>
-      <description>Classic pizza with tomato, mozzarella, and fresh basil</description>
-    </item>
-    <item>
-      <title>Miso, Noodle, Peanut Soup</title>
-      <link>http://localhost:1313/posts/miso-peanut-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/miso-peanut-soup/</guid>
-      <description>Quick Japanese-inspired miso soup with peanut butter</description>
-    </item>
-    <item>
-      <title>Mushroom Risotto</title>
-      <link>http://localhost:1313/posts/mushroom-risotto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mushroom-risotto/</guid>
-      <description>Creamy, luxurious risotto with earthy mushrooms</description>
-    </item>
-    <item>
-      <title>New York Cheesecake</title>
-      <link>http://localhost:1313/posts/cheesecake/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cheesecake/</guid>
-      <description>Rich, creamy cheesecake with graham cracker crust</description>
-    </item>
-    <item>
-      <title>Oatmeal Chocolate Chip Cookies</title>
-      <link>http://localhost:1313/posts/oatmeal-chocolate-chip-cookies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/oatmeal-chocolate-chip-cookies/</guid>
-      <description>Chewy oatmeal cookies loaded with chocolate chips</description>
-    </item>
-    <item>
-      <title>Osso Buco</title>
-      <link>http://localhost:1313/posts/osso-buco/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/osso-buco/</guid>
-      <description>Braised veal shanks in white wine and vegetables - a Milanese classic</description>
-    </item>
-    <item>
-      <title>Pad Thai</title>
-      <link>http://localhost:1313/posts/pad-thai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pad-thai/</guid>
-      <description>Classic Thai stir-fried noodles with tamarind, peanuts, and lime</description>
-    </item>
-    <item>
-      <title>Palak Paneer</title>
-      <link>http://localhost:1313/posts/palak-paneer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/palak-paneer/</guid>
-      <description>Indian spinach curry with paneer cheese</description>
-    </item>
-    <item>
-      <title>Pasta Tutto Giardino (White Sauce Primavera)</title>
-      <link>http://localhost:1313/posts/pasta-tutto-giardino/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pasta-tutto-giardino/</guid>
-      <description>Fresh vegetable pasta in creamy white sauce</description>
-    </item>
-    <item>
-      <title>Penne Arrabbiata</title>
-      <link>http://localhost:1313/posts/penne-arrabbiata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/penne-arrabbiata/</guid>
-      <description>Spicy tomato pasta with garlic and red pepper flakes</description>
-    </item>
-    <item>
-      <title>Pressure Cooker Chicken Pho</title>
-      <link>http://localhost:1313/posts/chicken-pho/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-pho/</guid>
-      <description>Authentic Vietnamese chicken pho made quick in a pressure cooker</description>
-    </item>
-    <item>
-      <title>Shepherd&#39;s Pie</title>
-      <link>http://localhost:1313/posts/shepherds-pie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/shepherds-pie/</guid>
-      <description>British comfort food with ground lamb and mashed potato topping</description>
-    </item>
-    <item>
-      <title>Southern Fried Chicken</title>
-      <link>http://localhost:1313/posts/fried-chicken/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fried-chicken/</guid>
-      <description>Crispy, juicy fried chicken with a perfectly seasoned coating</description>
-    </item>
-    <item>
-      <title>Spaghetti Carbonara</title>
-      <link>http://localhost:1313/posts/spaghetti-carbonara/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spaghetti-carbonara/</guid>
-      <description>Classic Roman pasta with eggs, cheese, and pancetta</description>
-    </item>
-    <item>
-      <title>Spicy Caribbean Fish</title>
-      <link>http://localhost:1313/posts/spicy-caribbean-fish/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spicy-caribbean-fish/</guid>
-      <description>White fish in coconut tomato sauce with Caribbean spices</description>
-    </item>
-    <item>
-      <title>Spicy Chicken Ramen</title>
-      <link>http://localhost:1313/posts/spicy-chicken-ramen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spicy-chicken-ramen/</guid>
-      <description>Homemade spicy chicken ramen with gochujang and chili crisp</description>
-    </item>
-    <item>
-      <title>Spicy Tomato Soup</title>
-      <link>http://localhost:1313/posts/spicy-tomato-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spicy-tomato-soup/</guid>
-      <description>Creamy tomato soup with a kick of spice, perfect with garlic bread</description>
-    </item>
-    <item>
-      <title>Swedish Meatballs</title>
-      <link>http://localhost:1313/posts/swedish-meatballs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/swedish-meatballs/</guid>
-      <description>Classic Swedish meatballs in creamy gravy with allspice and nutmeg</description>
-    </item>
-    <item>
-      <title>Sweet and Sour Chicken</title>
-      <link>http://localhost:1313/posts/sweet-and-sour-chicken/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sweet-and-sour-chicken/</guid>
-      <description>Crispy chicken in tangy sweet and sour sauce with peppers</description>
-    </item>
-    <item>
-      <title>Texas Style Quesadillas</title>
-      <link>http://localhost:1313/posts/texas-quesadillas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/texas-quesadillas/</guid>
-      <description>Loaded quesadillas with peppers, onions, and Mexican cheese</description>
-    </item>
-    <item>
-      <title>Thai Chicken Noodle Soup</title>
-      <link>http://localhost:1313/posts/thai-chicken-noodle-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/thai-chicken-noodle-soup/</guid>
-      <description>Creamy Thai coconut curry soup with chicken and rice noodles</description>
-    </item>
-    <item>
-      <title>Vegetarian Enchiladas with Black Bean and Zucchini</title>
-      <link>http://localhost:1313/posts/vegetarian-enchiladas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vegetarian-enchiladas/</guid>
-      <description>Delicious vegetarian enchiladas loaded with beans, zucchini, and peppers</description>
-    </item>
-    <item>
-      <title>Veggie Pot Pie</title>
-      <link>http://localhost:1313/posts/veggie-pot-pie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/veggie-pot-pie/</guid>
-      <description>Hearty vegetarian pot pie with mushrooms, carrots, and puff pastry</description>
-    </item>
-    <item>
-      <title>Veggie Shepherds Pie</title>
-      <link>http://localhost:1313/posts/veggie-shepherds-pie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/veggie-shepherds-pie/</guid>
-      <description>Vegetarian shepherd&amp;#39;s pie with lentils, kale, and mashed potatoes</description>
+&lt;p&gt;Whether you have a recipe request, want to share your cooking success, or just want to say hello, feel free to reach out. I&amp;rsquo;m always excited to connect with fellow food enthusiasts and home cooks!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

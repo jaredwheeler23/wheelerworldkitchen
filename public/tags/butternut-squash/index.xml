@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Butternut-Squash on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/butternut-squash/</link>
+    <link>https://wheelerworldkitchen.com/tags/butternut-squash/</link>
     <description>Recent content in Butternut-Squash on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/butternut-squash/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/butternut-squash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Autumn Pot Pie (Christmas Veggie Pot Pie)</title>
-      <link>http://localhost:1313/posts/autumn-pot-pie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/autumn-pot-pie/</guid>
-      <description>Festive vegetarian pot pie with butternut squash and cheddar crust</description>
+      <link>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</guid>
+      <description>Festive vegetarian pot pie with butternut squash, mushrooms, and cheddar pastry</description>
     </item>
   </channel>
 </rss>

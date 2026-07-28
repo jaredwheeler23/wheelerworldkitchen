@@ -2,17 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Enchiladas on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/enchiladas/</link>
+    <link>https://wheelerworldkitchen.com/tags/enchiladas/</link>
     <description>Recent content in Enchiladas on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/enchiladas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/enchiladas/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vegetarian Enchiladas with Black Bean and Zucchini</title>
-      <link>http://localhost:1313/posts/vegetarian-enchiladas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vegetarian-enchiladas/</guid>
-      <description>Delicious vegetarian enchiladas loaded with beans, zucchini, and peppers</description>
+      <title>Fish and Veggie Enchiladas</title>
+      <link>https://wheelerworldkitchen.com/posts/fish-veggie-enchiladas/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fish-veggie-enchiladas/</guid>
+      <description>Light and flavorful fish enchiladas with vegetables and guacamole salsa</description>
+    </item>
+    <item>
+      <title>Vegetarian Enchiladas</title>
+      <link>https://wheelerworldkitchen.com/posts/vegetarian-enchiladas-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/vegetarian-enchiladas-recipe/</guid>
+      <description>Black Bean Enchiladas with Veggies</description>
     </item>
   </channel>
 </rss>

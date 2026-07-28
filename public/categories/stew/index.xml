@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stew on Wheeler World Kitchen</title>
+    <link>https://wheelerworldkitchen.com/categories/stew/</link>
+    <description>Recent content in Stew on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/categories/stew/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>African Chicken Peanut Stew</title>
+      <link>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</guid>
+      <description>Rich and flavorful chicken stew with peanut butter and vegetables</description>
+    </item>
+    <item>
+      <title>Beef Stew</title>
+      <link>https://wheelerworldkitchen.com/posts/beef-stew-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/beef-stew-recipe/</guid>
+      <description>Hearty beef stew with vegetables and rich broth</description>
+    </item>
+  </channel>
+</rss>

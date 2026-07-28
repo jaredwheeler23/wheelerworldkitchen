@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Peanut on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/peanut/</link>
+    <link>https://wheelerworldkitchen.com/tags/peanut/</link>
     <description>Recent content in Peanut on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/peanut/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>African Chicken Peanut Stew</title>
-      <link>http://localhost:1313/posts/african-chicken-peanut-stew/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/african-chicken-peanut-stew/</guid>
-      <description>Simple Chicken Peanut Stew Recipe</description>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/peanut/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Miso, Noodle, Peanut Soup</title>
-      <link>http://localhost:1313/posts/miso-peanut-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/miso-peanut-soup/</guid>
-      <description>Quick Japanese-inspired miso soup with peanut butter</description>
+      <link>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</guid>
+      <description>Quick and flavorful Asian-inspired soup with miso, peanut butter, and noodles</description>
     </item>
   </channel>
 </rss>

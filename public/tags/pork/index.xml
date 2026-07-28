@@ -2,38 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pork on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/pork/</link>
+    <link>https://wheelerworldkitchen.com/tags/pork/</link>
     <description>Recent content in Pork on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/pork/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/pork/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BBQ Pulled Pork</title>
-      <link>http://localhost:1313/posts/bbq-pulled-pork/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bbq-pulled-pork/</guid>
-      <description>Slow-cooked, tender pulled pork with smoky BBQ sauce - perfect for sandwiches</description>
+      <title>Al Pastor (Pork with Hot and Sweet Flavor)</title>
+      <link>https://wheelerworldkitchen.com/posts/al-pastor/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/al-pastor/</guid>
+      <description>Spicy-sweet Mexican pork with pineapple, perfect for tacos</description>
     </item>
     <item>
-      <title>Carnitas</title>
-      <link>http://localhost:1313/posts/carnitas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/carnitas/</guid>
-      <description>Tender, crispy Mexican pulled pork - perfect for tacos</description>
+      <title>Bacon Wrapped Meatloaf with Spicy Ketchup</title>
+      <link>https://wheelerworldkitchen.com/posts/bacon-wrapped-meatloaf-spicy-ketchup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/bacon-wrapped-meatloaf-spicy-ketchup/</guid>
+      <description>Classic meatloaf wrapped in bacon with a spicy glaze</description>
     </item>
     <item>
-      <title>Chile Verde</title>
-      <link>http://localhost:1313/posts/chile-verde/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chile-verde/</guid>
-      <description>Tender pork in a tangy green chile sauce</description>
+      <title>Carnitas (Mexican Shredded Pork)</title>
+      <link>https://wheelerworldkitchen.com/posts/carnitas-mexican-shredded-pork/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/carnitas-mexican-shredded-pork/</guid>
+      <description>Tender pressure cooker carnitas with orange juice and spices - perfect for tacos</description>
     </item>
     <item>
-      <title>Swedish Meatballs</title>
-      <link>http://localhost:1313/posts/swedish-meatballs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/swedish-meatballs/</guid>
-      <description>Classic Swedish meatballs in creamy gravy with allspice and nutmeg</description>
+      <title>Swedish Meatballs (MD Special)</title>
+      <link>https://wheelerworldkitchen.com/posts/swedish-meatballs/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/swedish-meatballs/</guid>
+      <description>Classic Swedish meatballs in a rich, creamy gravy - a family favorite</description>
     </item>
   </channel>
 </rss>

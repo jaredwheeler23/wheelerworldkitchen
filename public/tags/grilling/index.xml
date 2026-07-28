@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Grilling on Wheeler World Kitchen</title>
+    <link>https://wheelerworldkitchen.com/tags/grilling/</link>
+    <description>Recent content in Grilling on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/grilling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chicken Marinade with Lime for Mexican Dish</title>
+      <link>https://wheelerworldkitchen.com/posts/chicken-marinade-lime/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-marinade-lime/</guid>
+      <description>Flavorful lime-based chicken marinade perfect for tacos and other Mexican dishes</description>
+    </item>
+    <item>
+      <title>Fancy Steak Marinade</title>
+      <link>https://wheelerworldkitchen.com/posts/fancy-steak-marinade/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fancy-steak-marinade/</guid>
+      <description>Flavorful marinade with soy sauce, lime, and spices perfect for grilled steak</description>
+    </item>
+  </channel>
+</rss>

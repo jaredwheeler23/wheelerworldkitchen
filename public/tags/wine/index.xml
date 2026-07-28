@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Wine on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/wine/</link>
+    <link>https://wheelerworldkitchen.com/tags/wine/</link>
     <description>Recent content in Wine on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/wine/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coq au Vin</title>
-      <link>http://localhost:1313/posts/coq-au-vin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/coq-au-vin/</guid>
-      <description>French braised chicken in red wine with bacon and mushrooms</description>
+      <title>Butter Wine Pasta with White Fish Filets &amp; Veggies</title>
+      <link>https://wheelerworldkitchen.com/posts/butter-wine-pasta-fish-veggies/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/butter-wine-pasta-fish-veggies/</guid>
+      <description>Light pasta dish with baked fish, vegetables, and white wine butter sauce</description>
     </item>
   </channel>
 </rss>

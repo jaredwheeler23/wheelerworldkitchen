@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cauliflower on Wheeler World Kitchen</title>
+    <link>https://wheelerworldkitchen.com/tags/cauliflower/</link>
+    <description>Recent content in Cauliflower on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/cauliflower/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baked Pasta Al Cavolfiore</title>
+      <link>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</guid>
+      <description>Decadent baked pasta with cauliflower, tomatoes, and cheese sauce</description>
+    </item>
+    <item>
+      <title>Pasta with Brussels, Cauliflower and Roasted Bread Crumbs</title>
+      <link>https://wheelerworldkitchen.com/posts/pasta-brussels-cauliflower/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-brussels-cauliflower/</guid>
+      <description>Hearty pasta dish with roasted vegetables, anchovies, and crispy breadcrumbs</description>
+    </item>
+  </channel>
+</rss>

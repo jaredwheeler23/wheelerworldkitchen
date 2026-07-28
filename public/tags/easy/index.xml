@@ -2,24 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Easy on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/easy/</link>
+    <link>https://wheelerworldkitchen.com/tags/easy/</link>
     <description>Recent content in Easy on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/easy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/easy/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creamy Mushroom Quesadillas</title>
-      <link>http://localhost:1313/posts/creamy-mushroom-quesadillas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-mushroom-quesadillas/</guid>
-      <description>Vegetarian quesadillas with sautéed mushrooms and cream cheese</description>
+      <title>Hawaiian Meatballs</title>
+      <link>https://wheelerworldkitchen.com/posts/hawaiian-meatballs/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/hawaiian-meatballs/</guid>
+      <description>Easy Hawaiian meatballs with pineapple and BBQ sauce - perfect as appetizer or main</description>
     </item>
     <item>
-      <title>Easy Alfredo Pasta with Veggies and Italian Sausage</title>
-      <link>http://localhost:1313/posts/easy-alfredo-pasta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/easy-alfredo-pasta/</guid>
-      <description>Quick alfredo pasta loaded with vegetables and spicy sausage</description>
+      <title>Rice Crispy Treats</title>
+      <link>https://wheelerworldkitchen.com/posts/rice-crispy-treats/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/rice-crispy-treats/</guid>
+      <description>Classic marshmallow and cereal treats - easy and delicious</description>
     </item>
   </channel>
 </rss>

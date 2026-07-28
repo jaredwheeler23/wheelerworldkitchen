@@ -2,80 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Baked on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/baked/</link>
+    <link>https://wheelerworldkitchen.com/tags/baked/</link>
     <description>Recent content in Baked on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/baked/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/baked/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apple Pie</title>
-      <link>http://localhost:1313/posts/apple-pie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apple-pie/</guid>
-      <description>Classic American apple pie with flaky crust and cinnamon apples</description>
+      <title>Baked Pasta Al Cavolfiore</title>
+      <link>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</guid>
+      <description>Decadent baked pasta with cauliflower, tomatoes, and cheese sauce</description>
     </item>
     <item>
-      <title>Beef Wellington</title>
-      <link>http://localhost:1313/posts/beef-wellington/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-wellington/</guid>
-      <description>Elegant beef tenderloin wrapped in puff pastry with mushroom duxelles</description>
-    </item>
-    <item>
-      <title>Chicken Parmesan</title>
-      <link>http://localhost:1313/posts/chicken-parmesan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-parmesan/</guid>
-      <description>Breaded chicken cutlets topped with marinara and melted cheese</description>
-    </item>
-    <item>
-      <title>Chocolate Chip Brownies</title>
-      <link>http://localhost:1313/posts/chocolate-chip-brownies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chocolate-chip-brownies/</guid>
-      <description>Fudgy brownies loaded with chocolate chips</description>
-    </item>
-    <item>
-      <title>Chocolate Lava Cakes</title>
-      <link>http://localhost:1313/posts/chocolate-lava-cakes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chocolate-lava-cakes/</guid>
-      <description>Individual molten chocolate cakes with gooey centers</description>
-    </item>
-    <item>
-      <title>Classic Meatloaf</title>
-      <link>http://localhost:1313/posts/meatloaf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/meatloaf/</guid>
-      <description>Traditional meatloaf with a tangy glaze - pure comfort food</description>
-    </item>
-    <item>
-      <title>Crème Brûlée</title>
-      <link>http://localhost:1313/posts/creme-brulee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creme-brulee/</guid>
-      <description>Classic French custard with caramelized sugar topping</description>
-    </item>
-    <item>
-      <title>Margherita Pizza</title>
-      <link>http://localhost:1313/posts/margherita-pizza/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/margherita-pizza/</guid>
-      <description>Classic pizza with tomato, mozzarella, and fresh basil</description>
-    </item>
-    <item>
-      <title>New York Cheesecake</title>
-      <link>http://localhost:1313/posts/cheesecake/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cheesecake/</guid>
-      <description>Rich, creamy cheesecake with graham cracker crust</description>
-    </item>
-    <item>
-      <title>Shepherd&#39;s Pie</title>
-      <link>http://localhost:1313/posts/shepherds-pie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/shepherds-pie/</guid>
-      <description>British comfort food with ground lamb and mashed potato topping</description>
+      <title>Lasagna (Meat or Veggie)</title>
+      <link>https://wheelerworldkitchen.com/posts/lasagna-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/lasagna-recipe/</guid>
+      <description>Classic layered lasagna with rich marinara sauce - customize with sausage or keep it vegetarian</description>
     </item>
   </channel>
 </rss>

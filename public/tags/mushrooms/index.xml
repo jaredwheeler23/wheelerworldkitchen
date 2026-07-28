@@ -2,31 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mushrooms on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/mushrooms/</link>
+    <link>https://wheelerworldkitchen.com/tags/mushrooms/</link>
     <description>Recent content in Mushrooms on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/mushrooms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/mushrooms/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Beef Wellington</title>
-      <link>http://localhost:1313/posts/beef-wellington/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beef-wellington/</guid>
-      <description>Elegant beef tenderloin wrapped in puff pastry with mushroom duxelles</description>
+      <title>Autumn Pot Pie (Christmas Veggie Pot Pie)</title>
+      <link>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</guid>
+      <description>Festive vegetarian pot pie with butternut squash, mushrooms, and cheddar pastry</description>
+    </item>
+    <item>
+      <title>Creamy Corn Street Tacos</title>
+      <link>https://wheelerworldkitchen.com/posts/creamy-corn-street-tacos/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-corn-street-tacos/</guid>
+      <description>Vegetarian street tacos with creamy elote-style corn and mushrooms</description>
     </item>
     <item>
       <title>Creamy Mushroom Quesadillas</title>
-      <link>http://localhost:1313/posts/creamy-mushroom-quesadillas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-mushroom-quesadillas/</guid>
-      <description>Vegetarian quesadillas with sautéed mushrooms and cream cheese</description>
-    </item>
-    <item>
-      <title>Mushroom Risotto</title>
-      <link>http://localhost:1313/posts/mushroom-risotto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mushroom-risotto/</guid>
-      <description>Creamy, luxurious risotto with earthy mushrooms</description>
+      <link>https://wheelerworldkitchen.com/posts/creamy-mushroom-quesadillas/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-mushroom-quesadillas/</guid>
+      <description>Vegetarian quesadillas with sautéed mushrooms and creamy cheese filling</description>
     </item>
   </channel>
 </rss>

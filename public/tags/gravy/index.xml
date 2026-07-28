@@ -2,24 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gravy on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/gravy/</link>
+    <link>https://wheelerworldkitchen.com/tags/gravy/</link>
     <description>Recent content in Gravy on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/gravy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/gravy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bangers and Mash with Guinness Gravy</title>
-      <link>http://localhost:1313/posts/bangers-and-mash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bangers-and-mash/</guid>
-      <description>British comfort food with sausages, mashed potatoes, and rich Guinness gravy</description>
+      <link>https://wheelerworldkitchen.com/posts/bangers-and-mash/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/bangers-and-mash/</guid>
+      <description>Traditional British sausages with mashed potatoes and rich Guinness gravy</description>
     </item>
     <item>
-      <title>Swedish Meatballs</title>
-      <link>http://localhost:1313/posts/swedish-meatballs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/swedish-meatballs/</guid>
-      <description>Classic Swedish meatballs in creamy gravy with allspice and nutmeg</description>
+      <title>Breakfast Pizza</title>
+      <link>https://wheelerworldkitchen.com/posts/breakfast-pizza/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/breakfast-pizza/</guid>
+      <description>Savory breakfast pizza with sausage gravy, eggs, and cheese</description>
+    </item>
+    <item>
+      <title>Spicy Cauliflower Tomato Chili Gravy</title>
+      <link>https://wheelerworldkitchen.com/posts/spicy-cauliflower-tomato-chili-gravy/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-cauliflower-tomato-chili-gravy/</guid>
+      <description>Easy Indian Dish to Serve Over Rice</description>
+    </item>
+    <item>
+      <title>Swedish Meatballs (MD Special)</title>
+      <link>https://wheelerworldkitchen.com/posts/swedish-meatballs/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/swedish-meatballs/</guid>
+      <description>Classic Swedish meatballs in a rich, creamy gravy - a family favorite</description>
     </item>
   </channel>
 </rss>

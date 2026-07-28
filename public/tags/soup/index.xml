@@ -2,80 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Soup on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/soup/</link>
+    <link>https://wheelerworldkitchen.com/tags/soup/</link>
     <description>Recent content in Soup on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/soup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/soup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birria Ramen with Leftover Birria Broth</title>
+      <link>https://wheelerworldkitchen.com/posts/birria-ramen/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/birria-ramen/</guid>
+      <description>Delicious ramen made with leftover birria broth</description>
+    </item>
     <item>
       <title>Chicken and Dumplings (Instant Pot Style)</title>
-      <link>http://localhost:1313/posts/chicken-and-dumplings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-and-dumplings/</guid>
-      <description>Comfort food classic with tender chicken and fluffy dumplings</description>
+      <link>https://wheelerworldkitchen.com/posts/chicken-and-dumplings/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-and-dumplings/</guid>
+      <description>Comforting chicken and dumplings made easy in the instant pot</description>
+    </item>
+    <item>
+      <title>Chicken Noodle Soup in Instant Pot</title>
+      <link>https://wheelerworldkitchen.com/posts/chicken-noodle-soup-instant-pot/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-noodle-soup-instant-pot/</guid>
+      <description>Classic chicken noodle soup made quickly in the instant pot</description>
     </item>
     <item>
       <title>Chicken Tortilla Soup</title>
-      <link>http://localhost:1313/posts/chicken-tortilla-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-tortilla-soup/</guid>
-      <description>Mexican chicken soup with black beans, corn, and crispy tortilla strips</description>
+      <link>https://wheelerworldkitchen.com/posts/chicken-tortilla-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-tortilla-soup/</guid>
+      <description>Flavorful Mexican soup with chicken, black beans, and crispy tortilla strips</description>
     </item>
     <item>
       <title>Corn Cheddar Chowder</title>
-      <link>http://localhost:1313/posts/corn-cheddar-chowder/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/corn-cheddar-chowder/</guid>
-      <description>Creamy corn chowder with sharp cheddar cheese and vegetables</description>
+      <link>https://wheelerworldkitchen.com/posts/corn-cheddar-chowder/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/corn-cheddar-chowder/</guid>
+      <description>Creamy, hearty chowder loaded with corn, vegetables, and cheddar cheese</description>
     </item>
     <item>
-      <title>Grandma Emily&#39;s Lentil Soup</title>
-      <link>http://localhost:1313/posts/grandma-emilys-lentil-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/grandma-emilys-lentil-soup/</guid>
-      <description>Traditional lentil soup with pasta and vegetables</description>
+      <title>Creamy Sausage and Potato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</guid>
+      <description>Rich and hearty soup with sausage, potatoes, and cream</description>
     </item>
     <item>
-      <title>Italian Wedding Soup, The Dill Version</title>
-      <link>http://localhost:1313/posts/italian-wedding-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/italian-wedding-soup/</guid>
-      <description>Classic Italian wedding soup with homemade meatballs and fresh dill</description>
+      <title>Creamy Seafood Stew/Chowder</title>
+      <link>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</guid>
+      <description>Rich and creamy seafood chowder with fish, shrimp, and vegetables</description>
+    </item>
+    <item>
+      <title>Decadent Potato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</guid>
+      <description>Rich and creamy potato soup with bacon, cheddar cheese, and sour cream</description>
+    </item>
+    <item>
+      <title>Italian Wedding Soup, the Dill Version</title>
+      <link>https://wheelerworldkitchen.com/posts/italian-wedding-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/italian-wedding-soup/</guid>
+      <description>Classic Italian soup with tender meatballs, pasta, and fresh dill</description>
+    </item>
+    <item>
+      <title>Lentil, Tomato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/lentil-tomato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/lentil-tomato-soup/</guid>
+      <description>Hearty and healthy lentil soup with tomatoes, curry, and fresh greens</description>
     </item>
     <item>
       <title>Miso, Noodle, Peanut Soup</title>
-      <link>http://localhost:1313/posts/miso-peanut-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/miso-peanut-soup/</guid>
-      <description>Quick Japanese-inspired miso soup with peanut butter</description>
+      <link>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</guid>
+      <description>Quick and flavorful Asian-inspired soup with miso, peanut butter, and noodles</description>
+    </item>
+    <item>
+      <title>Pasta e Fagioli</title>
+      <link>https://wheelerworldkitchen.com/posts/pasta-e-fagioli/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-e-fagioli/</guid>
+      <description>Hearty Italian pasta and bean soup with sausage</description>
     </item>
     <item>
       <title>Pressure Cooker Chicken Pho</title>
-      <link>http://localhost:1313/posts/chicken-pho/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-pho/</guid>
-      <description>Authentic Vietnamese chicken pho made quick in a pressure cooker</description>
+      <link>https://wheelerworldkitchen.com/posts/pressure-cooker-chicken-pho/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pressure-cooker-chicken-pho/</guid>
+      <description>Classic Vietnamese Comfort Food</description>
     </item>
     <item>
-      <title>Spicy Chicken Ramen</title>
-      <link>http://localhost:1313/posts/spicy-chicken-ramen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spicy-chicken-ramen/</guid>
-      <description>Homemade spicy chicken ramen with gochujang and chili crisp</description>
+      <title>Ramen Variety 2, Not Spicy</title>
+      <link>https://wheelerworldkitchen.com/posts/ramen-variety-2/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/ramen-variety-2/</guid>
+      <description>Mild and flavorful ramen with chicken, fresh vegetables, and savory broth</description>
+    </item>
+    <item>
+      <title>Red Curry Thai Noodle Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/red-curry-thai-noodle-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/red-curry-thai-noodle-soup/</guid>
+      <description>Spicy Thai soup with red curry, coconut milk, chicken, and rice noodles</description>
+    </item>
+    <item>
+      <title>Red Lentils (Mediterranean/Indian Mix)</title>
+      <link>https://wheelerworldkitchen.com/posts/red-lentils-mediterranean-indian/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/red-lentils-mediterranean-indian/</guid>
+      <description>Smooth red lentil soup with Mediterranean herbs and Indian spices</description>
+    </item>
+    <item>
+      <title>Roasted Tomato Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/roasted-tomato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/roasted-tomato-soup/</guid>
+      <description>American Comfort Food at its best (serve with ham/cheese sandwiches for a full meal)</description>
+    </item>
+    <item>
+      <title>Seafood Stew With Coconut and Tomato</title>
+      <link>https://wheelerworldkitchen.com/posts/seafood-stew-coconut-tomato/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/seafood-stew-coconut-tomato/</guid>
+      <description>Simple and quick Seafood Stew</description>
     </item>
     <item>
       <title>Spicy Tomato Soup</title>
-      <link>http://localhost:1313/posts/spicy-tomato-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spicy-tomato-soup/</guid>
-      <description>Creamy tomato soup with a kick of spice, perfect with garlic bread</description>
+      <link>https://wheelerworldkitchen.com/posts/spicy-tomato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-tomato-soup/</guid>
+      <description>Rich, creamy tomato soup with a kick of spice - perfect with garlic bread</description>
     </item>
     <item>
-      <title>Thai Chicken Noodle Soup</title>
-      <link>http://localhost:1313/posts/thai-chicken-noodle-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/thai-chicken-noodle-soup/</guid>
-      <description>Creamy Thai coconut curry soup with chicken and rice noodles</description>
+      <title>Zuppa Toscana Instant Pot</title>
+      <link>https://wheelerworldkitchen.com/posts/zuppa-toscana-instant-pot/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/zuppa-toscana-instant-pot/</guid>
+      <description>Nice classic italian with quick process</description>
     </item>
   </channel>
 </rss>

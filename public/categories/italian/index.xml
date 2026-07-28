@@ -2,87 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Italian on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/categories/italian/</link>
+    <link>https://wheelerworldkitchen.com/categories/italian/</link>
     <description>Recent content in Italian on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/italian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/categories/italian/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chicken Parmesan</title>
-      <link>http://localhost:1313/posts/chicken-parmesan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-parmesan/</guid>
-      <description>Breaded chicken cutlets topped with marinara and melted cheese</description>
+      <title>Easy Italian Meatballs</title>
+      <link>https://wheelerworldkitchen.com/posts/italian-meatballs/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/italian-meatballs/</guid>
+      <description>Easy and tasty italian meatballs</description>
     </item>
     <item>
-      <title>Easy Alfredo Pasta with Veggies and Italian Sausage</title>
-      <link>http://localhost:1313/posts/easy-alfredo-pasta/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/easy-alfredo-pasta/</guid>
-      <description>Quick alfredo pasta loaded with vegetables and spicy sausage</description>
+      <title>Amazing Pesto, Tomato, Broccoli Pizza</title>
+      <link>https://wheelerworldkitchen.com/posts/amazing-pesto-tomato-broccoli-pizza/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/amazing-pesto-tomato-broccoli-pizza/</guid>
+      <description>Delicious homemade pizza with pesto, roasted tomatoes, and broccoli</description>
+    </item>
+    <item>
+      <title>Baked Pasta Al Cavolfiore</title>
+      <link>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</guid>
+      <description>Decadent baked pasta with cauliflower, tomatoes, and cheese sauce</description>
+    </item>
+    <item>
+      <title>Butter Wine Pasta with White Fish Filets &amp; Veggies</title>
+      <link>https://wheelerworldkitchen.com/posts/butter-wine-pasta-fish-veggies/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/butter-wine-pasta-fish-veggies/</guid>
+      <description>Light pasta dish with baked fish, vegetables, and white wine butter sauce</description>
+    </item>
+    <item>
+      <title>Cheesy Pesto Pull Apart Bread Appetizer</title>
+      <link>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</guid>
+      <description>Delicious pull-apart bread filled with pesto and melted mozzarella</description>
+    </item>
+    <item>
+      <title>Chicken Alfredo with Pan Seared Chicken</title>
+      <link>https://wheelerworldkitchen.com/posts/chicken-alfredo-pan-seared/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-alfredo-pan-seared/</guid>
+      <description>Restaurant-quality chicken alfredo with perfectly seared chicken and spicy alfredo sauce</description>
+    </item>
+    <item>
+      <title>Easy Alfredo Pasta with Veggies and Spicy Italian Sausage</title>
+      <link>https://wheelerworldkitchen.com/posts/easy-alfredo-pasta/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/easy-alfredo-pasta/</guid>
+      <description>Quick and delicious alfredo pasta loaded with vegetables and optional spicy sausage</description>
     </item>
     <item>
       <title>Fettuccine with Caramelized Onions and Yogurt</title>
-      <link>http://localhost:1313/posts/fettuccine-caramelized-onions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fettuccine-caramelized-onions/</guid>
-      <description>Simple pasta with deeply caramelized onions and tangy yogurt sauce</description>
+      <link>https://wheelerworldkitchen.com/posts/fettuccine-caramelized-onions-yogurt/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fettuccine-caramelized-onions-yogurt/</guid>
+      <description>Simple yet elegant pasta with sweet caramelized onions and tangy yogurt</description>
     </item>
     <item>
-      <title>Italian Wedding Soup, The Dill Version</title>
-      <link>http://localhost:1313/posts/italian-wedding-soup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/italian-wedding-soup/</guid>
-      <description>Classic Italian wedding soup with homemade meatballs and fresh dill</description>
+      <title>Fresh Tomato Fettuccine with Garlic</title>
+      <link>https://wheelerworldkitchen.com/posts/fresh-tomato-fettuccine-garlic/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/fresh-tomato-fettuccine-garlic/</guid>
+      <description>Light summer pasta with fresh tomatoes, basil, and garlic</description>
+    </item>
+    <item>
+      <title>Homemade Pasta Dough</title>
+      <link>https://wheelerworldkitchen.com/posts/homemade-pasta-dough/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/homemade-pasta-dough/</guid>
+      <description>Simple homemade fresh pasta dough with just 4 ingredients</description>
+    </item>
+    <item>
+      <title>Homemade Pesto Sauce</title>
+      <link>https://wheelerworldkitchen.com/posts/homemade-pesto-sauce/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/homemade-pesto-sauce/</guid>
+      <description>Fresh basil pesto with pine nuts and parmesan</description>
+    </item>
+    <item>
+      <title>Italian Wedding Soup, the Dill Version</title>
+      <link>https://wheelerworldkitchen.com/posts/italian-wedding-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/italian-wedding-soup/</guid>
+      <description>Classic Italian soup with tender meatballs, pasta, and fresh dill</description>
     </item>
     <item>
       <title>Lasagna (Meat or Veggie)</title>
-      <link>http://localhost:1313/posts/lasagna/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lasagna/</guid>
-      <description>Classic Italian lasagna with marinara, ricotta, and mozzarella</description>
+      <link>https://wheelerworldkitchen.com/posts/lasagna-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/lasagna-recipe/</guid>
+      <description>Classic layered lasagna with rich marinara sauce - customize with sausage or keep it vegetarian</description>
     </item>
     <item>
-      <title>Margherita Pizza</title>
-      <link>http://localhost:1313/posts/margherita-pizza/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/margherita-pizza/</guid>
-      <description>Classic pizza with tomato, mozzarella, and fresh basil</description>
+      <title>Linguini and Clams in Butter/Garlic/Wine Sauce</title>
+      <link>https://wheelerworldkitchen.com/posts/linguini-clams-butter-garlic-wine/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/linguini-clams-butter-garlic-wine/</guid>
+      <description>Classic Italian pasta with fresh clams in a white wine butter sauce</description>
     </item>
     <item>
-      <title>Mushroom Risotto</title>
-      <link>http://localhost:1313/posts/mushroom-risotto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mushroom-risotto/</guid>
-      <description>Creamy, luxurious risotto with earthy mushrooms</description>
+      <title>Minestrone Soup (Instant Pot)</title>
+      <link>https://wheelerworldkitchen.com/posts/minestrone-soup-instant-pot/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/minestrone-soup-instant-pot/</guid>
+      <description>Classic Italian vegetable soup made easy in the instant pot</description>
     </item>
     <item>
-      <title>Osso Buco</title>
-      <link>http://localhost:1313/posts/osso-buco/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/osso-buco/</guid>
-      <description>Braised veal shanks in white wine and vegetables - a Milanese classic</description>
+      <title>Pasta e Fagioli</title>
+      <link>https://wheelerworldkitchen.com/posts/pasta-e-fagioli/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-e-fagioli/</guid>
+      <description>Hearty Italian pasta and bean soup with sausage</description>
     </item>
     <item>
       <title>Pasta Tutto Giardino (White Sauce Primavera)</title>
-      <link>http://localhost:1313/posts/pasta-tutto-giardino/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pasta-tutto-giardino/</guid>
-      <description>Fresh vegetable pasta in creamy white sauce</description>
+      <link>https://wheelerworldkitchen.com/posts/pasta-tutto-giardino/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-tutto-giardino/</guid>
+      <description>Garden vegetable pasta in a creamy white sauce with fresh herbs</description>
     </item>
     <item>
-      <title>Penne Arrabbiata</title>
-      <link>http://localhost:1313/posts/penne-arrabbiata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/penne-arrabbiata/</guid>
-      <description>Spicy tomato pasta with garlic and red pepper flakes</description>
+      <title>Pasta with Brussels, Cauliflower and Roasted Bread Crumbs</title>
+      <link>https://wheelerworldkitchen.com/posts/pasta-brussels-cauliflower/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-brussels-cauliflower/</guid>
+      <description>Hearty pasta dish with roasted vegetables, anchovies, and crispy breadcrumbs</description>
     </item>
     <item>
-      <title>Spaghetti Carbonara</title>
-      <link>http://localhost:1313/posts/spaghetti-carbonara/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spaghetti-carbonara/</guid>
-      <description>Classic Roman pasta with eggs, cheese, and pancetta</description>
+      <title>Pasta with Vodka Sauce</title>
+      <link>https://wheelerworldkitchen.com/posts/pasta-vodka-sauce/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-vodka-sauce/</guid>
+      <description>Creamy vodka sauce with meatballs over pasta</description>
+    </item>
+    <item>
+      <title>Zuppa Toscana Instant Pot</title>
+      <link>https://wheelerworldkitchen.com/posts/zuppa-toscana-instant-pot/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/zuppa-toscana-instant-pot/</guid>
+      <description>Nice classic italian with quick process</description>
     </item>
   </channel>
 </rss>

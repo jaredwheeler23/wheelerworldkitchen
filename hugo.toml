@@ -45,19 +45,14 @@ url = "/recipes/"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
-url = "/contact/"
-weight = 4
-
-[[menu.main]]
 name = "Search"
 url = "/search/"
-weight = 5
+weight = 4
 
 [[menu.main]]
 name = "ChefWinston"
 url = "/ChefWinston/"
-weight = 6
+weight = 5
 
 [markup.goldmark.renderer]
 unsafe = true

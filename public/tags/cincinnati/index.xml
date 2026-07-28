@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cincinnati on Wheeler World Kitchen</title>
+    <link>https://wheelerworldkitchen.com/tags/cincinnati/</link>
+    <description>Recent content in Cincinnati on Wheeler World Kitchen</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/tags/cincinnati/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Famous Cincinnati Chili (5-Way)</title>
+      <link>https://wheelerworldkitchen.com/posts/famous-cincinnati-chili/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/famous-cincinnati-chili/</guid>
+      <description>Authentic Cincinnati-style chili with unique spices, served over spaghetti</description>
+    </item>
+  </channel>
+</rss>

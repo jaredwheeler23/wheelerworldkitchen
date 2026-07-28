@@ -2,31 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Indian on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/categories/indian/</link>
+    <link>https://wheelerworldkitchen.com/categories/indian/</link>
     <description>Recent content in Indian on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/indian/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Butter Chicken</title>
-      <link>http://localhost:1313/posts/butter-chicken/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/butter-chicken/</guid>
-      <description>Creamy Indian curry with tender chicken in tomato-based sauce</description>
-    </item>
+    <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://wheelerworldkitchen.com/categories/indian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chicken Tikka Masala</title>
-      <link>http://localhost:1313/posts/chicken-tikka-masala/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-tikka-masala/</guid>
-      <description>Classic Indian chicken tikka masala with overnight marinade</description>
+      <link>https://wheelerworldkitchen.com/posts/chicken-tikka-masala/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-tikka-masala/</guid>
+      <description>Authentic chicken tikka masala with overnight marinated chicken in rich tomato cream sauce</description>
     </item>
     <item>
-      <title>Palak Paneer</title>
-      <link>http://localhost:1313/posts/palak-paneer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/palak-paneer/</guid>
-      <description>Indian spinach curry with paneer cheese</description>
+      <title>Chickpea Curry, Quick, Easy and Light</title>
+      <link>https://wheelerworldkitchen.com/posts/chickpea-curry-quick/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/chickpea-curry-quick/</guid>
+      <description>Fast and flavorful chickpea curry with coconut milk</description>
+    </item>
+    <item>
+      <title>Himalayan Chicken Karahi</title>
+      <link>https://wheelerworldkitchen.com/posts/himalayan-chicken-karahi/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/himalayan-chicken-karahi/</guid>
+      <description>Spicy Pakistani-style chicken curry cooked in a wok with tomatoes and aromatic spices</description>
+    </item>
+    <item>
+      <title>Lentil Dahl</title>
+      <link>https://wheelerworldkitchen.com/posts/lentil-dahl/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/lentil-dahl/</guid>
+      <description>Simple Indian red lentil curry - quick, healthy, and flavorful</description>
+    </item>
+    <item>
+      <title>Naan</title>
+      <link>https://wheelerworldkitchen.com/posts/naan/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/naan/</guid>
+      <description>Classic Indian Break</description>
+    </item>
+    <item>
+      <title>Red Lentils (Mediterranean/Indian Mix)</title>
+      <link>https://wheelerworldkitchen.com/posts/red-lentils-mediterranean-indian/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/red-lentils-mediterranean-indian/</guid>
+      <description>Smooth red lentil soup with Mediterranean herbs and Indian spices</description>
+    </item>
+    <item>
+      <title>Spicy Cauliflower Tomato Chili Gravy</title>
+      <link>https://wheelerworldkitchen.com/posts/spicy-cauliflower-tomato-chili-gravy/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-cauliflower-tomato-chili-gravy/</guid>
+      <description>Easy Indian Dish to Serve Over Rice</description>
     </item>
   </channel>
 </rss>
