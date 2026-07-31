@@ -45,14 +45,9 @@ url = "/recipes/"
 weight = 3
 
 [[menu.main]]
-name = "Search"
-url = "/search/"
-weight = 4
-
-[[menu.main]]
 name = "ChefWinston"
 url = "/ChefWinston/"
-weight = 5
+weight = 4
 
 [markup.goldmark.renderer]
 unsafe = true
