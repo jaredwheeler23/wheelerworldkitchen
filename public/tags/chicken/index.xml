@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chicken on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/chicken/</link>
+    <link>http://localhost:1313/tags/chicken/</link>
     <description>Recent content in Chicken on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/chicken/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chicken/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African Chicken Peanut Stew</title>
-      <link>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</link>
+      <link>http://localhost:1313/posts/african-chicken-peanut-stew/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</guid>
+      <guid>http://localhost:1313/posts/african-chicken-peanut-stew/</guid>
       <description>Rich and flavorful chicken stew with peanut butter and vegetables</description>
     </item>
     <item>
       <title>Buffalo Chicken Salad</title>
-      <link>https://wheelerworldkitchen.com/posts/buffalo-chicken-salad/</link>
+      <link>http://localhost:1313/posts/buffalo-chicken-salad/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/buffalo-chicken-salad/</guid>
+      <guid>http://localhost:1313/posts/buffalo-chicken-salad/</guid>
       <description>Michelle&amp;#39;s lunch special - creamy buffalo chicken salad perfect for sandwiches or with crackers</description>
     </item>
     <item>
       <title>Cajun Pot Pie</title>
-      <link>https://wheelerworldkitchen.com/posts/cajun-pot-pie/</link>
+      <link>http://localhost:1313/posts/cajun-pot-pie/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/cajun-pot-pie/</guid>
+      <guid>http://localhost:1313/posts/cajun-pot-pie/</guid>
       <description>Cajun-spiced chicken pot pie with flaky crust topping</description>
     </item>
     <item>
       <title>Chicken Alfredo with Pan Seared Chicken</title>
-      <link>https://wheelerworldkitchen.com/posts/chicken-alfredo-pan-seared/</link>
+      <link>http://localhost:1313/posts/chicken-alfredo-pan-seared/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chicken-alfredo-pan-seared/</guid>
+      <guid>http://localhost:1313/posts/chicken-alfredo-pan-seared/</guid>
       <description>Restaurant-quality chicken alfredo with perfectly seared chicken and spicy alfredo sauce</description>
     </item>
     <item>
       <title>Chicken and Dumplings (Instant Pot Style)</title>
-      <link>https://wheelerworldkitchen.com/posts/chicken-and-dumplings/</link>
+      <link>http://localhost:1313/posts/chicken-and-dumplings/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chicken-and-dumplings/</guid>
+      <guid>http://localhost:1313/posts/chicken-and-dumplings/</guid>
       <description>Comforting chicken and dumplings made easy in the instant pot</description>
     </item>
     <item>
       <title>Chicken Marinade with Lime for Mexican Dish</title>
-      <link>https://wheelerworldkitchen.com/posts/chicken-marinade-lime/</link>
+      <link>http://localhost:1313/posts/chicken-marinade-lime/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chicken-marinade-lime/</guid>
+      <guid>http://localhost:1313/posts/chicken-marinade-lime/</guid>
       <description>Flavorful lime-based chicken marinade perfect for tacos and other Mexican dishes</description>
     </item>
     <item>
       <title>Chicken Noodle Soup in Instant Pot</title>
-      <link>https://wheelerworldkitchen.com/posts/chicken-noodle-soup-instant-pot/</link>
+      <link>http://localhost:1313/posts/chicken-noodle-soup-instant-pot/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chicken-noodle-soup-instant-pot/</guid>
+      <guid>http://localhost:1313/posts/chicken-noodle-soup-instant-pot/</guid>
       <description>Classic chicken noodle soup made quickly in the instant pot</description>
     </item>
     <item>
       <title>Chicken Tikka Masala</title>
-      <link>https://wheelerworldkitchen.com/posts/chicken-tikka-masala/</link>
+      <link>http://localhost:1313/posts/chicken-tikka-masala/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chicken-tikka-masala/</guid>
+      <guid>http://localhost:1313/posts/chicken-tikka-masala/</guid>
       <description>Authentic chicken tikka masala with overnight marinated chicken in rich tomato cream sauce</description>
     </item>
     <item>
       <title>Chicken Tortilla Soup</title>
-      <link>https://wheelerworldkitchen.com/posts/chicken-tortilla-soup/</link>
+      <link>http://localhost:1313/posts/chicken-tortilla-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chicken-tortilla-soup/</guid>
+      <guid>http://localhost:1313/posts/chicken-tortilla-soup/</guid>
       <description>Flavorful Mexican soup with chicken, black beans, and crispy tortilla strips</description>
     </item>
     <item>
       <title>Chinese Cashew Chicken</title>
-      <link>https://wheelerworldkitchen.com/posts/chinese-cashew-chicken/</link>
+      <link>http://localhost:1313/posts/chinese-cashew-chicken/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chinese-cashew-chicken/</guid>
+      <guid>http://localhost:1313/posts/chinese-cashew-chicken/</guid>
       <description>Spicy stir-fried chicken with cashews, vegetables, and Asian sauces</description>
     </item>
     <item>
       <title>Green Chile Chicken Stew</title>
-      <link>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</link>
+      <link>http://localhost:1313/posts/green-chile-chicken-stew/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</guid>
+      <guid>http://localhost:1313/posts/green-chile-chicken-stew/</guid>
       <description>Southwestern chicken stew with green chiles, salsa verde, and rice</description>
     </item>
     <item>
       <title>Himalayan Chicken Karahi</title>
-      <link>https://wheelerworldkitchen.com/posts/himalayan-chicken-karahi/</link>
+      <link>http://localhost:1313/posts/himalayan-chicken-karahi/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/himalayan-chicken-karahi/</guid>
+      <guid>http://localhost:1313/posts/himalayan-chicken-karahi/</guid>
       <description>Spicy Pakistani-style chicken curry cooked in a wok with tomatoes and aromatic spices</description>
     </item>
     <item>
       <title>Instant Pot Chicken Tinga</title>
-      <link>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</link>
+      <link>http://localhost:1313/posts/instant-pot-chicken-tinga/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</guid>
+      <guid>http://localhost:1313/posts/instant-pot-chicken-tinga/</guid>
       <description>Spicy shredded chicken with chipotle peppers - perfect for tacos</description>
     </item>
     <item>
       <title>Knockoff Chick-fil-A Nuggets</title>
-      <link>https://wheelerworldkitchen.com/posts/knockoff-chick-fil-a-nuggets/</link>
+      <link>http://localhost:1313/posts/knockoff-chick-fil-a-nuggets/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/knockoff-chick-fil-a-nuggets/</guid>
+      <guid>http://localhost:1313/posts/knockoff-chick-fil-a-nuggets/</guid>
       <description>Copycat Chick-fil-A chicken nuggets with pickle brine marinade</description>
     </item>
     <item>
       <title>Mustard Roasted Chicken</title>
-      <link>https://wheelerworldkitchen.com/posts/mustard-roasted-chicken/</link>
+      <link>http://localhost:1313/posts/mustard-roasted-chicken/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/mustard-roasted-chicken/</guid>
+      <guid>http://localhost:1313/posts/mustard-roasted-chicken/</guid>
       <description>Tender roasted chicken thighs with dijon mustard, honey, and tarragon</description>
     </item>
     <item>
       <title>Ramen Variety 2, Not Spicy</title>
-      <link>https://wheelerworldkitchen.com/posts/ramen-variety-2/</link>
+      <link>http://localhost:1313/posts/ramen-variety-2/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/ramen-variety-2/</guid>
+      <guid>http://localhost:1313/posts/ramen-variety-2/</guid>
       <description>Mild and flavorful ramen with chicken, fresh vegetables, and savory broth</description>
     </item>
     <item>
       <title>Thai Chicken Curry with Coconut Milk</title>
-      <link>https://wheelerworldkitchen.com/posts/thai-chicken-curry-coconut/</link>
+      <link>http://localhost:1313/posts/thai-chicken-curry-coconut/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/thai-chicken-curry-coconut/</guid>
+      <guid>http://localhost:1313/posts/thai-chicken-curry-coconut/</guid>
       <description>Rich and creamy Thai red curry with chicken, peanut butter, and coconut milk</description>
     </item>
     <item>
       <title>Thai Chicken Noodle Soup</title>
-      <link>https://wheelerworldkitchen.com/posts/thai-chicken-noodle-soup-recipe/</link>
+      <link>http://localhost:1313/posts/thai-chicken-noodle-soup-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/thai-chicken-noodle-soup-recipe/</guid>
+      <guid>http://localhost:1313/posts/thai-chicken-noodle-soup-recipe/</guid>
       <description>Rich and creamy Thai soup</description>
     </item>
   </channel>

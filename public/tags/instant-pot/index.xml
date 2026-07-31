@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Instant-Pot on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/instant-pot/</link>
+    <link>http://localhost:1313/tags/instant-pot/</link>
     <description>Recent content in Instant-Pot on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/instant-pot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/instant-pot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Al Pastor (Pork with Hot and Sweet Flavor)</title>
-      <link>https://wheelerworldkitchen.com/posts/al-pastor/</link>
+      <link>http://localhost:1313/posts/al-pastor/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/al-pastor/</guid>
+      <guid>http://localhost:1313/posts/al-pastor/</guid>
       <description>Spicy-sweet Mexican pork with pineapple, perfect for tacos</description>
     </item>
     <item>
       <title>Carnitas (Mexican Shredded Pork)</title>
-      <link>https://wheelerworldkitchen.com/posts/carnitas-mexican-shredded-pork/</link>
+      <link>http://localhost:1313/posts/carnitas-mexican-shredded-pork/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/carnitas-mexican-shredded-pork/</guid>
+      <guid>http://localhost:1313/posts/carnitas-mexican-shredded-pork/</guid>
       <description>Tender pressure cooker carnitas with orange juice and spices - perfect for tacos</description>
     </item>
     <item>
       <title>Chicken and Dumplings (Instant Pot Style)</title>
-      <link>https://wheelerworldkitchen.com/posts/chicken-and-dumplings/</link>
+      <link>http://localhost:1313/posts/chicken-and-dumplings/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chicken-and-dumplings/</guid>
+      <guid>http://localhost:1313/posts/chicken-and-dumplings/</guid>
       <description>Comforting chicken and dumplings made easy in the instant pot</description>
     </item>
     <item>
       <title>Chicken Noodle Soup in Instant Pot</title>
-      <link>https://wheelerworldkitchen.com/posts/chicken-noodle-soup-instant-pot/</link>
+      <link>http://localhost:1313/posts/chicken-noodle-soup-instant-pot/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chicken-noodle-soup-instant-pot/</guid>
+      <guid>http://localhost:1313/posts/chicken-noodle-soup-instant-pot/</guid>
       <description>Classic chicken noodle soup made quickly in the instant pot</description>
     </item>
     <item>
       <title>Green Chile Chicken Stew</title>
-      <link>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</link>
+      <link>http://localhost:1313/posts/green-chile-chicken-stew/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</guid>
+      <guid>http://localhost:1313/posts/green-chile-chicken-stew/</guid>
       <description>Southwestern chicken stew with green chiles, salsa verde, and rice</description>
     </item>
     <item>
       <title>Instant Pot Chicken Tinga</title>
-      <link>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</link>
+      <link>http://localhost:1313/posts/instant-pot-chicken-tinga/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</guid>
+      <guid>http://localhost:1313/posts/instant-pot-chicken-tinga/</guid>
       <description>Spicy shredded chicken with chipotle peppers - perfect for tacos</description>
     </item>
     <item>
       <title>Mexican Birria (Beef or Lamb)</title>
-      <link>https://wheelerworldkitchen.com/posts/mexican-birria/</link>
+      <link>http://localhost:1313/posts/mexican-birria/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/mexican-birria/</guid>
+      <guid>http://localhost:1313/posts/mexican-birria/</guid>
       <description>Rich Mexican braised beef in spicy chile sauce - perfect for tacos or quesadillas</description>
     </item>
     <item>
       <title>Minestrone Soup (Instant Pot)</title>
-      <link>https://wheelerworldkitchen.com/posts/minestrone-soup-instant-pot/</link>
+      <link>http://localhost:1313/posts/minestrone-soup-instant-pot/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/minestrone-soup-instant-pot/</guid>
+      <guid>http://localhost:1313/posts/minestrone-soup-instant-pot/</guid>
       <description>Classic Italian vegetable soup made easy in the instant pot</description>
     </item>
     <item>
       <title>Thai Chicken Curry with Coconut Milk</title>
-      <link>https://wheelerworldkitchen.com/posts/thai-chicken-curry-coconut/</link>
+      <link>http://localhost:1313/posts/thai-chicken-curry-coconut/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/thai-chicken-curry-coconut/</guid>
+      <guid>http://localhost:1313/posts/thai-chicken-curry-coconut/</guid>
       <description>Rich and creamy Thai red curry with chicken, peanut butter, and coconut milk</description>
     </item>
     <item>
       <title>Thai Chicken Noodle Soup</title>
-      <link>https://wheelerworldkitchen.com/posts/thai-chicken-noodle-soup-recipe/</link>
+      <link>http://localhost:1313/posts/thai-chicken-noodle-soup-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/thai-chicken-noodle-soup-recipe/</guid>
+      <guid>http://localhost:1313/posts/thai-chicken-noodle-soup-recipe/</guid>
       <description>Rich and creamy Thai soup</description>
     </item>
   </channel>

@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Seafood on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/seafood/</link>
+    <link>http://localhost:1313/tags/seafood/</link>
     <description>Recent content in Seafood on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/seafood/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/seafood/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ceviche Tostadas</title>
-      <link>https://wheelerworldkitchen.com/posts/ceviche-tostadas/</link>
+      <link>http://localhost:1313/posts/ceviche-tostadas/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/ceviche-tostadas/</guid>
+      <guid>http://localhost:1313/posts/ceviche-tostadas/</guid>
       <description>Fresh shrimp ceviche served on crispy tostadas with spicy mayo</description>
     </item>
     <item>
       <title>Creamy Seafood Stew/Chowder</title>
-      <link>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</link>
+      <link>http://localhost:1313/posts/creamy-seafood-chowder/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</guid>
+      <guid>http://localhost:1313/posts/creamy-seafood-chowder/</guid>
       <description>Rich and creamy seafood chowder with fish, shrimp, and vegetables</description>
     </item>
     <item>
       <title>Garlic Butter Grilled Shrimp</title>
-      <link>https://wheelerworldkitchen.com/posts/garlic-butter-grilled-shrimp/</link>
+      <link>http://localhost:1313/posts/garlic-butter-grilled-shrimp/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/garlic-butter-grilled-shrimp/</guid>
+      <guid>http://localhost:1313/posts/garlic-butter-grilled-shrimp/</guid>
       <description>Succulent grilled shrimp with garlic herb marinade and melted butter finish</description>
     </item>
     <item>
       <title>Linguini and Clams in Butter/Garlic/Wine Sauce</title>
-      <link>https://wheelerworldkitchen.com/posts/linguini-clams-butter-garlic-wine/</link>
+      <link>http://localhost:1313/posts/linguini-clams-butter-garlic-wine/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/linguini-clams-butter-garlic-wine/</guid>
+      <guid>http://localhost:1313/posts/linguini-clams-butter-garlic-wine/</guid>
       <description>Classic Italian pasta with fresh clams in a white wine butter sauce</description>
     </item>
     <item>
       <title>Quick Cajun Gumbo</title>
-      <link>https://wheelerworldkitchen.com/posts/quick-cajun-gumbo/</link>
+      <link>http://localhost:1313/posts/quick-cajun-gumbo/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/quick-cajun-gumbo/</guid>
+      <guid>http://localhost:1313/posts/quick-cajun-gumbo/</guid>
       <description>Fast and flavorful Cajun gumbo with shrimp, sausage, and white fish</description>
     </item>
     <item>
       <title>Seafood Boil in a Pot, Cajun Style</title>
-      <link>https://wheelerworldkitchen.com/posts/seafood-boil-cajun/</link>
+      <link>http://localhost:1313/posts/seafood-boil-cajun/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/seafood-boil-cajun/</guid>
+      <guid>http://localhost:1313/posts/seafood-boil-cajun/</guid>
       <description>Large-batch Cajun seafood boil with potatoes, corn, sausage, and seafood</description>
     </item>
     <item>
       <title>Seafood Stew With Coconut and Tomato</title>
-      <link>https://wheelerworldkitchen.com/posts/seafood-stew-coconut-tomato/</link>
+      <link>http://localhost:1313/posts/seafood-stew-coconut-tomato/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/seafood-stew-coconut-tomato/</guid>
+      <guid>http://localhost:1313/posts/seafood-stew-coconut-tomato/</guid>
       <description>Simple and quick Seafood Stew</description>
     </item>
     <item>
       <title>Spicy Caribbean Fish</title>
-      <link>https://wheelerworldkitchen.com/posts/spicy-caribbean-fish/</link>
+      <link>http://localhost:1313/posts/spicy-caribbean-fish/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/spicy-caribbean-fish/</guid>
+      <guid>http://localhost:1313/posts/spicy-caribbean-fish/</guid>
       <description>Great hearty dish, serve over rice</description>
     </item>
   </channel>

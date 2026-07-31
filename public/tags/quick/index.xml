@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Quick on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/quick/</link>
+    <link>http://localhost:1313/tags/quick/</link>
     <description>Recent content in Quick on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/quick/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/quick/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asian Noodle Bowl (Not Soup)</title>
-      <link>https://wheelerworldkitchen.com/posts/asian-noodle-bowl/</link>
+      <link>http://localhost:1313/posts/asian-noodle-bowl/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/asian-noodle-bowl/</guid>
+      <guid>http://localhost:1313/posts/asian-noodle-bowl/</guid>
       <description>Colorful stir-fried noodle bowl with vegetables, eggs, and Asian flavors</description>
     </item>
     <item>
       <title>Chickpea Curry, Quick, Easy and Light</title>
-      <link>https://wheelerworldkitchen.com/posts/chickpea-curry-quick/</link>
+      <link>http://localhost:1313/posts/chickpea-curry-quick/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chickpea-curry-quick/</guid>
+      <guid>http://localhost:1313/posts/chickpea-curry-quick/</guid>
       <description>Fast and flavorful chickpea curry with coconut milk</description>
     </item>
     <item>
       <title>Chinese Beef and Broccoli Stir Fry</title>
-      <link>https://wheelerworldkitchen.com/posts/chinese-beef-broccoli-stir-fry/</link>
+      <link>http://localhost:1313/posts/chinese-beef-broccoli-stir-fry/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chinese-beef-broccoli-stir-fry/</guid>
+      <guid>http://localhost:1313/posts/chinese-beef-broccoli-stir-fry/</guid>
       <description>Classic beef and broccoli stir fry with savory sauce</description>
     </item>
     <item>
       <title>Creamy Mushroom Quesadillas</title>
-      <link>https://wheelerworldkitchen.com/posts/creamy-mushroom-quesadillas/</link>
+      <link>http://localhost:1313/posts/creamy-mushroom-quesadillas/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/creamy-mushroom-quesadillas/</guid>
+      <guid>http://localhost:1313/posts/creamy-mushroom-quesadillas/</guid>
       <description>Vegetarian quesadillas with sautéed mushrooms and creamy cheese filling</description>
     </item>
     <item>
       <title>Easy Alfredo Pasta with Veggies and Spicy Italian Sausage</title>
-      <link>https://wheelerworldkitchen.com/posts/easy-alfredo-pasta/</link>
+      <link>http://localhost:1313/posts/easy-alfredo-pasta/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/easy-alfredo-pasta/</guid>
+      <guid>http://localhost:1313/posts/easy-alfredo-pasta/</guid>
       <description>Quick and delicious alfredo pasta loaded with vegetables and optional spicy sausage</description>
     </item>
     <item>
       <title>Homemade Salsa</title>
-      <link>https://wheelerworldkitchen.com/posts/homemade-salsa-recipe/</link>
+      <link>http://localhost:1313/posts/homemade-salsa-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/homemade-salsa-recipe/</guid>
+      <guid>http://localhost:1313/posts/homemade-salsa-recipe/</guid>
       <description>Fresh, flavorful salsa with the perfect balance of tomatoes, cilantro, and spice</description>
     </item>
     <item>
       <title>Lentil Dahl</title>
-      <link>https://wheelerworldkitchen.com/posts/lentil-dahl/</link>
+      <link>http://localhost:1313/posts/lentil-dahl/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/lentil-dahl/</guid>
+      <guid>http://localhost:1313/posts/lentil-dahl/</guid>
       <description>Simple Indian red lentil curry - quick, healthy, and flavorful</description>
     </item>
     <item>
       <title>Miso, Noodle, Peanut Soup</title>
-      <link>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</link>
+      <link>http://localhost:1313/posts/miso-noodle-peanut-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</guid>
+      <guid>http://localhost:1313/posts/miso-noodle-peanut-soup/</guid>
       <description>Quick and flavorful Asian-inspired soup with miso, peanut butter, and noodles</description>
     </item>
     <item>
       <title>Texas Style Quesadillas</title>
-      <link>https://wheelerworldkitchen.com/posts/texas-quesadillas/</link>
+      <link>http://localhost:1313/posts/texas-quesadillas/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/texas-quesadillas/</guid>
+      <guid>http://localhost:1313/posts/texas-quesadillas/</guid>
       <description>Loaded quesadillas with peppers, onions, cheese, and optional meat</description>
     </item>
   </channel>

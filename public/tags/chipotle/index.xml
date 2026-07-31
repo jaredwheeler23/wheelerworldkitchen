@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chipotle on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/chipotle/</link>
+    <link>http://localhost:1313/tags/chipotle/</link>
     <description>Recent content in Chipotle on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/chipotle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chipotle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Copycat Chipotle Style Pan Cooked Veggies</title>
-      <link>https://wheelerworldkitchen.com/posts/copycat-chipotle-pan-cooked-veggies/</link>
+      <link>http://localhost:1313/posts/copycat-chipotle-pan-cooked-veggies/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/copycat-chipotle-pan-cooked-veggies/</guid>
+      <guid>http://localhost:1313/posts/copycat-chipotle-pan-cooked-veggies/</guid>
       <description>Simple sautéed peppers and onions with oregano - just like Chipotle</description>
     </item>
     <item>
       <title>Instant Pot Chicken Tinga</title>
-      <link>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</link>
+      <link>http://localhost:1313/posts/instant-pot-chicken-tinga/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</guid>
+      <guid>http://localhost:1313/posts/instant-pot-chicken-tinga/</guid>
       <description>Spicy shredded chicken with chipotle peppers - perfect for tacos</description>
     </item>
     <item>
       <title>Zesty Beans for Mexican Dishes</title>
-      <link>https://wheelerworldkitchen.com/posts/zesty-beans-mexican/</link>
+      <link>http://localhost:1313/posts/zesty-beans-mexican/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/zesty-beans-mexican/</guid>
+      <guid>http://localhost:1313/posts/zesty-beans-mexican/</guid>
       <description>Spicy refried black beans with chipotle and lime - perfect burrito filling</description>
     </item>
   </channel>

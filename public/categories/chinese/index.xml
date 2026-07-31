@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chinese on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/categories/chinese/</link>
+    <link>http://localhost:1313/categories/chinese/</link>
     <description>Recent content in Chinese on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/categories/chinese/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/chinese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chinese Beef and Broccoli Stir Fry</title>
-      <link>https://wheelerworldkitchen.com/posts/chinese-beef-broccoli-stir-fry/</link>
+      <link>http://localhost:1313/posts/chinese-beef-broccoli-stir-fry/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chinese-beef-broccoli-stir-fry/</guid>
+      <guid>http://localhost:1313/posts/chinese-beef-broccoli-stir-fry/</guid>
       <description>Classic beef and broccoli stir fry with savory sauce</description>
     </item>
     <item>
       <title>Chinese Cashew Chicken</title>
-      <link>https://wheelerworldkitchen.com/posts/chinese-cashew-chicken/</link>
+      <link>http://localhost:1313/posts/chinese-cashew-chicken/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chinese-cashew-chicken/</guid>
+      <guid>http://localhost:1313/posts/chinese-cashew-chicken/</guid>
       <description>Spicy stir-fried chicken with cashews, vegetables, and Asian sauces</description>
     </item>
     <item>
       <title>Chinese Egg Rolls - Healthy Version</title>
-      <link>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</link>
+      <link>http://localhost:1313/posts/chinese-egg-rolls-healthy/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</guid>
+      <guid>http://localhost:1313/posts/chinese-egg-rolls-healthy/</guid>
       <description>Healthy air-fried egg rolls with vegetables and optional sausage</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chicken Wings on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/chicken-wings/</link>
+    <link>http://localhost:1313/tags/chicken-wings/</link>
     <description>Recent content in Chicken Wings on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/chicken-wings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chicken-wings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chicken Wings</title>
-      <link>https://wheelerworldkitchen.com/posts/spicy-air-fryer-chicken-wings/</link>
+      <link>http://localhost:1313/posts/spicy-air-fryer-chicken-wings/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/spicy-air-fryer-chicken-wings/</guid>
+      <guid>http://localhost:1313/posts/spicy-air-fryer-chicken-wings/</guid>
       <description>Easy and good chicken wing recipe</description>
     </item>
   </channel>

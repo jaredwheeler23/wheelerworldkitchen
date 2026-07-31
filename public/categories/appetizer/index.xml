@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Appetizer on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/categories/appetizer/</link>
+    <link>http://localhost:1313/categories/appetizer/</link>
     <description>Recent content in Appetizer on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/categories/appetizer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/appetizer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cheesy Pesto Pull Apart Bread Appetizer</title>
-      <link>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</link>
+      <link>http://localhost:1313/posts/cheesy-pesto-pull-apart-bread/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</guid>
+      <guid>http://localhost:1313/posts/cheesy-pesto-pull-apart-bread/</guid>
       <description>Delicious pull-apart bread filled with pesto and melted mozzarella</description>
     </item>
     <item>
       <title>Chinese Egg Rolls - Healthy Version</title>
-      <link>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</link>
+      <link>http://localhost:1313/posts/chinese-egg-rolls-healthy/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</guid>
+      <guid>http://localhost:1313/posts/chinese-egg-rolls-healthy/</guid>
       <description>Healthy air-fried egg rolls with vegetables and optional sausage</description>
     </item>
     <item>
       <title>Fondue (Cheese, Broth and Chocolate)</title>
-      <link>https://wheelerworldkitchen.com/posts/fondue-triple/</link>
+      <link>http://localhost:1313/posts/fondue-triple/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/fondue-triple/</guid>
+      <guid>http://localhost:1313/posts/fondue-triple/</guid>
       <description>Triple fondue experience with cheese, broth, and chocolate fondues</description>
     </item>
     <item>
       <title>Hawaiian Meatballs</title>
-      <link>https://wheelerworldkitchen.com/posts/hawaiian-meatballs/</link>
+      <link>http://localhost:1313/posts/hawaiian-meatballs/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/hawaiian-meatballs/</guid>
+      <guid>http://localhost:1313/posts/hawaiian-meatballs/</guid>
       <description>Easy Hawaiian meatballs with pineapple and BBQ sauce - perfect as appetizer or main</description>
     </item>
     <item>
       <title>Homemade Salsa</title>
-      <link>https://wheelerworldkitchen.com/posts/homemade-salsa-recipe/</link>
+      <link>http://localhost:1313/posts/homemade-salsa-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/homemade-salsa-recipe/</guid>
+      <guid>http://localhost:1313/posts/homemade-salsa-recipe/</guid>
       <description>Fresh, flavorful salsa with the perfect balance of tomatoes, cilantro, and spice</description>
     </item>
     <item>
       <title>Knockoff Chick-fil-A Nuggets</title>
-      <link>https://wheelerworldkitchen.com/posts/knockoff-chick-fil-a-nuggets/</link>
+      <link>http://localhost:1313/posts/knockoff-chick-fil-a-nuggets/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/knockoff-chick-fil-a-nuggets/</guid>
+      <guid>http://localhost:1313/posts/knockoff-chick-fil-a-nuggets/</guid>
       <description>Copycat Chick-fil-A chicken nuggets with pickle brine marinade</description>
     </item>
     <item>
       <title>Mashed Potatoes</title>
-      <link>https://wheelerworldkitchen.com/posts/simple-mashed-potatoes/</link>
+      <link>http://localhost:1313/posts/simple-mashed-potatoes/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/simple-mashed-potatoes/</guid>
+      <guid>http://localhost:1313/posts/simple-mashed-potatoes/</guid>
       <description>Recipe for the basics (can be added to many things)</description>
     </item>
     <item>
       <title>Pigs in the Blanket, Chicago Style</title>
-      <link>https://wheelerworldkitchen.com/posts/pigs-in-blanket-chicago/</link>
+      <link>http://localhost:1313/posts/pigs-in-blanket-chicago/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/pigs-in-blanket-chicago/</guid>
+      <guid>http://localhost:1313/posts/pigs-in-blanket-chicago/</guid>
       <description>Classic pigs in a blanket with Chicago-style hot dog toppings</description>
     </item>
     <item>
       <title>Potato Salad</title>
-      <link>https://wheelerworldkitchen.com/posts/potato-salad/</link>
+      <link>http://localhost:1313/posts/potato-salad/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/potato-salad/</guid>
+      <guid>http://localhost:1313/posts/potato-salad/</guid>
       <description>Classic creamy potato salad with eggs, pickles, and mustard</description>
     </item>
     <item>
       <title>Swedish Meatballs (MD Special)</title>
-      <link>https://wheelerworldkitchen.com/posts/swedish-meatballs/</link>
+      <link>http://localhost:1313/posts/swedish-meatballs/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/swedish-meatballs/</guid>
+      <guid>http://localhost:1313/posts/swedish-meatballs/</guid>
       <description>Classic Swedish meatballs in a rich, creamy gravy - a family favorite</description>
     </item>
   </channel>

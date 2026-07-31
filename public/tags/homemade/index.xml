@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homemade on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/homemade/</link>
+    <link>http://localhost:1313/tags/homemade/</link>
     <description>Recent content in Homemade on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/homemade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/homemade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cajun Seasoning</title>
-      <link>https://wheelerworldkitchen.com/posts/cajun-seasoning/</link>
+      <link>http://localhost:1313/posts/cajun-seasoning/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/cajun-seasoning/</guid>
+      <guid>http://localhost:1313/posts/cajun-seasoning/</guid>
       <description>Homemade cajun seasoning blend</description>
     </item>
     <item>
       <title>Homemade Pasta Dough</title>
-      <link>https://wheelerworldkitchen.com/posts/homemade-pasta-dough/</link>
+      <link>http://localhost:1313/posts/homemade-pasta-dough/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/homemade-pasta-dough/</guid>
+      <guid>http://localhost:1313/posts/homemade-pasta-dough/</guid>
       <description>Simple homemade fresh pasta dough with just 4 ingredients</description>
     </item>
   </channel>

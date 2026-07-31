@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bowls on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/categories/bowls/</link>
+    <link>http://localhost:1313/categories/bowls/</link>
     <description>Recent content in Bowls on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/categories/bowls/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/bowls/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mediterranean Bowls</title>
-      <link>https://wheelerworldkitchen.com/posts/mediterranean-bowls/</link>
+      <link>http://localhost:1313/posts/mediterranean-bowls/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/mediterranean-bowls/</guid>
+      <guid>http://localhost:1313/posts/mediterranean-bowls/</guid>
       <description>Healthy grain bowls with roasted chickpeas, red pepper sauce, and fresh toppings</description>
     </item>
   </channel>

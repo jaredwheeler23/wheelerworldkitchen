@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Salad on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/salad/</link>
+    <link>http://localhost:1313/tags/salad/</link>
     <description>Recent content in Salad on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/salad/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/salad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buffalo Chicken Salad</title>
-      <link>https://wheelerworldkitchen.com/posts/buffalo-chicken-salad/</link>
+      <link>http://localhost:1313/posts/buffalo-chicken-salad/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/buffalo-chicken-salad/</guid>
+      <guid>http://localhost:1313/posts/buffalo-chicken-salad/</guid>
       <description>Michelle&amp;#39;s lunch special - creamy buffalo chicken salad perfect for sandwiches or with crackers</description>
     </item>
     <item>
       <title>Green Bean Salad</title>
-      <link>https://wheelerworldkitchen.com/posts/green-bean-salad/</link>
+      <link>http://localhost:1313/posts/green-bean-salad/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/green-bean-salad/</guid>
+      <guid>http://localhost:1313/posts/green-bean-salad/</guid>
       <description>Fresh and vibrant salad with green beans, feta, walnuts, and oregano dressing</description>
     </item>
   </channel>

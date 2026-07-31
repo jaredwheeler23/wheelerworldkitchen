@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dessert on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/categories/dessert/</link>
+    <link>http://localhost:1313/categories/dessert/</link>
     <description>Recent content in Dessert on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/categories/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/dessert/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple Dutch Baby</title>
-      <link>https://wheelerworldkitchen.com/posts/apple-dutch-baby/</link>
+      <link>http://localhost:1313/posts/apple-dutch-baby/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/apple-dutch-baby/</guid>
+      <guid>http://localhost:1313/posts/apple-dutch-baby/</guid>
       <description>Fluffy oven pancake with caramelized apples and cinnamon</description>
     </item>
     <item>
       <title>Banana Pudding</title>
-      <link>https://wheelerworldkitchen.com/posts/banana-pudding/</link>
+      <link>http://localhost:1313/posts/banana-pudding/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/banana-pudding/</guid>
+      <guid>http://localhost:1313/posts/banana-pudding/</guid>
       <description>Southern classic with layers of vanilla wafers, banana slices, and meringue</description>
     </item>
     <item>
       <title>Bread Pudding</title>
-      <link>https://wheelerworldkitchen.com/posts/bread-pudding/</link>
+      <link>http://localhost:1313/posts/bread-pudding/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/bread-pudding/</guid>
+      <guid>http://localhost:1313/posts/bread-pudding/</guid>
       <description>Classic New Orleans-style bread pudding with whiskey sauce</description>
     </item>
     <item>
       <title>Butterscotch Pudding with Chocolate Scribbles</title>
-      <link>https://wheelerworldkitchen.com/posts/butterscotch-pudding/</link>
+      <link>http://localhost:1313/posts/butterscotch-pudding/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/butterscotch-pudding/</guid>
+      <guid>http://localhost:1313/posts/butterscotch-pudding/</guid>
       <description>Rich butterscotch pudding with a hint of whiskey and elegant chocolate decorations</description>
     </item>
     <item>
       <title>Fondue (Cheese, Broth and Chocolate)</title>
-      <link>https://wheelerworldkitchen.com/posts/fondue-triple/</link>
+      <link>http://localhost:1313/posts/fondue-triple/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/fondue-triple/</guid>
+      <guid>http://localhost:1313/posts/fondue-triple/</guid>
       <description>Triple fondue experience with cheese, broth, and chocolate fondues</description>
     </item>
     <item>
       <title>Mama&#39;s Chocolate Cake</title>
-      <link>https://wheelerworldkitchen.com/posts/mamas-chocolate-cake/</link>
+      <link>http://localhost:1313/posts/mamas-chocolate-cake/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/mamas-chocolate-cake/</guid>
+      <guid>http://localhost:1313/posts/mamas-chocolate-cake/</guid>
       <description>Classic homemade chocolate layer cake with rich chocolate frosting</description>
     </item>
     <item>
       <title>Oatmeal Chocolate Chip Cookies</title>
-      <link>https://wheelerworldkitchen.com/posts/oatmeal-chocolate-chip-cookies/</link>
+      <link>http://localhost:1313/posts/oatmeal-chocolate-chip-cookies/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/oatmeal-chocolate-chip-cookies/</guid>
+      <guid>http://localhost:1313/posts/oatmeal-chocolate-chip-cookies/</guid>
       <description>Chewy oatmeal cookies loaded with chocolate chips - a classic favorite</description>
     </item>
     <item>
       <title>Rice Crispy Treats</title>
-      <link>https://wheelerworldkitchen.com/posts/rice-crispy-treats/</link>
+      <link>http://localhost:1313/posts/rice-crispy-treats/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/rice-crispy-treats/</guid>
+      <guid>http://localhost:1313/posts/rice-crispy-treats/</guid>
       <description>Classic marshmallow and cereal treats - easy and delicious</description>
     </item>
     <item>
       <title>Snickerdoodle Cookies</title>
-      <link>https://wheelerworldkitchen.com/posts/snickerdoodle-cookies/</link>
+      <link>http://localhost:1313/posts/snickerdoodle-cookies/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/snickerdoodle-cookies/</guid>
+      <guid>http://localhost:1313/posts/snickerdoodle-cookies/</guid>
       <description>cookies!!!</description>
     </item>
   </channel>

@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vegetarian on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/categories/vegetarian/</link>
+    <link>http://localhost:1313/categories/vegetarian/</link>
     <description>Recent content in Vegetarian on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/categories/vegetarian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/vegetarian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazing Pesto, Tomato, Broccoli Pizza</title>
-      <link>https://wheelerworldkitchen.com/posts/amazing-pesto-tomato-broccoli-pizza/</link>
+      <link>http://localhost:1313/posts/amazing-pesto-tomato-broccoli-pizza/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/amazing-pesto-tomato-broccoli-pizza/</guid>
+      <guid>http://localhost:1313/posts/amazing-pesto-tomato-broccoli-pizza/</guid>
       <description>Delicious homemade pizza with pesto, roasted tomatoes, and broccoli</description>
     </item>
     <item>
       <title>Apple Dutch Baby</title>
-      <link>https://wheelerworldkitchen.com/posts/apple-dutch-baby/</link>
+      <link>http://localhost:1313/posts/apple-dutch-baby/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/apple-dutch-baby/</guid>
+      <guid>http://localhost:1313/posts/apple-dutch-baby/</guid>
       <description>Fluffy oven pancake with caramelized apples and cinnamon</description>
     </item>
     <item>
       <title>Asian Noodle Bowl (Not Soup)</title>
-      <link>https://wheelerworldkitchen.com/posts/asian-noodle-bowl/</link>
+      <link>http://localhost:1313/posts/asian-noodle-bowl/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/asian-noodle-bowl/</guid>
+      <guid>http://localhost:1313/posts/asian-noodle-bowl/</guid>
       <description>Colorful stir-fried noodle bowl with vegetables, eggs, and Asian flavors</description>
     </item>
     <item>
       <title>Autumn Pot Pie (Christmas Veggie Pot Pie)</title>
-      <link>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</link>
+      <link>http://localhost:1313/posts/autumn-pot-pie/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</guid>
+      <guid>http://localhost:1313/posts/autumn-pot-pie/</guid>
       <description>Festive vegetarian pot pie with butternut squash, mushrooms, and cheddar pastry</description>
     </item>
     <item>
       <title>Award Winning Beef or Vegetarian Chili</title>
-      <link>https://wheelerworldkitchen.com/posts/award-winning-chili-recipe/</link>
+      <link>http://localhost:1313/posts/award-winning-chili-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/award-winning-chili-recipe/</guid>
+      <guid>http://localhost:1313/posts/award-winning-chili-recipe/</guid>
       <description>Flavorful chili with three types of beans and optional beef</description>
     </item>
     <item>
       <title>Baked Pasta Al Cavolfiore</title>
-      <link>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</link>
+      <link>http://localhost:1313/posts/baked-pasta-al-cavolfiore/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</guid>
+      <guid>http://localhost:1313/posts/baked-pasta-al-cavolfiore/</guid>
       <description>Decadent baked pasta with cauliflower, tomatoes, and cheese sauce</description>
     </item>
     <item>
       <title>Black Bean and Quinoa Burger</title>
-      <link>https://wheelerworldkitchen.com/posts/black-bean-quinoa-burger-recipe/</link>
+      <link>http://localhost:1313/posts/black-bean-quinoa-burger-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/black-bean-quinoa-burger-recipe/</guid>
+      <guid>http://localhost:1313/posts/black-bean-quinoa-burger-recipe/</guid>
       <description>Healthy vegetarian burger with black beans, quinoa, and spices</description>
     </item>
     <item>
       <title>Vegan Sloppy Joes</title>
-      <link>https://wheelerworldkitchen.com/posts/vegan-sloppy-joes/</link>
+      <link>http://localhost:1313/posts/vegan-sloppy-joes/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/vegan-sloppy-joes/</guid>
+      <guid>http://localhost:1313/posts/vegan-sloppy-joes/</guid>
       <description>Nice Vegetarian Hand Held of a Classic</description>
     </item>
     <item>
       <title>Vegetarian Enchiladas</title>
-      <link>https://wheelerworldkitchen.com/posts/vegetarian-enchiladas-recipe/</link>
+      <link>http://localhost:1313/posts/vegetarian-enchiladas-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/vegetarian-enchiladas-recipe/</guid>
+      <guid>http://localhost:1313/posts/vegetarian-enchiladas-recipe/</guid>
       <description>Black Bean Enchiladas with Veggies</description>
     </item>
     <item>
       <title>Veggie Pot Pie</title>
-      <link>https://wheelerworldkitchen.com/posts/veggie-pot-pie/</link>
+      <link>http://localhost:1313/posts/veggie-pot-pie/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/veggie-pot-pie/</guid>
+      <guid>http://localhost:1313/posts/veggie-pot-pie/</guid>
       <description>Hearty vegetarian pot pie with creamy vegetable filling and flaky pastry top</description>
     </item>
     <item>
       <title>Veggie Shepherds Pie</title>
-      <link>https://wheelerworldkitchen.com/posts/veggie-shepherds-pie/</link>
+      <link>http://localhost:1313/posts/veggie-shepherds-pie/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/veggie-shepherds-pie/</guid>
+      <guid>http://localhost:1313/posts/veggie-shepherds-pie/</guid>
       <description>Hearty vegetarian version with lentils, vegetables, and creamy mashed potato topping</description>
     </item>
   </channel>

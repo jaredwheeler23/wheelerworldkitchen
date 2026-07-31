@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Baking on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/baking/</link>
+    <link>http://localhost:1313/tags/baking/</link>
     <description>Recent content in Baking on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/baking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/baking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oatmeal Chocolate Chip Cookies</title>
-      <link>https://wheelerworldkitchen.com/posts/oatmeal-chocolate-chip-cookies/</link>
+      <link>http://localhost:1313/posts/oatmeal-chocolate-chip-cookies/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/oatmeal-chocolate-chip-cookies/</guid>
+      <guid>http://localhost:1313/posts/oatmeal-chocolate-chip-cookies/</guid>
       <description>Chewy oatmeal cookies loaded with chocolate chips - a classic favorite</description>
     </item>
   </channel>

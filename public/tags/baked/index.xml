@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Baked on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/baked/</link>
+    <link>http://localhost:1313/tags/baked/</link>
     <description>Recent content in Baked on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/baked/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/baked/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baked Pasta Al Cavolfiore</title>
-      <link>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</link>
+      <link>http://localhost:1313/posts/baked-pasta-al-cavolfiore/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</guid>
+      <guid>http://localhost:1313/posts/baked-pasta-al-cavolfiore/</guid>
       <description>Decadent baked pasta with cauliflower, tomatoes, and cheese sauce</description>
     </item>
     <item>
       <title>Lasagna (Meat or Veggie)</title>
-      <link>https://wheelerworldkitchen.com/posts/lasagna-recipe/</link>
+      <link>http://localhost:1313/posts/lasagna-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/lasagna-recipe/</guid>
+      <guid>http://localhost:1313/posts/lasagna-recipe/</guid>
       <description>Classic layered lasagna with rich marinara sauce - customize with sausage or keep it vegetarian</description>
     </item>
   </channel>

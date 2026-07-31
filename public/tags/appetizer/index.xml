@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Appetizer on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/appetizer/</link>
+    <link>http://localhost:1313/tags/appetizer/</link>
     <description>Recent content in Appetizer on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/appetizer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/appetizer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cheesy Pesto Pull Apart Bread Appetizer</title>
-      <link>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</link>
+      <link>http://localhost:1313/posts/cheesy-pesto-pull-apart-bread/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</guid>
+      <guid>http://localhost:1313/posts/cheesy-pesto-pull-apart-bread/</guid>
       <description>Delicious pull-apart bread filled with pesto and melted mozzarella</description>
     </item>
     <item>
       <title>Chicken Wings</title>
-      <link>https://wheelerworldkitchen.com/posts/spicy-air-fryer-chicken-wings/</link>
+      <link>http://localhost:1313/posts/spicy-air-fryer-chicken-wings/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/spicy-air-fryer-chicken-wings/</guid>
+      <guid>http://localhost:1313/posts/spicy-air-fryer-chicken-wings/</guid>
       <description>Easy and good chicken wing recipe</description>
     </item>
     <item>
       <title>Chinese Egg Rolls - Healthy Version</title>
-      <link>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</link>
+      <link>http://localhost:1313/posts/chinese-egg-rolls-healthy/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</guid>
+      <guid>http://localhost:1313/posts/chinese-egg-rolls-healthy/</guid>
       <description>Healthy air-fried egg rolls with vegetables and optional sausage</description>
     </item>
     <item>
       <title>Country Potatoes and Bravas Sauce</title>
-      <link>https://wheelerworldkitchen.com/posts/country-potatoes-bravas-sauce/</link>
+      <link>http://localhost:1313/posts/country-potatoes-bravas-sauce/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/country-potatoes-bravas-sauce/</guid>
+      <guid>http://localhost:1313/posts/country-potatoes-bravas-sauce/</guid>
       <description>Spanish-style fried potatoes with creamy spicy bravas sauce</description>
     </item>
     <item>
       <title>Homemade Salsa</title>
-      <link>https://wheelerworldkitchen.com/posts/homemade-salsa-recipe/</link>
+      <link>http://localhost:1313/posts/homemade-salsa-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/homemade-salsa-recipe/</guid>
+      <guid>http://localhost:1313/posts/homemade-salsa-recipe/</guid>
       <description>Fresh, flavorful salsa with the perfect balance of tomatoes, cilantro, and spice</description>
     </item>
     <item>
       <title>Pigs in the Blanket, Chicago Style</title>
-      <link>https://wheelerworldkitchen.com/posts/pigs-in-blanket-chicago/</link>
+      <link>http://localhost:1313/posts/pigs-in-blanket-chicago/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/pigs-in-blanket-chicago/</guid>
+      <guid>http://localhost:1313/posts/pigs-in-blanket-chicago/</guid>
       <description>Classic pigs in a blanket with Chicago-style hot dog toppings</description>
     </item>
     <item>
       <title>Romesco Dip</title>
-      <link>https://wheelerworldkitchen.com/posts/romesco-dip/</link>
+      <link>http://localhost:1313/posts/romesco-dip/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/romesco-dip/</guid>
+      <guid>http://localhost:1313/posts/romesco-dip/</guid>
       <description>Spanish roasted red pepper and almond dip - perfect appetizer</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Street-Tacos on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/street-tacos/</link>
+    <link>http://localhost:1313/tags/street-tacos/</link>
     <description>Recent content in Street-Tacos on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/street-tacos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/street-tacos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creamy Corn Street Tacos</title>
-      <link>https://wheelerworldkitchen.com/posts/creamy-corn-street-tacos/</link>
+      <link>http://localhost:1313/posts/creamy-corn-street-tacos/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/creamy-corn-street-tacos/</guid>
+      <guid>http://localhost:1313/posts/creamy-corn-street-tacos/</guid>
       <description>Vegetarian street tacos with creamy elote-style corn and mushrooms</description>
     </item>
   </channel>

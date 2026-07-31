@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lasagna on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/lasagna/</link>
+    <link>http://localhost:1313/tags/lasagna/</link>
     <description>Recent content in Lasagna on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/lasagna/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lasagna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lasagna (Meat or Veggie)</title>
-      <link>https://wheelerworldkitchen.com/posts/lasagna-recipe/</link>
+      <link>http://localhost:1313/posts/lasagna-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/lasagna-recipe/</guid>
+      <guid>http://localhost:1313/posts/lasagna-recipe/</guid>
       <description>Classic layered lasagna with rich marinara sauce - customize with sausage or keep it vegetarian</description>
     </item>
     <item>
       <title>Moussaka</title>
-      <link>https://wheelerworldkitchen.com/posts/moussaka/</link>
+      <link>http://localhost:1313/posts/moussaka/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/moussaka/</guid>
+      <guid>http://localhost:1313/posts/moussaka/</guid>
       <description>Classic Greek Version of Lasagna</description>
     </item>
   </channel>

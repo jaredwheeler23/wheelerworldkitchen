@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pho on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/pho/</link>
+    <link>http://localhost:1313/tags/pho/</link>
     <description>Recent content in Pho on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/pho/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pho/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pressure Cooker Chicken Pho</title>
-      <link>https://wheelerworldkitchen.com/posts/pressure-cooker-chicken-pho/</link>
+      <link>http://localhost:1313/posts/pressure-cooker-chicken-pho/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/pressure-cooker-chicken-pho/</guid>
+      <guid>http://localhost:1313/posts/pressure-cooker-chicken-pho/</guid>
       <description>Classic Vietnamese Comfort Food</description>
     </item>
   </channel>

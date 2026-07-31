@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pesto on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/pesto/</link>
+    <link>http://localhost:1313/tags/pesto/</link>
     <description>Recent content in Pesto on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/pesto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pesto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazing Pesto, Tomato, Broccoli Pizza</title>
-      <link>https://wheelerworldkitchen.com/posts/amazing-pesto-tomato-broccoli-pizza/</link>
+      <link>http://localhost:1313/posts/amazing-pesto-tomato-broccoli-pizza/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/amazing-pesto-tomato-broccoli-pizza/</guid>
+      <guid>http://localhost:1313/posts/amazing-pesto-tomato-broccoli-pizza/</guid>
       <description>Delicious homemade pizza with pesto, roasted tomatoes, and broccoli</description>
     </item>
     <item>
       <title>Cheesy Pesto Pull Apart Bread Appetizer</title>
-      <link>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</link>
+      <link>http://localhost:1313/posts/cheesy-pesto-pull-apart-bread/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</guid>
+      <guid>http://localhost:1313/posts/cheesy-pesto-pull-apart-bread/</guid>
       <description>Delicious pull-apart bread filled with pesto and melted mozzarella</description>
     </item>
     <item>
       <title>Homemade Pesto Sauce</title>
-      <link>https://wheelerworldkitchen.com/posts/homemade-pesto-sauce/</link>
+      <link>http://localhost:1313/posts/homemade-pesto-sauce/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/homemade-pesto-sauce/</guid>
+      <guid>http://localhost:1313/posts/homemade-pesto-sauce/</guid>
       <description>Fresh basil pesto with pine nuts and parmesan</description>
     </item>
   </channel>

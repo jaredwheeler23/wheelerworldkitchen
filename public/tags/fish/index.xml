@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fish on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/fish/</link>
+    <link>http://localhost:1313/tags/fish/</link>
     <description>Recent content in Fish on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/fish/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Butter Wine Pasta with White Fish Filets &amp; Veggies</title>
-      <link>https://wheelerworldkitchen.com/posts/butter-wine-pasta-fish-veggies/</link>
+      <link>http://localhost:1313/posts/butter-wine-pasta-fish-veggies/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/butter-wine-pasta-fish-veggies/</guid>
+      <guid>http://localhost:1313/posts/butter-wine-pasta-fish-veggies/</guid>
       <description>Light pasta dish with baked fish, vegetables, and white wine butter sauce</description>
     </item>
     <item>
       <title>Creamy Seafood Stew/Chowder</title>
-      <link>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</link>
+      <link>http://localhost:1313/posts/creamy-seafood-chowder/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</guid>
+      <guid>http://localhost:1313/posts/creamy-seafood-chowder/</guid>
       <description>Rich and creamy seafood chowder with fish, shrimp, and vegetables</description>
     </item>
     <item>
       <title>Fish and Veggie Enchiladas</title>
-      <link>https://wheelerworldkitchen.com/posts/fish-veggie-enchiladas/</link>
+      <link>http://localhost:1313/posts/fish-veggie-enchiladas/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/fish-veggie-enchiladas/</guid>
+      <guid>http://localhost:1313/posts/fish-veggie-enchiladas/</guid>
       <description>Light and flavorful fish enchiladas with vegetables and guacamole salsa</description>
     </item>
   </channel>

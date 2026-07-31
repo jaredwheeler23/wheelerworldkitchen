@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Indian on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/indian/</link>
+    <link>http://localhost:1313/tags/indian/</link>
     <description>Recent content in Indian on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/indian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/indian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chicken Tikka Masala</title>
-      <link>https://wheelerworldkitchen.com/posts/chicken-tikka-masala/</link>
+      <link>http://localhost:1313/posts/chicken-tikka-masala/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/chicken-tikka-masala/</guid>
+      <guid>http://localhost:1313/posts/chicken-tikka-masala/</guid>
       <description>Authentic chicken tikka masala with overnight marinated chicken in rich tomato cream sauce</description>
     </item>
     <item>
       <title>Lentil Dahl</title>
-      <link>https://wheelerworldkitchen.com/posts/lentil-dahl/</link>
+      <link>http://localhost:1313/posts/lentil-dahl/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/lentil-dahl/</guid>
+      <guid>http://localhost:1313/posts/lentil-dahl/</guid>
       <description>Simple Indian red lentil curry - quick, healthy, and flavorful</description>
     </item>
     <item>
       <title>Naan</title>
-      <link>https://wheelerworldkitchen.com/posts/naan/</link>
+      <link>http://localhost:1313/posts/naan/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/naan/</guid>
+      <guid>http://localhost:1313/posts/naan/</guid>
       <description>Classic Indian Break</description>
     </item>
     <item>
       <title>Red Lentils (Mediterranean/Indian Mix)</title>
-      <link>https://wheelerworldkitchen.com/posts/red-lentils-mediterranean-indian/</link>
+      <link>http://localhost:1313/posts/red-lentils-mediterranean-indian/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/red-lentils-mediterranean-indian/</guid>
+      <guid>http://localhost:1313/posts/red-lentils-mediterranean-indian/</guid>
       <description>Smooth red lentil soup with Mediterranean herbs and Indian spices</description>
     </item>
     <item>
       <title>Spicy Cauliflower Tomato Chili Gravy</title>
-      <link>https://wheelerworldkitchen.com/posts/spicy-cauliflower-tomato-chili-gravy/</link>
+      <link>http://localhost:1313/posts/spicy-cauliflower-tomato-chili-gravy/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/spicy-cauliflower-tomato-chili-gravy/</guid>
+      <guid>http://localhost:1313/posts/spicy-cauliflower-tomato-chili-gravy/</guid>
       <description>Easy Indian Dish to Serve Over Rice</description>
     </item>
   </channel>

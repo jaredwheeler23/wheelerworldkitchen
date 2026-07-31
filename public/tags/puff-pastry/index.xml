@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Puff-Pastry on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/puff-pastry/</link>
+    <link>http://localhost:1313/tags/puff-pastry/</link>
     <description>Recent content in Puff-Pastry on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/puff-pastry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/puff-pastry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Autumn Pot Pie (Christmas Veggie Pot Pie)</title>
-      <link>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</link>
+      <link>http://localhost:1313/posts/autumn-pot-pie/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/autumn-pot-pie/</guid>
+      <guid>http://localhost:1313/posts/autumn-pot-pie/</guid>
       <description>Festive vegetarian pot pie with butternut squash, mushrooms, and cheddar pastry</description>
     </item>
     <item>
       <title>Veggie Pot Pie</title>
-      <link>https://wheelerworldkitchen.com/posts/veggie-pot-pie/</link>
+      <link>http://localhost:1313/posts/veggie-pot-pie/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/veggie-pot-pie/</guid>
+      <guid>http://localhost:1313/posts/veggie-pot-pie/</guid>
       <description>Hearty vegetarian pot pie with creamy vegetable filling and flaky pastry top</description>
     </item>
   </channel>

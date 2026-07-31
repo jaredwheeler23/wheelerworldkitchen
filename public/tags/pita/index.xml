@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pita on Wheeler World Kitchen</title>
-    <link>https://wheelerworldkitchen.com/tags/pita/</link>
+    <link>http://localhost:1313/tags/pita/</link>
     <description>Recent content in Pita on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wheelerworldkitchen.com/tags/pita/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/pita/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greek Gyros</title>
-      <link>https://wheelerworldkitchen.com/posts/greek-gyros/</link>
+      <link>http://localhost:1313/posts/greek-gyros/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://wheelerworldkitchen.com/posts/greek-gyros/</guid>
+      <guid>http://localhost:1313/posts/greek-gyros/</guid>
       <description>Authentic homemade gyros with seasoned meat, tzatziki sauce, and fresh toppings</description>
     </item>
   </channel>
