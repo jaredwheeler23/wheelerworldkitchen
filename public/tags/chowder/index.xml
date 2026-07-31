@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chowder on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/chowder/</link>
+    <link>https://wheelerworldkitchen.com/tags/chowder/</link>
     <description>Recent content in Chowder on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/chowder/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/chowder/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Corn Cheddar Chowder</title>
-      <link>http://localhost:1313/posts/corn-cheddar-chowder/</link>
+      <link>https://wheelerworldkitchen.com/posts/corn-cheddar-chowder/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/corn-cheddar-chowder/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/corn-cheddar-chowder/</guid>
       <description>Creamy, hearty chowder loaded with corn, vegetables, and cheddar cheese</description>
     </item>
     <item>
       <title>Creamy Seafood Stew/Chowder</title>
-      <link>http://localhost:1313/posts/creamy-seafood-chowder/</link>
+      <link>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-seafood-chowder/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</guid>
       <description>Rich and creamy seafood chowder with fish, shrimp, and vegetables</description>
     </item>
   </channel>

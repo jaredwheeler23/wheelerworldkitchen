@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Meat on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/meat/</link>
+    <link>https://wheelerworldkitchen.com/tags/meat/</link>
     <description>Recent content in Meat on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/meat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/meat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Italian Meatballs</title>
-      <link>http://localhost:1313/posts/italian-meatballs/</link>
+      <link>https://wheelerworldkitchen.com/posts/italian-meatballs/</link>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/italian-meatballs/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/italian-meatballs/</guid>
       <description>Easy and tasty italian meatballs</description>
     </item>
   </channel>

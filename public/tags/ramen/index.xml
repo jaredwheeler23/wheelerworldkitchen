@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ramen on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/ramen/</link>
+    <link>https://wheelerworldkitchen.com/tags/ramen/</link>
     <description>Recent content in Ramen on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ramen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/ramen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Birria Ramen with Leftover Birria Broth</title>
-      <link>http://localhost:1313/posts/birria-ramen/</link>
+      <link>https://wheelerworldkitchen.com/posts/birria-ramen/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/birria-ramen/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/birria-ramen/</guid>
       <description>Delicious ramen made with leftover birria broth</description>
     </item>
     <item>
       <title>Ramen Variety 2, Not Spicy</title>
-      <link>http://localhost:1313/posts/ramen-variety-2/</link>
+      <link>https://wheelerworldkitchen.com/posts/ramen-variety-2/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ramen-variety-2/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/ramen-variety-2/</guid>
       <description>Mild and flavorful ramen with chicken, fresh vegetables, and savory broth</description>
     </item>
     <item>
       <title>Spicy Ramen Recipe</title>
-      <link>http://localhost:1313/posts/spicy-chicken-ramen-recipe/</link>
+      <link>https://wheelerworldkitchen.com/posts/spicy-chicken-ramen-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spicy-chicken-ramen-recipe/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-chicken-ramen-recipe/</guid>
       <description>Easy and good ramen to make on a weeknight</description>
     </item>
   </channel>

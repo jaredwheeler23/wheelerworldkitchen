@@ -415,10 +415,6 @@ article a[href]:hover > div {
 
 /* Desktop Search Box - Always visible, pinned right */
 .header-search-form.desktop-search {
-    position: absolute;
-    right: 1rem;
-    top: 50%;
-    transform: translateY(-50%);
     display: flex;
     align-items: center;
     gap: 0.25rem;
@@ -427,6 +423,7 @@ article a[href]:hover > div {
     border-radius: 8px;
     padding: 0.25rem 0.5rem;
     transition: all 0.3s ease;
+    margin-left: auto;
 }
 
 .header-search-form.desktop-search:focus-within {
@@ -627,13 +624,23 @@ article a[href]:hover > div {
 
 /* Adjust header nav to accommodate search box */
 .header-nav {
-    position: relative;
-    padding-right: 320px; /* Make room for expanded search box */
+    display: flex;
+    align-items: center;
+    gap: var(--gap);
+}
+
+.header-nav .menu {
+    flex-shrink: 1;
+    min-width: 0;
+}
+
+.header-nav .logo {
+    flex-shrink: 0;
 }
 
 @media screen and (max-width: 768px) {
     .header-nav {
-        padding-right: 3rem; /* Less padding on mobile, just for icon */
+        flex-wrap: wrap;
     }
 }
 

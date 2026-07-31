@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Peppers on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/peppers/</link>
+    <link>https://wheelerworldkitchen.com/tags/peppers/</link>
     <description>Recent content in Peppers on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/peppers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/peppers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African Chicken Peanut Stew</title>
-      <link>http://localhost:1313/posts/african-chicken-peanut-stew/</link>
+      <link>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/african-chicken-peanut-stew/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</guid>
       <description>Rich and flavorful chicken stew with peanut butter and vegetables</description>
     </item>
     <item>
       <title>Copycat Chipotle Style Pan Cooked Veggies</title>
-      <link>http://localhost:1313/posts/copycat-chipotle-pan-cooked-veggies/</link>
+      <link>https://wheelerworldkitchen.com/posts/copycat-chipotle-pan-cooked-veggies/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/copycat-chipotle-pan-cooked-veggies/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/copycat-chipotle-pan-cooked-veggies/</guid>
       <description>Simple sautéed peppers and onions with oregano - just like Chipotle</description>
     </item>
     <item>
       <title>Texas Style Quesadillas</title>
-      <link>http://localhost:1313/posts/texas-quesadillas/</link>
+      <link>https://wheelerworldkitchen.com/posts/texas-quesadillas/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/texas-quesadillas/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/texas-quesadillas/</guid>
       <description>Loaded quesadillas with peppers, onions, cheese, and optional meat</description>
     </item>
   </channel>

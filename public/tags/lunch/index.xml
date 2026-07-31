@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lunch on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/lunch/</link>
+    <link>https://wheelerworldkitchen.com/tags/lunch/</link>
     <description>Recent content in Lunch on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/lunch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/lunch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buffalo Chicken Salad</title>
-      <link>http://localhost:1313/posts/buffalo-chicken-salad/</link>
+      <link>https://wheelerworldkitchen.com/posts/buffalo-chicken-salad/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/buffalo-chicken-salad/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/buffalo-chicken-salad/</guid>
       <description>Michelle&amp;#39;s lunch special - creamy buffalo chicken salad perfect for sandwiches or with crackers</description>
     </item>
   </channel>

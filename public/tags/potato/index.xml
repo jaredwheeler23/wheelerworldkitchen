@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Potato on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/potato/</link>
+    <link>https://wheelerworldkitchen.com/tags/potato/</link>
     <description>Recent content in Potato on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/potato/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/potato/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creamy Sausage and Potato Soup</title>
-      <link>http://localhost:1313/posts/creamy-sausage-potato-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-sausage-potato-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</guid>
       <description>Rich and hearty soup with sausage, potatoes, and cream</description>
     </item>
     <item>
       <title>Decadent Potato Soup</title>
-      <link>http://localhost:1313/posts/decadent-potato-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/decadent-potato-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</guid>
       <description>Rich and creamy potato soup with bacon, cheddar cheese, and sour cream</description>
     </item>
   </channel>

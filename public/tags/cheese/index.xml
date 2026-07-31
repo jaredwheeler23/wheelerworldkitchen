@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cheese on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/cheese/</link>
+    <link>https://wheelerworldkitchen.com/tags/cheese/</link>
     <description>Recent content in Cheese on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cheese/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/cheese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baked Pasta Al Cavolfiore</title>
-      <link>http://localhost:1313/posts/baked-pasta-al-cavolfiore/</link>
+      <link>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/baked-pasta-al-cavolfiore/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/baked-pasta-al-cavolfiore/</guid>
       <description>Decadent baked pasta with cauliflower, tomatoes, and cheese sauce</description>
     </item>
     <item>
       <title>Cheesy Pesto Pull Apart Bread Appetizer</title>
-      <link>http://localhost:1313/posts/cheesy-pesto-pull-apart-bread/</link>
+      <link>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cheesy-pesto-pull-apart-bread/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/cheesy-pesto-pull-apart-bread/</guid>
       <description>Delicious pull-apart bread filled with pesto and melted mozzarella</description>
     </item>
     <item>
       <title>Creamy Mushroom Quesadillas</title>
-      <link>http://localhost:1313/posts/creamy-mushroom-quesadillas/</link>
+      <link>https://wheelerworldkitchen.com/posts/creamy-mushroom-quesadillas/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-mushroom-quesadillas/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-mushroom-quesadillas/</guid>
       <description>Vegetarian quesadillas with sautéed mushrooms and creamy cheese filling</description>
     </item>
     <item>
       <title>Decadent Potato Soup</title>
-      <link>http://localhost:1313/posts/decadent-potato-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/decadent-potato-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</guid>
       <description>Rich and creamy potato soup with bacon, cheddar cheese, and sour cream</description>
     </item>
     <item>
       <title>Fondue (Cheese, Broth and Chocolate)</title>
-      <link>http://localhost:1313/posts/fondue-triple/</link>
+      <link>https://wheelerworldkitchen.com/posts/fondue-triple/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fondue-triple/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/fondue-triple/</guid>
       <description>Triple fondue experience with cheese, broth, and chocolate fondues</description>
     </item>
     <item>
       <title>Lasagna (Meat or Veggie)</title>
-      <link>http://localhost:1313/posts/lasagna-recipe/</link>
+      <link>https://wheelerworldkitchen.com/posts/lasagna-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lasagna-recipe/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/lasagna-recipe/</guid>
       <description>Classic layered lasagna with rich marinara sauce - customize with sausage or keep it vegetarian</description>
     </item>
     <item>
       <title>Texas Style Quesadillas</title>
-      <link>http://localhost:1313/posts/texas-quesadillas/</link>
+      <link>https://wheelerworldkitchen.com/posts/texas-quesadillas/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/texas-quesadillas/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/texas-quesadillas/</guid>
       <description>Loaded quesadillas with peppers, onions, cheese, and optional meat</description>
     </item>
   </channel>

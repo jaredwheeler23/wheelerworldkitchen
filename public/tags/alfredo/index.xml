@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Alfredo on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/alfredo/</link>
+    <link>https://wheelerworldkitchen.com/tags/alfredo/</link>
     <description>Recent content in Alfredo on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/alfredo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/alfredo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chicken Alfredo with Pan Seared Chicken</title>
-      <link>http://localhost:1313/posts/chicken-alfredo-pan-seared/</link>
+      <link>https://wheelerworldkitchen.com/posts/chicken-alfredo-pan-seared/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-alfredo-pan-seared/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-alfredo-pan-seared/</guid>
       <description>Restaurant-quality chicken alfredo with perfectly seared chicken and spicy alfredo sauce</description>
     </item>
     <item>
       <title>Easy Alfredo Pasta with Veggies and Spicy Italian Sausage</title>
-      <link>http://localhost:1313/posts/easy-alfredo-pasta/</link>
+      <link>https://wheelerworldkitchen.com/posts/easy-alfredo-pasta/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/easy-alfredo-pasta/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/easy-alfredo-pasta/</guid>
       <description>Quick and delicious alfredo pasta loaded with vegetables and optional spicy sausage</description>
     </item>
   </channel>

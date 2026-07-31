@@ -2,88 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Soup or Stew&#34; on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/categories/soup-or-stew/</link>
+    <link>https://wheelerworldkitchen.com/categories/soup-or-stew/</link>
     <description>Recent content in Soup or Stew&#34; on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/soup-or-stew/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/categories/soup-or-stew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chicken Tortilla Soup</title>
-      <link>http://localhost:1313/posts/chicken-tortilla-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/chicken-tortilla-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chicken-tortilla-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/chicken-tortilla-soup/</guid>
       <description>Flavorful Mexican soup with chicken, black beans, and crispy tortilla strips</description>
     </item>
     <item>
       <title>Corn Cheddar Chowder</title>
-      <link>http://localhost:1313/posts/corn-cheddar-chowder/</link>
+      <link>https://wheelerworldkitchen.com/posts/corn-cheddar-chowder/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/corn-cheddar-chowder/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/corn-cheddar-chowder/</guid>
       <description>Creamy, hearty chowder loaded with corn, vegetables, and cheddar cheese</description>
     </item>
     <item>
       <title>Creamy Sausage and Potato Soup</title>
-      <link>http://localhost:1313/posts/creamy-sausage-potato-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-sausage-potato-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</guid>
       <description>Rich and hearty soup with sausage, potatoes, and cream</description>
     </item>
     <item>
       <title>Creamy Seafood Stew/Chowder</title>
-      <link>http://localhost:1313/posts/creamy-seafood-chowder/</link>
+      <link>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-seafood-chowder/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-seafood-chowder/</guid>
       <description>Rich and creamy seafood chowder with fish, shrimp, and vegetables</description>
     </item>
     <item>
       <title>Decadent Potato Soup</title>
-      <link>http://localhost:1313/posts/decadent-potato-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/decadent-potato-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/decadent-potato-soup/</guid>
       <description>Rich and creamy potato soup with bacon, cheddar cheese, and sour cream</description>
     </item>
     <item>
       <title>Green Chile Chicken Stew</title>
-      <link>http://localhost:1313/posts/green-chile-chicken-stew/</link>
+      <link>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/green-chile-chicken-stew/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</guid>
       <description>Southwestern chicken stew with green chiles, salsa verde, and rice</description>
     </item>
     <item>
       <title>Italian Wedding Soup, the Dill Version</title>
-      <link>http://localhost:1313/posts/italian-wedding-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/italian-wedding-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/italian-wedding-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/italian-wedding-soup/</guid>
       <description>Classic Italian soup with tender meatballs, pasta, and fresh dill</description>
     </item>
     <item>
       <title>Lentil Dahl</title>
-      <link>http://localhost:1313/posts/lentil-dahl/</link>
+      <link>https://wheelerworldkitchen.com/posts/lentil-dahl/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lentil-dahl/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/lentil-dahl/</guid>
       <description>Simple Indian red lentil curry - quick, healthy, and flavorful</description>
     </item>
     <item>
       <title>Lentil, Tomato Soup</title>
-      <link>http://localhost:1313/posts/lentil-tomato-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/lentil-tomato-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lentil-tomato-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/lentil-tomato-soup/</guid>
       <description>Hearty and healthy lentil soup with tomatoes, curry, and fresh greens</description>
     </item>
     <item>
       <title>Minestrone Soup (Instant Pot)</title>
-      <link>http://localhost:1313/posts/minestrone-soup-instant-pot/</link>
+      <link>https://wheelerworldkitchen.com/posts/minestrone-soup-instant-pot/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/minestrone-soup-instant-pot/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/minestrone-soup-instant-pot/</guid>
       <description>Classic Italian vegetable soup made easy in the instant pot</description>
     </item>
     <item>
       <title>Miso, Noodle, Peanut Soup</title>
-      <link>http://localhost:1313/posts/miso-noodle-peanut-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/miso-noodle-peanut-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/miso-noodle-peanut-soup/</guid>
       <description>Quick and flavorful Asian-inspired soup with miso, peanut butter, and noodles</description>
+    </item>
+  </channel>
+</rss>
+  <link>https://wheelerworldkitchen.com/posts/spicy-tomato-soup/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-tomato-soup/</guid>
+      <description>Rich, creamy tomato soup with a kick of spice - perfect with garlic bread</description>
+    </item>
+    <item>
+      <title>Thai Chicken Curry with Coconut Milk</title>
+      <link>https://wheelerworldkitchen.com/posts/thai-chicken-curry-coconut/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/thai-chicken-curry-coconut/</guid>
+      <description>Rich and creamy Thai red curry with chicken, peanut butter, and coconut milk</description>
+    </item>
+    <item>
+      <title>Thai Chicken Noodle Soup</title>
+      <link>https://wheelerworldkitchen.com/posts/thai-chicken-noodle-soup-recipe/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/thai-chicken-noodle-soup-recipe/</guid>
+      <description>Rich and creamy Thai soup</description>
+    </item>
+    <item>
+      <title>Zuppa Toscana Instant Pot</title>
+      <link>https://wheelerworldkitchen.com/posts/zuppa-toscana-instant-pot/</link>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://wheelerworldkitchen.com/posts/zuppa-toscana-instant-pot/</guid>
+      <description>Nice classic italian with quick process</description>
     </item>
   </channel>
 </rss>

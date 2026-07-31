@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mashed-Potatoes on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/mashed-potatoes/</link>
+    <link>https://wheelerworldkitchen.com/tags/mashed-potatoes/</link>
     <description>Recent content in Mashed-Potatoes on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mashed-potatoes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/mashed-potatoes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bangers and Mash with Guinness Gravy</title>
-      <link>http://localhost:1313/posts/bangers-and-mash/</link>
+      <link>https://wheelerworldkitchen.com/posts/bangers-and-mash/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bangers-and-mash/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/bangers-and-mash/</guid>
       <description>Traditional British sausages with mashed potatoes and rich Guinness gravy</description>
     </item>
     <item>
       <title>Mashed Potatoes</title>
-      <link>http://localhost:1313/posts/simple-mashed-potatoes/</link>
+      <link>https://wheelerworldkitchen.com/posts/simple-mashed-potatoes/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/simple-mashed-potatoes/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/simple-mashed-potatoes/</guid>
       <description>Recipe for the basics (can be added to many things)</description>
     </item>
     <item>
       <title>Veggie Shepherds Pie</title>
-      <link>http://localhost:1313/posts/veggie-shepherds-pie/</link>
+      <link>https://wheelerworldkitchen.com/posts/veggie-shepherds-pie/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/veggie-shepherds-pie/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/veggie-shepherds-pie/</guid>
       <description>Hearty vegetarian version with lentils, vegetables, and creamy mashed potato topping</description>
     </item>
   </channel>

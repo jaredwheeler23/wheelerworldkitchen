@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rice on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/rice/</link>
+    <link>https://wheelerworldkitchen.com/tags/rice/</link>
     <description>Recent content in Rice on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/rice/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/rice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African Chicken Peanut Stew</title>
-      <link>http://localhost:1313/posts/african-chicken-peanut-stew/</link>
+      <link>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/african-chicken-peanut-stew/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/african-chicken-peanut-stew/</guid>
       <description>Rich and flavorful chicken stew with peanut butter and vegetables</description>
     </item>
     <item>
       <title>Creamy Sausage and Potato Soup</title>
-      <link>http://localhost:1313/posts/creamy-sausage-potato-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-sausage-potato-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</guid>
       <description>Rich and hearty soup with sausage, potatoes, and cream</description>
     </item>
     <item>
       <title>Fried Rice</title>
-      <link>http://localhost:1313/posts/fried-rice/</link>
+      <link>https://wheelerworldkitchen.com/posts/fried-rice/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/fried-rice/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/fried-rice/</guid>
       <description>Classic fried rice with vegetables and eggs</description>
     </item>
     <item>
       <title>Greek Rice</title>
-      <link>http://localhost:1313/posts/greek-rice/</link>
+      <link>https://wheelerworldkitchen.com/posts/greek-rice/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/greek-rice/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/greek-rice/</guid>
       <description>Aromatic rice with turmeric, cumin, and pine nuts - perfect side dish</description>
     </item>
     <item>
       <title>Greek Rice with Dill and Lemon</title>
-      <link>http://localhost:1313/posts/greek-rice-dill-lemon/</link>
+      <link>https://wheelerworldkitchen.com/posts/greek-rice-dill-lemon/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/greek-rice-dill-lemon/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/greek-rice-dill-lemon/</guid>
       <description>Light and lemony Greek rice with fresh dill - perfect side dish</description>
     </item>
     <item>
       <title>Green Chile Chicken Stew</title>
-      <link>http://localhost:1313/posts/green-chile-chicken-stew/</link>
+      <link>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/green-chile-chicken-stew/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/green-chile-chicken-stew/</guid>
       <description>Southwestern chicken stew with green chiles, salsa verde, and rice</description>
     </item>
     <item>
       <title>Mexican Rice</title>
-      <link>http://localhost:1313/posts/mexican-rice/</link>
+      <link>https://wheelerworldkitchen.com/posts/mexican-rice/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mexican-rice/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/mexican-rice/</guid>
       <description>Authentic Mexican rice with tomato, vegetables, and spices - perfect side dish</description>
     </item>
     <item>
       <title>Quick Cajun Gumbo</title>
-      <link>http://localhost:1313/posts/quick-cajun-gumbo/</link>
+      <link>https://wheelerworldkitchen.com/posts/quick-cajun-gumbo/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/quick-cajun-gumbo/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/quick-cajun-gumbo/</guid>
       <description>Fast and flavorful Cajun gumbo with shrimp, sausage, and white fish</description>
     </item>
   </channel>

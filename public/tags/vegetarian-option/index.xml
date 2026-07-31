@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vegetarian-Option on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/vegetarian-option/</link>
+    <link>https://wheelerworldkitchen.com/tags/vegetarian-option/</link>
     <description>Recent content in Vegetarian-Option on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vegetarian-option/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/vegetarian-option/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Award Winning Beef or Vegetarian Chili</title>
-      <link>http://localhost:1313/posts/award-winning-chili-recipe/</link>
+      <link>https://wheelerworldkitchen.com/posts/award-winning-chili-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/award-winning-chili-recipe/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/award-winning-chili-recipe/</guid>
       <description>Flavorful chili with three types of beans and optional beef</description>
     </item>
     <item>
       <title>Chinese Egg Rolls - Healthy Version</title>
-      <link>http://localhost:1313/posts/chinese-egg-rolls-healthy/</link>
+      <link>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chinese-egg-rolls-healthy/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/chinese-egg-rolls-healthy/</guid>
       <description>Healthy air-fried egg rolls with vegetables and optional sausage</description>
     </item>
     <item>
       <title>Lasagna (Meat or Veggie)</title>
-      <link>http://localhost:1313/posts/lasagna-recipe/</link>
+      <link>https://wheelerworldkitchen.com/posts/lasagna-recipe/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lasagna-recipe/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/lasagna-recipe/</guid>
       <description>Classic layered lasagna with rich marinara sauce - customize with sausage or keep it vegetarian</description>
     </item>
   </channel>

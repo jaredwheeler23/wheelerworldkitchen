@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pork on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/pork/</link>
+    <link>https://wheelerworldkitchen.com/tags/pork/</link>
     <description>Recent content in Pork on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pork/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/pork/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Al Pastor (Pork with Hot and Sweet Flavor)</title>
-      <link>http://localhost:1313/posts/al-pastor/</link>
+      <link>https://wheelerworldkitchen.com/posts/al-pastor/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/al-pastor/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/al-pastor/</guid>
       <description>Spicy-sweet Mexican pork with pineapple, perfect for tacos</description>
     </item>
     <item>
       <title>Bacon Wrapped Meatloaf with Spicy Ketchup</title>
-      <link>http://localhost:1313/posts/bacon-wrapped-meatloaf-spicy-ketchup/</link>
+      <link>https://wheelerworldkitchen.com/posts/bacon-wrapped-meatloaf-spicy-ketchup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bacon-wrapped-meatloaf-spicy-ketchup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/bacon-wrapped-meatloaf-spicy-ketchup/</guid>
       <description>Classic meatloaf wrapped in bacon with a spicy glaze</description>
     </item>
     <item>
       <title>Carnitas (Mexican Shredded Pork)</title>
-      <link>http://localhost:1313/posts/carnitas-mexican-shredded-pork/</link>
+      <link>https://wheelerworldkitchen.com/posts/carnitas-mexican-shredded-pork/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/carnitas-mexican-shredded-pork/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/carnitas-mexican-shredded-pork/</guid>
       <description>Tender pressure cooker carnitas with orange juice and spices - perfect for tacos</description>
     </item>
     <item>
       <title>Swedish Meatballs (MD Special)</title>
-      <link>http://localhost:1313/posts/swedish-meatballs/</link>
+      <link>https://wheelerworldkitchen.com/posts/swedish-meatballs/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/swedish-meatballs/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/swedish-meatballs/</guid>
       <description>Classic Swedish meatballs in a rich, creamy gravy - a family favorite</description>
     </item>
   </channel>

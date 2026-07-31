@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Greek on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/greek/</link>
+    <link>https://wheelerworldkitchen.com/tags/greek/</link>
     <description>Recent content in Greek on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/greek/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/greek/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greek Gyros</title>
-      <link>http://localhost:1313/posts/greek-gyros/</link>
+      <link>https://wheelerworldkitchen.com/posts/greek-gyros/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/greek-gyros/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/greek-gyros/</guid>
       <description>Authentic homemade gyros with seasoned meat, tzatziki sauce, and fresh toppings</description>
     </item>
     <item>
       <title>Greek Rice</title>
-      <link>http://localhost:1313/posts/greek-rice/</link>
+      <link>https://wheelerworldkitchen.com/posts/greek-rice/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/greek-rice/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/greek-rice/</guid>
       <description>Aromatic rice with turmeric, cumin, and pine nuts - perfect side dish</description>
     </item>
     <item>
       <title>Greek Rice with Dill and Lemon</title>
-      <link>http://localhost:1313/posts/greek-rice-dill-lemon/</link>
+      <link>https://wheelerworldkitchen.com/posts/greek-rice-dill-lemon/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/greek-rice-dill-lemon/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/greek-rice-dill-lemon/</guid>
       <description>Light and lemony Greek rice with fresh dill - perfect side dish</description>
     </item>
     <item>
       <title>Moussaka</title>
-      <link>http://localhost:1313/posts/moussaka/</link>
+      <link>https://wheelerworldkitchen.com/posts/moussaka/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/moussaka/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/moussaka/</guid>
       <description>Classic Greek Version of Lasagna</description>
     </item>
     <item>
       <title>Slow Cooker chicken Tomato Greek</title>
-      <link>http://localhost:1313/posts/slow-cooked-chicken-greek/</link>
+      <link>https://wheelerworldkitchen.com/posts/slow-cooked-chicken-greek/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/slow-cooked-chicken-greek/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/slow-cooked-chicken-greek/</guid>
       <description>Easy Main Greek Dish</description>
     </item>
   </channel>

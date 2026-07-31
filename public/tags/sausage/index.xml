@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sausage on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/sausage/</link>
+    <link>https://wheelerworldkitchen.com/tags/sausage/</link>
     <description>Recent content in Sausage on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/sausage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/sausage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bangers and Mash with Guinness Gravy</title>
-      <link>http://localhost:1313/posts/bangers-and-mash/</link>
+      <link>https://wheelerworldkitchen.com/posts/bangers-and-mash/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bangers-and-mash/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/bangers-and-mash/</guid>
       <description>Traditional British sausages with mashed potatoes and rich Guinness gravy</description>
     </item>
     <item>
       <title>Breakfast Pizza</title>
-      <link>http://localhost:1313/posts/breakfast-pizza/</link>
+      <link>https://wheelerworldkitchen.com/posts/breakfast-pizza/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/breakfast-pizza/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/breakfast-pizza/</guid>
       <description>Savory breakfast pizza with sausage gravy, eggs, and cheese</description>
     </item>
     <item>
       <title>Creamy Sausage and Potato Soup</title>
-      <link>http://localhost:1313/posts/creamy-sausage-potato-soup/</link>
+      <link>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/creamy-sausage-potato-soup/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/creamy-sausage-potato-soup/</guid>
       <description>Rich and hearty soup with sausage, potatoes, and cream</description>
     </item>
     <item>
       <title>Pasta e Fagioli</title>
-      <link>http://localhost:1313/posts/pasta-e-fagioli/</link>
+      <link>https://wheelerworldkitchen.com/posts/pasta-e-fagioli/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pasta-e-fagioli/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-e-fagioli/</guid>
       <description>Hearty Italian pasta and bean soup with sausage</description>
     </item>
     <item>
       <title>Spicy Italian Sausage Korean Stir Fry</title>
-      <link>http://localhost:1313/posts/spicy-italian-sausage-korean-stir-fry/</link>
+      <link>https://wheelerworldkitchen.com/posts/spicy-italian-sausage-korean-stir-fry/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/spicy-italian-sausage-korean-stir-fry/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/spicy-italian-sausage-korean-stir-fry/</guid>
       <description>Fusion dish combining Italian sausage with Korean-style spicy stir fry sauce</description>
     </item>
   </channel>

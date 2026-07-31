@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tostadas on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/tostadas/</link>
+    <link>https://wheelerworldkitchen.com/tags/tostadas/</link>
     <description>Recent content in Tostadas on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tostadas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/tostadas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ceviche Tostadas</title>
-      <link>http://localhost:1313/posts/ceviche-tostadas/</link>
+      <link>https://wheelerworldkitchen.com/posts/ceviche-tostadas/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ceviche-tostadas/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/ceviche-tostadas/</guid>
       <description>Fresh shrimp ceviche served on crispy tostadas with spicy mayo</description>
     </item>
     <item>
       <title>Homemade Black Bean Tostadas with Lime and Fajita Veggies</title>
-      <link>http://localhost:1313/posts/homemade-black-bean-tostadas/</link>
+      <link>https://wheelerworldkitchen.com/posts/homemade-black-bean-tostadas/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/homemade-black-bean-tostadas/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/homemade-black-bean-tostadas/</guid>
       <description>Fresh tostadas with homemade refried beans, fajita vegetables, and chili lime slaw</description>
     </item>
   </channel>

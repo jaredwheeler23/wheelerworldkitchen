@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fried on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/fried/</link>
+    <link>https://wheelerworldkitchen.com/tags/fried/</link>
     <description>Recent content in Fried on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/fried/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/fried/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Knockoff Chick-fil-A Nuggets</title>
-      <link>http://localhost:1313/posts/knockoff-chick-fil-a-nuggets/</link>
+      <link>https://wheelerworldkitchen.com/posts/knockoff-chick-fil-a-nuggets/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/knockoff-chick-fil-a-nuggets/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/knockoff-chick-fil-a-nuggets/</guid>
       <description>Copycat Chick-fil-A chicken nuggets with pickle brine marinade</description>
     </item>
   </channel>

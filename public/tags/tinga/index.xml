@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tinga on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/tinga/</link>
+    <link>https://wheelerworldkitchen.com/tags/tinga/</link>
     <description>Recent content in Tinga on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/tinga/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/tinga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instant Pot Chicken Tinga</title>
-      <link>http://localhost:1313/posts/instant-pot-chicken-tinga/</link>
+      <link>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/instant-pot-chicken-tinga/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/instant-pot-chicken-tinga/</guid>
       <description>Spicy shredded chicken with chipotle peppers - perfect for tacos</description>
     </item>
   </channel>

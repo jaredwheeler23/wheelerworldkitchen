@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>White-Sauce on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/white-sauce/</link>
+    <link>https://wheelerworldkitchen.com/tags/white-sauce/</link>
     <description>Recent content in White-Sauce on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/white-sauce/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/white-sauce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pasta Tutto Giardino (White Sauce Primavera)</title>
-      <link>http://localhost:1313/posts/pasta-tutto-giardino/</link>
+      <link>https://wheelerworldkitchen.com/posts/pasta-tutto-giardino/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/pasta-tutto-giardino/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/pasta-tutto-giardino/</guid>
       <description>Garden vegetable pasta in a creamy white sauce with fresh herbs</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Avocado on Wheeler World Kitchen</title>
-    <link>http://localhost:1313/tags/avocado/</link>
+    <link>https://wheelerworldkitchen.com/tags/avocado/</link>
     <description>Recent content in Avocado on Wheeler World Kitchen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/avocado/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wheelerworldkitchen.com/tags/avocado/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zesty Avocado Cream Sauce for Mexican Dishes</title>
-      <link>http://localhost:1313/posts/zesty-avocado-cream-sauce/</link>
+      <link>https://wheelerworldkitchen.com/posts/zesty-avocado-cream-sauce/</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zesty-avocado-cream-sauce/</guid>
+      <guid>https://wheelerworldkitchen.com/posts/zesty-avocado-cream-sauce/</guid>
       <description>Creamy avocado sauce with cilantro and lime - perfect for tacos and burritos</description>
     </item>
   </channel>
