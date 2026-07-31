@@ -624,9 +624,11 @@ article a[href]:hover > div {
 
 /* Adjust header nav to accommodate search box */
 .header-nav {
-    display: flex;
-    align-items: center;
-    gap: var(--gap);
+    display: flex !important;
+    align-items: center !important;
+    gap: var(--gap) !important;
+    flex-wrap: nowrap !important;
+    justify-content: flex-start !important;
 }
 
 .header-nav .menu {
@@ -638,9 +640,13 @@ article a[href]:hover > div {
     flex-shrink: 0;
 }
 
+.header-search-form.desktop-search {
+    flex-shrink: 0 !important;
+}
+
 @media screen and (max-width: 768px) {
     .header-nav {
-        flex-wrap: wrap;
+        flex-wrap: wrap !important;
     }
 }
 
