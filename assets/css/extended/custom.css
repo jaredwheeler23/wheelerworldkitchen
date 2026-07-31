@@ -592,40 +592,6 @@ article a[href]:hover > div {
     background-color: #1d4ed8;
 }
 
-/* Responsive Breakpoints */
-@media screen and (max-width: 768px) {
-    /* Hide desktop search on mobile */
-    .header-search-form.desktop-search {
-        display: none !important;
-    }
-    
-    /* Show mobile search trigger */
-    .mobile-search-trigger {
-        display: flex;
-    }
-    
-    /* Enable mobile search overlay */
-    .mobile-search-overlay {
-        display: block;
-    }
-}
-
-@media screen and (min-width: 769px) {
-    /* Ensure desktop search is visible */
-    .header-search-form.desktop-search {
-        display: flex;
-    }
-    
-    /* Hide mobile elements on desktop */
-    .mobile-search-trigger {
-        display: none !important;
-    }
-    
-    .mobile-search-overlay {
-        display: none !important;
-    }
-}
-
 /* Adjust header nav to accommodate search box */
 header.header nav.header-nav {
     display: flex !important;
@@ -650,18 +616,33 @@ header.header nav.header-nav .logo a {
     white-space: nowrap !important;
 }
 
-header.header nav.header-nav .header-search-form.desktop-search {
-    flex-shrink: 0 !important;
-    display: flex !important;
-}
-
 /* Ensure menu items are vertically centered */
 .menu li {
     display: flex !important;
     align-items: center !important;
 }
 
-/* Mobile: Make search box compact (icon-only) until clicked */
+/* Desktop: Show desktop search, hide mobile search */
+@media screen and (min-width: 769px) {
+    .header-search-form.desktop-search {
+        display: flex !important;
+        flex-shrink: 0 !important;
+    }
+    
+    .menu-search-item {
+        display: flex !important;
+    }
+    
+    .mobile-search-trigger {
+        display: none !important;
+    }
+    
+    .mobile-search-overlay {
+        display: none !important;
+    }
+}
+
+/* Mobile: Hide desktop search, show mobile search button */
 @media screen and (max-width: 768px) {
     header.header nav.header-nav {
         flex-wrap: wrap !important;
@@ -671,24 +652,23 @@ header.header nav.header-nav .header-search-form.desktop-search {
         flex-wrap: wrap !important;
     }
     
-    /* Hide the input by default on mobile */
-    .menu-search-item .header-search-input {
-        width: 0 !important;
-        padding: 0 !important;
-        opacity: 0 !important;
-        transition: all 0.3s ease !important;
+    /* Hide the desktop search completely on mobile */
+    .menu-search-item {
+        display: none !important;
     }
     
-    /* Show only search icon button on mobile */
-    .menu-search-item .header-search-form {
-        padding: 0.25rem !important;
+    .header-search-form.desktop-search {
+        display: none !important;
     }
     
-    /* When focused, expand the search box */
-    .menu-search-item .header-search-form:focus-within .header-search-input {
-        width: 150px !important;
-        padding: 0.4rem 0.5rem !important;
-        opacity: 1 !important;
+    /* Show mobile search trigger */
+    .mobile-search-trigger {
+        display: flex !important;
+    }
+    
+    /* Enable mobile search overlay */
+    .mobile-search-overlay {
+        display: block;
     }
 }
 
