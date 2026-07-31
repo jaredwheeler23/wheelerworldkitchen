@@ -638,10 +638,16 @@ header.header nav.header-nav {
 header.header nav.header-nav .menu {
     flex-shrink: 1 !important;
     min-width: 0 !important;
+    align-items: center !important;
 }
 
 header.header nav.header-nav .logo {
     flex-shrink: 0 !important;
+    flex-wrap: nowrap !important;
+}
+
+header.header nav.header-nav .logo a {
+    white-space: nowrap !important;
 }
 
 header.header nav.header-nav .header-search-form.desktop-search {
@@ -649,9 +655,40 @@ header.header nav.header-nav .header-search-form.desktop-search {
     display: flex !important;
 }
 
+/* Ensure menu items are vertically centered */
+.menu li {
+    display: flex !important;
+    align-items: center !important;
+}
+
+/* Mobile: Make search box compact (icon-only) until clicked */
 @media screen and (max-width: 768px) {
     header.header nav.header-nav {
         flex-wrap: wrap !important;
+    }
+    
+    header.header nav.header-nav .logo {
+        flex-wrap: wrap !important;
+    }
+    
+    /* Hide the input by default on mobile */
+    .menu-search-item .header-search-input {
+        width: 0 !important;
+        padding: 0 !important;
+        opacity: 0 !important;
+        transition: all 0.3s ease !important;
+    }
+    
+    /* Show only search icon button on mobile */
+    .menu-search-item .header-search-form {
+        padding: 0.25rem !important;
+    }
+    
+    /* When focused, expand the search box */
+    .menu-search-item .header-search-form:focus-within .header-search-input {
+        width: 150px !important;
+        padding: 0.4rem 0.5rem !important;
+        opacity: 1 !important;
     }
 }
 
