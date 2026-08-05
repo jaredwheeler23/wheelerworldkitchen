@@ -1,7 +1,7 @@
 ---
 title: "Banh Mi"
 description: "Well Known Vietnamese Sandwich Classic"
-categories: ["Asian", "Vietnamese", "sandwich", "handheld"]
+categories: ["Asian", "Vietnamese", "Sandwich", "Hand Held"]
 tags: ["asian", "sandwich", "vietnamese", "sandwich"]
 prepTime: "PT120M"
 cookTime: "PT15M"
@@ -23,7 +23,7 @@ date: 2026-08-03
 - 1.5 tsp salt or more to taste
 - 1.3 lb chicken breasts or thighs, cut thin into 0.25 x 0.25 x 1.5 in. slivers
 
-### Pickeled Veggies
+### Pickled Veggies
 - 0.5 cup hot water
 - 0.3 cup white sugar (or any)
 - 0.3 cup rice vinegar (or white wine vinegar works in a pinch)
@@ -32,7 +32,7 @@ date: 2026-08-03
 - 2 carrots sliced thin in rounds
 - 2 radishes sliced in this rounds as well
 
-### For sandiwches
+### For Sandwiches
 - 6 hoagies or bagettes sliced or whichever sandwich bread you can find that is workable
 - Mayo (lather inside)
 - 1 cucumber sliced thin into rounds
@@ -44,6 +44,6 @@ date: 2026-08-03
 2. Same for the pickeled veggies.  Mix together in a bowl, stir well and let sit in the fridge for at least an hour.
 3. Cook the chicken on the pan searing the sides and cooking all the way through.  Set aside.
 4. Toast the sandwich bread/hoagies/rolls.
-5. Serve.  Bread -> lather mayo -> chicken layer -> pickeled veggies -> handful of cilantro to taste -> Jalapeno/cucumber slices.  It is nice to spoon a little of the pickeled sauce on top to taste.
+5. Serve.  Bread -> lather mayo -> chicken layer -> pickled veggies -> handful of cilantro to taste -> Jalapeno/cucumber slices.  It is nice to spoon a little of the pickled sauce on top to taste.
 
 
