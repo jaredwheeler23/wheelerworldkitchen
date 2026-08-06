@@ -35,13 +35,13 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Our Story"
-url = "/story/"
+name = "Recipes"
+url = "/recipes/"
 weight = 2
 
 [[menu.main]]
-name = "Recipes"
-url = "/recipes/"
+name = "Our Story"
+url = "/story/"
 weight = 3
 
 [[menu.main]]
