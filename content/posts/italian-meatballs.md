@@ -26,7 +26,7 @@ date: 2026-07-27
 
 ## Instructions
 
-1. Preheat oven to 400 F and coat baking pan with oil.
+1. Preheat oven to 400 F and coat baking pan with oil
 2. Combine all ingredients in a bowl and mix really well with hands.
 3. Use spoon or hands to make ~1.5 in diameter meatballs and space them on the oiled baking pan
 4. Bake for 18-20 minutes or until fully cooked through.
