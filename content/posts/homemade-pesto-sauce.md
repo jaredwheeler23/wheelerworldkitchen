@@ -1,7 +1,7 @@
 ---
 title: "Homemade Pesto Sauce"
 description: "Fresh basil pesto with pine nuts and parmesan"
-categories: ["Italian"]
+categories: ["Italian", "Vegetarian"]
 tags: ["pesto", "sauce", "basil", "pine-nuts", "condiment"]
 prepTime: "PT10M"
 cookTime: "PT0M"

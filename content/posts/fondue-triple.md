@@ -1,7 +1,7 @@
 ---
 title: "Fondue (Cheese, Broth and Chocolate)"
 description: "Triple fondue experience with cheese, broth, and chocolate fondues"
-categories: ["Appetizer", "American", "Dessert"]
+categories: ["Appetizer", "American", "Dessert", "Vegetarian"]
 tags: ["fondue", "cheese", "chocolate", "party", "entertaining"]
 prepTime: "PT60M"
 cookTime: "PT10M"

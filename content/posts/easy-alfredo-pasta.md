@@ -1,7 +1,7 @@
 ---
 title: "Easy Alfredo Pasta with Veggies and Spicy Italian Sausage"
 description: "Quick and delicious alfredo pasta loaded with vegetables and optional spicy sausage"
-categories: ["Italian", "Pasta"]
+categories: ["Italian", "Pasta", "Vegetarian"]
 tags: ["pasta", "alfredo", "italian-sausage", "vegetables", "quick"]
 prepTime: "PT15M"
 cookTime: "PT25M"
@@ -14,7 +14,7 @@ date: 2026-07-15
 
 ## Ingredients
 
-- 1 lb spicy italian sausage
+- 1 lb spicy italian sausage (or leave out if vegetarian)
 
 - 1 pound long pasta (dealers choice), cook according to package directions
 

@@ -1,7 +1,7 @@
 ---
 title: "Linguini and Clams in Butter/Garlic/Wine Sauce"
 description: "Classic Italian pasta with fresh clams in a white wine butter sauce"
-categories: ["Italian", "Pasta"]
+categories: ["Italian", "Pasta", "Vegetarian"]
 tags: ["pasta", "seafood", "clams", "white-wine", "garlic"]
 prepTime: "PT10M"
 cookTime: "PT20M"
@@ -20,7 +20,7 @@ date: 2026-07-15
 - 8 or more cloves garlic, minced
 - 1 cup dry white wine (pinot grigio, chardonnay or sauvignon blanc)
 - 1 tbsp red pepper flakes (more or less to taste)
-- 2 pounds littleneck clams (~40 of them), scrubbed (or 1 lb sea scallops, or 1 lb shrimp)
+- 2 pounds littleneck clams (~40 of them), scrubbed (or 1 lb sea scallops, or 1 lb shrimp), Leave out and add more green veggies if making vegetarian
 - 1 small batch parsley, finely chopped
 - 3 tbsp butter
 - 1.5 tbsp lemon juice (more or less to taste)

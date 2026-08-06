@@ -1,7 +1,7 @@
 ---
 title: "Red Curry Thai Noodle Soup"
 description: "Spicy Thai soup with red curry, coconut milk, chicken, and rice noodles"
-categories: ["Asian", "Soup or Stew"]
+categories: ["Asian", "Soup or Stew", "Vegetarian"]
 tags: ["soup", "thai", "curry", "coconut-milk", "noodles", "spicy"]
 prepTime: "PT10M"
 cookTime: "PT25M"

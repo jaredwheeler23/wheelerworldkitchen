@@ -1,7 +1,7 @@
 ---
 title: "Homemade Pasta Dough"
 description: "Simple homemade fresh pasta dough with just 4 ingredients"
-categories: ["Italian"]
+categories: ["Italian", "Vegetarian"]
 tags: ["pasta", "dough", "homemade", "fresh", "basic"]
 prepTime: "PT20M"
 cookTime: "PT0M"

@@ -1,7 +1,7 @@
 ---
 title: "Creamy Corn Street Tacos"
 description: "Vegetarian street tacos with creamy elote-style corn and mushrooms"
-categories: ["Mexican"]
+categories: ["Mexican", "Vegetarian"]
 tags: ["tacos", "vegetarian", "corn", "street-tacos", "mushrooms"]
 prepTime: "PT15M"
 cookTime: "PT15M"

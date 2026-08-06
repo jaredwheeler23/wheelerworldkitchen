@@ -1,7 +1,7 @@
 ---
 title: "Homemade Black Bean Tostadas with Lime and Fajita Veggies"
 description: "Fresh tostadas with homemade refried beans, fajita vegetables, and chili lime slaw"
-categories: ["Mexican"]
+categories: ["Mexican", "Vegetarian"]
 tags: ["tostadas", "black-beans", "vegetarian", "fajita", "slaw"]
 prepTime: "PT30M"
 cookTime: "PT30M"

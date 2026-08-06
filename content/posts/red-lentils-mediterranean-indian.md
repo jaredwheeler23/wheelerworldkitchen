@@ -1,7 +1,7 @@
 ---
 title: "Red Lentils (Mediterranean/Indian Mix)"
 description: "Smooth red lentil soup with Mediterranean herbs and Indian spices"
-categories: ["Indian", "Soup or Stew"]
+categories: ["Indian", "Soup or Stew", "Vegetarian"]
 tags: ["lentils", "soup", "vegetarian", "mediterranean", "indian"]
 prepTime: "PT20M"
 cookTime: "PT30M"

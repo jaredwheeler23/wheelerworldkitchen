@@ -1,7 +1,7 @@
 ---
 title: "Texas Style Quesadillas"
 description: "Loaded quesadillas with peppers, onions, cheese, and optional meat"
-categories: ["Mexican"]
+categories: ["Mexican", "Vegetarian"]
 tags: ["quesadillas", "tex-mex", "cheese", "peppers", "quick"]
 prepTime: "PT30M"
 cookTime: "PT30M"

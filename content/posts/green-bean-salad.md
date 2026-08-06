@@ -1,7 +1,7 @@
 ---
 title: "Green Bean Salad"
 description: "Fresh and vibrant salad with green beans, feta, walnuts, and oregano dressing"
-categories: ["American", "Salad", "Side"]
+categories: ["American", "Salad", "Side", "Vegetarian"]
 tags: ["salad", "green-beans", "feta", "vegetarian", "healthy", "fresh"]
 prepTime: "PT15M"
 cookTime: "PT0M"

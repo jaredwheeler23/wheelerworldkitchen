@@ -1,7 +1,7 @@
 ---
 title: "Fried Rice"
 description: "Classic fried rice with vegetables and eggs"
-categories: ["Asian", "Side"]
+categories: ["Asian", "Side", "Vegetarian"]
 tags: ["fried-rice", "rice", "eggs", "vegetables", "chinese"]
 prepTime: "PT5M"
 cookTime: "PT25M"

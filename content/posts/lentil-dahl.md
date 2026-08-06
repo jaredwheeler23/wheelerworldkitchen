@@ -1,7 +1,7 @@
 ---
 title: "Lentil Dahl"
 description: "Simple Indian red lentil curry - quick, healthy, and flavorful"
-categories: ["Indian", Soup or Stew"]
+categories: ["Indian", Soup or Stew", "Vegetarian"]
 tags: ["lentils", "dahl", "curry", "vegetarian", "indian", "quick"]
 prepTime: "PT2M"
 cookTime: "PT30M"

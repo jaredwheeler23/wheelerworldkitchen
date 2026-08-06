@@ -1,7 +1,7 @@
 ---
 title: "Quick Greens as a Side"
 description: "Quick, easy and healthy side dish"
-categories: ["American", "Side"]
+categories: ["American", "Side", "Vegetarian"]
 tags: ["vegetarian"]
 prepTime: "PT5M"
 cookTime: "PT5M"

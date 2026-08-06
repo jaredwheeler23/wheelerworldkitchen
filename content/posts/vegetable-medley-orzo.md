@@ -1,7 +1,7 @@
 ---
 title: "Vegetable Medley Orzo"
 description: "Nice quick Pasta"
-categories: ["American", "Pasta"]
+categories: ["American", "Pasta", "Vegetarian"]
 tags: ["pasta"]
 prepTime: "PT10M"
 cookTime: "PT20M"

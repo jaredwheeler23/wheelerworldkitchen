@@ -1,7 +1,7 @@
 ---
 title: "Spicy Tomato Soup"
 description: "Rich, creamy tomato soup with a kick of spice - perfect with garlic bread"
-categories: ["American", "Soup or Stew"]
+categories: ["American", "Soup or Stew", "Vegetarian"]
 tags: ["soup", "tomato", "spicy", "vegetarian", "comfort-food"]
 prepTime: "PT10M"
 cookTime: "PT30M"

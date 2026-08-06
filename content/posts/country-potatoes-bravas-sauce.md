@@ -1,7 +1,7 @@
 ---
 title: "Country Potatoes and Bravas Sauce"
 description: "Spanish-style fried potatoes with creamy spicy bravas sauce"
-categories: ["Spanish"]
+categories: ["Spanish", "Vegetarian"]
 tags: ["potatoes", "bravas", "tapas", "appetizer", "spanish"]
 prepTime: "PT5M"
 cookTime: "PT30M"

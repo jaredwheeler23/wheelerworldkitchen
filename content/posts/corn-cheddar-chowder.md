@@ -1,7 +1,7 @@
 ---
 title: "Corn Cheddar Chowder"
 description: "Creamy, hearty chowder loaded with corn, vegetables, and cheddar cheese"
-categories: ["American", Soup or Stew"]
+categories: ["American", Soup or Stew", "Vegetarian"]
 tags: ["soup", "chowder", "corn", "cheddar", "vegetarian", "comfort-food"]
 prepTime: "PT15M"
 cookTime: "PT30M"

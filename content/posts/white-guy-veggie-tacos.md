@@ -1,7 +1,7 @@
 ---
 title: "White Guy Veggie Tacos"
 description: "Not authentic to mexico at all, but good and casual"
-categories: ["Mexican"]
+categories: ["Mexican", "Vegetarian"]
 tags: ["tacos", "mexican"]
 prepTime: "PT15M"
 cookTime: "PT15M"

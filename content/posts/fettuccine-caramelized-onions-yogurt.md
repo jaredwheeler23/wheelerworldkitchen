@@ -1,7 +1,7 @@
 ---
 title: "Fettuccine with Caramelized Onions and Yogurt"
 description: "Simple yet elegant pasta with sweet caramelized onions and tangy yogurt"
-categories: ["Italian", "Pasta"]
+categories: ["Italian", "Pasta", "Vegetarian"]
 tags: ["pasta", "fettuccine", "vegetarian", "onions", "yogurt"]
 prepTime: "PT35M"
 cookTime: "PT15M"

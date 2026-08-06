@@ -1,7 +1,7 @@
 ---
 title: "Lentil, Tomato Soup"
 description: "Hearty and healthy lentil soup with tomatoes, curry, and fresh greens"
-categories: ["American", Soup or Stew"]
+categories: ["American", Soup or Stew", "Vegetarian"]
 tags: ["soup", "lentils", "tomato", "healthy", "vegetarian"]
 prepTime: "PT15M"
 cookTime: "PT45M"

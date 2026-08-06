@@ -1,7 +1,7 @@
 ---
 title: "Pad Kee Mao (Drunken Noodles)"
 description: "Spicy Thai stir-fried noodles with vegetables and aromatic Thai basil"
-categories: ["Asian"]
+categories: ["Asian", "Vegetarian"]
 tags: ["noodles", "thai", "spicy", "stir-fry", "basil"]
 prepTime: "PT5M"
 cookTime: "PT45M"

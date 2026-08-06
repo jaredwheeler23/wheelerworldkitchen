@@ -1,7 +1,7 @@
 ---
 title: "Naan"
 description: "Classic Indian Break"
-categories: ["Indian", "Side"]
+categories: ["Indian", "Side", "Vegetarian"]
 tags: ["indian", "bread", "naan", "side"]
 prepTime: "PT10M"
 cookTime: "PT10M"

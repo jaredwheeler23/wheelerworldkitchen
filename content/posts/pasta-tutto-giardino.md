@@ -1,7 +1,7 @@
 ---
 title: "Pasta Tutto Giardino (White Sauce Primavera)"
 description: "Garden vegetable pasta in a creamy white sauce with fresh herbs"
-categories: ["Italian", "Pasta"]
+categories: ["Italian", "Pasta", "Vegetarian"]
 tags: ["pasta", "primavera", "white-sauce", "vegetables", "vegetarian"]
 prepTime: "PT45M"
 cookTime: "PT0M"

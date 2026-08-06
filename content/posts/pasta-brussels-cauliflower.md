@@ -1,7 +1,7 @@
 ---
 title: "Pasta with Brussels, Cauliflower and Roasted Bread Crumbs"
 description: "Hearty pasta dish with roasted vegetables, anchovies, and crispy breadcrumbs"
-categories: ["Italian", "Pasta"]
+categories: ["Italian", "Pasta", "Vegetarian"]
 tags: ["pasta", "brussels-sprouts", "cauliflower", "breadcrumbs", "vegetables"]
 prepTime: "PT30M"
 cookTime: "PT0M"

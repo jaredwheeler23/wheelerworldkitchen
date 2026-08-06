@@ -1,7 +1,7 @@
 ---
 title: "Spicy Cauliflower Tomato Chili Gravy"
 description: "Easy Indian Dish to Serve Over Rice"
-categories: ["Indian"]
+categories: ["Indian", "Vegetarian"]
 tags: ["indian", "gravy"]
 prepTime: "PT10M"
 cookTime: "PT25M"

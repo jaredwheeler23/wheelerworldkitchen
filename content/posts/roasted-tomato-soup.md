@@ -1,7 +1,7 @@
 ---
 title: "Roasted Tomato Soup"
 description: "American Comfort Food at its best (serve with ham/cheese sandwiches for a full meal)"
-categories: ["American", "Soup or Stew"]
+categories: ["American", "Soup or Stew", "Vegetarian"]
 tags: ["tomato soup", "soup", "tomato", "roasted"]
 prepTime: "PT15M"
 cookTime: "PT40M"

@@ -1,7 +1,7 @@
 ---
 title: "Creamy Mushroom Quesadillas"
 description: "Vegetarian quesadillas with sautéed mushrooms and creamy cheese filling"
-categories: ["Mexican"]
+categories: ["Mexican", "Vegetarian"]
 tags: ["quesadillas", "mushrooms", "vegetarian", "cheese", "quick"]
 prepTime: "PT30M"
 cookTime: "PT0M"

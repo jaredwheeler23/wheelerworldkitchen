@@ -1,7 +1,7 @@
 ---
 title: "Minestrone Soup (Instant Pot)"
 description: "Classic Italian vegetable soup made easy in the instant pot"
-categories: ["Italian", Soup or Stew"]
+categories: ["Italian", Soup or Stew", "Vegetarian"]
 tags: ["minestrone", "instant-pot", "vegetarian", "pasta", "beans"]
 prepTime: "PT15M"
 cookTime: "PT60M"

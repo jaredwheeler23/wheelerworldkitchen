@@ -1,7 +1,7 @@
 ---
 title: "Pad Thai"
 description: "Well Known Pad Thai, Perfect Street or Casual Food"
-categories: ["Asian"]
+categories: ["Asian", "Vegetarian"]
 tags: ["asian", "pad", "thai", "noodles"]
 prepTime: "PT15M"
 cookTime: "PT15M"
