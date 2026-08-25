@@ -8,7 +8,7 @@ cookTime: "PT20M"
 totalTime: "PT1H05M"
 servings: 4
 rating: 5
-date: 2026-08=25
+date: 2026-08-25
 # image: ""
 ---
 
