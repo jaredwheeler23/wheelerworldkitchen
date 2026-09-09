@@ -33,7 +33,7 @@ date: 2026-07-15
 
 ## Instructions
 
-1. Heat oil and cook onions, celery, carrots, bell pepper, and salt until soft. Add potatoes, water and thyme. Bring to simmer and cook ~5 minutes. Add corn and thyme, simmer and cook another ~5 minutes until all veggies are tender
+1. Heat oil and cook onions, celery, carrots, bell pepper, and salt until soft. Add potatoes, water and thyme. Bring to simmer and cook ~20 minutes. Add corn and thyme, simmer and cook another ~5 minutes until all veggies are tender
 2. Keep simmering. Meanwhile, add two cups of soup into a blender along with milk, cream cheese, shredded cheese. Whirl until smooth
 3. Pour puree back into pot and bring back to temperature gently
 4. Season with salt and pepper to taste. Add dill. Serve with saltines or crackers
