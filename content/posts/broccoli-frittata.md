@@ -20,7 +20,7 @@ date: 2026-09-16
 - 1 sprig (6" long at least) of fresh rosemary chopped (or dried)
 - 4 cups broccoli crowns
 - 6 cloves garlic minced
-- 7 eggs beaten well with 1.8 cup whole milk
+- 7 eggs beaten well with 1/8 cup whole milk
 - 0.75 cup shredded hard cheese (like swiss)
 - salt and pepper to taste
 
