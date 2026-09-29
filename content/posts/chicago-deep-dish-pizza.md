@@ -9,7 +9,7 @@ totalTime: "PT4H00M"
 servings: 4
 rating: 5
 date: 2026-09-29
-# image: ""
+image: "/images/deeppizza2.jpg"
 ---
 
 ## Dough
@@ -65,9 +65,12 @@ date: 2026-09-29
 5. Make a layer or two of toppings, it should be a solid layer whatever you do without holes in it.  Can be multipe toppings thick.
 6. Add all the sauce (if doing a 12 inch pan).
 7. Add thin layer of grated parmesan to top.
+
 image: "/images/deeppizza1.jpg"
+
 8. Trim dough off of top so no extra.  (combine that extra into a smaller dough ball and freeze it for a smaller pizza next time)
 9. Preheat oven to 425 and WAIT until it is fully preheated before adding pizza.
 10. Cook 25-30 min.  Goal is to see top of crust browned but not black.  You will likely have to add tinfoil on top of pizza half way through to slow down the browning process (I did)
 11. Let cool a few minutes and serve.  Carefully cut out slices and then scoop them out one at a time.
+
 image: "/images/deeppizza2.jpg"
