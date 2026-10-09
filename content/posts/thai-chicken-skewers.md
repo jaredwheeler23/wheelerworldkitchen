@@ -16,7 +16,7 @@ date: 2026-10-09
 
 **Chicken Marinade:**
 - 3 lbs chicken, cut roughly into 2-3 inch chunks (think for a skewer)
-- 1 can, full fat cocunut milk (divided, only half of it goes in the marinade)
+- 0.5 can, full fat cocunut milk 
 - 3 tbsp curry powder
 - 6 tsp red curry paste
 - 3 tsp white sugar
@@ -25,6 +25,7 @@ date: 2026-10-09
 
 **Thai Peanut Sauce:**
 - 3 tbsp red curry paste
+- remaining cocunut milk from that can (0.5 can)
 - 3/4 cup good peanut butter (natural is best but any works)
 - 1/3 cup white sugar
 - 3 tsp soy sauce
