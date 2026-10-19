@@ -30,4 +30,5 @@ date: 2026-07-15
 2. Add potatoes, stock and dry seasonings and stir together well.
 3. Close lid and pressure cook high heat and pressure for 10 minutes at said states.  
 4. Press quick release when done and let de-steam before opening.
-5. Serve with optional saltines and bacon bits as toppings.
+5. Bring back to simmer using saute mode and add the heavy cream and kale.  Cook for a couple minutes until kale is soft and then turn off heat.
+6. Serve with optional saltines and bacon bits as toppings.
